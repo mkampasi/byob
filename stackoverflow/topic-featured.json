@@ -1,0 +1,1205 @@
+[
+    {
+        "views": "2k", 
+        "url": "http://stackoverflow.com/questions/32609407/html-input-time-in-24-format", 
+        "tags": [
+            "html"
+        ], 
+        "question": "HTML input time in 24 format", 
+        "answers": "4", 
+        "questionvotes": "13"
+    }, 
+    {
+        "views": "77", 
+        "url": "http://stackoverflow.com/questions/40396834/rotating-around-certain-cgpoint", 
+        "tags": [
+            "objective-c", 
+            "rotation", 
+            "uigesturerecognizer", 
+            "uibezierpath", 
+            "cashapelayer"
+        ], 
+        "question": "Rotating Around Certain CGPoint", 
+        "answers": "0", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "334", 
+        "url": "http://stackoverflow.com/questions/30198465/no-frameworks-in-visual-studio-2015-rc", 
+        "tags": [
+            ".net", 
+            "vb.net", 
+            "visual-studio-2015", 
+            "frameworks"
+        ], 
+        "question": "No Frameworks in Visual Studio 2015 RC", 
+        "answers": "1", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "65", 
+        "url": "http://stackoverflow.com/questions/40392128/nothing-happens-after-url-calling", 
+        "tags": [
+            "selenium-chromedriver", 
+            "nightwatch.js", 
+            "macos-sierra"
+        ], 
+        "question": "nothing happens after .url() calling", 
+        "answers": "1", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "57", 
+        "url": "http://stackoverflow.com/questions/40398736/android-webview-unable-to-upload-captured-image-in-android-5-but-its-working-i", 
+        "tags": [
+            "android", 
+            "webview", 
+            "camera"
+        ], 
+        "question": "Android Webview Unable to Upload Captured Image In android 5+? But its working In some Devices", 
+        "answers": "0", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "112", 
+        "url": "http://stackoverflow.com/questions/40296859/jsonpath-check-hashmap-values-are-present-using-gatling", 
+        "tags": [
+            "scala", 
+            "hashmap", 
+            "gatling", 
+            "hamcrest", 
+            "jsonpath"
+        ], 
+        "question": "JsonPath check hashMap values are present using Gatling?", 
+        "answers": "0", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "70", 
+        "url": "http://stackoverflow.com/questions/40396415/reliable-integration-test-for-code-using-hyperloglog", 
+        "tags": [
+            "integration-testing", 
+            "approximation", 
+            "hyperloglog"
+        ], 
+        "question": "Reliable integration test for code using HyperLogLog?", 
+        "answers": "1", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "25", 
+        "url": "http://stackoverflow.com/questions/40401852/stack-guard-causing-crash-c-memory-allocation-of-vector", 
+        "tags": [
+            "xcode", 
+            "memory-management", 
+            "vector", 
+            "stack", 
+            "malloc"
+        ], 
+        "question": "Stack guard causing crash C++ Memory allocation of Vector", 
+        "answers": "0", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "131", 
+        "url": "http://stackoverflow.com/questions/40377659/wcf-suddenly-hangs-web-get-operation", 
+        "tags": [
+            "c#", 
+            "wcf"
+        ], 
+        "question": "Wcf suddenly hangs (web get operation)", 
+        "answers": "2", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "44", 
+        "url": "http://stackoverflow.com/questions/40320734/force-yapf-to-wrap-lines-after-expression-just-before-for-loop-in-list-comprehen", 
+        "tags": [
+            "python", 
+            "code-formatting", 
+            "yapf"
+        ], 
+        "question": "Force Yapf to wrap lines after expression/just before for-loop in list comprehension", 
+        "answers": "0", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "198", 
+        "url": "http://stackoverflow.com/questions/30627001/udev-not-capturing-information-lot-of-missing-attributes-for-usb-device", 
+        "tags": [
+            "linux", 
+            "usb", 
+            "raspbian", 
+            "udev"
+        ], 
+        "question": "udev not capturing information (lot of missing attributes) for usb device", 
+        "answers": "0", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "246", 
+        "url": "http://stackoverflow.com/questions/34080734/golang-concurrent-map-access-with-range", 
+        "tags": [
+            "data-structures", 
+            "go", 
+            "concurrency"
+        ], 
+        "question": "Golang concurrent map access with range", 
+        "answers": "3", 
+        "questionvotes": "10"
+    }, 
+    {
+        "views": "139", 
+        "url": "http://stackoverflow.com/questions/40363606/how-to-keep-webrtc-datachannel-open-in-phone-browser-inactive-tab", 
+        "tags": [
+            "javascript", 
+            "html5", 
+            "webrtc", 
+            "mobile-website"
+        ], 
+        "question": "How to keep WebRTC dataChannel open in phone browser inactive tab?", 
+        "answers": "2", 
+        "questionvotes": "12"
+    }, 
+    {
+        "views": "77", 
+        "url": "http://stackoverflow.com/questions/40395946/compatibility-of-impredicative-set-and-function-extensionality", 
+        "tags": [
+            "coq"
+        ], 
+        "question": "Compatibility of impredicative Set and function extensionality", 
+        "answers": "0", 
+        "questionvotes": "9"
+    }, 
+    {
+        "views": "33", 
+        "url": "http://stackoverflow.com/questions/39725583/browser-response-on-dragover-html5-drag-and-drop", 
+        "tags": [
+            "html5", 
+            "drag-and-drop", 
+            "html5-draggable"
+        ], 
+        "question": "browser response on dragover - html5 drag and drop", 
+        "answers": "1", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "37", 
+        "url": "http://stackoverflow.com/questions/40349274/changing-firebase-schema-while-multiple-app-versions-are-in-production", 
+        "tags": [
+            "firebase", 
+            "architecture", 
+            "firebase-database"
+        ], 
+        "question": "Changing firebase schema (while multiple app versions are in production)", 
+        "answers": "0", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "107", 
+        "url": "http://stackoverflow.com/questions/36548968/how-to-tell-tumblr-to-stop-making-changes-to-the-markdown-and-or-html-code", 
+        "tags": [
+            "html", 
+            "markdown", 
+            "tumblr", 
+            "mathjax", 
+            "highlightjs"
+        ], 
+        "question": "How to tell tumblr to stop making changes to the markdown and/or HTML code?", 
+        "answers": "0", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "113", 
+        "url": "http://stackoverflow.com/questions/40391812/running-code-when-closing-a-python-daemon", 
+        "tags": [
+            "python", 
+            "linux", 
+            "daemon", 
+            "python-daemon"
+        ], 
+        "question": "Running code when closing a Python daemon", 
+        "answers": "2", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "105", 
+        "url": "http://stackoverflow.com/questions/40396042/how-to-save-scikit-learn-keras-model-into-a-persistence-file-pickle-hd5-json-ya", 
+        "tags": [
+            "python", 
+            "scikit-learn", 
+            "persistence", 
+            "pickle", 
+            "keras"
+        ], 
+        "question": "How to save Scikit-Learn-Keras Model into a Persistence File (pickle/hd5/json/yaml)", 
+        "answers": "1", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "59", 
+        "url": "http://stackoverflow.com/questions/40331957/shift-jis-encoding-for-a-netstandard-library", 
+        "tags": [
+            ".net", 
+            "character-encoding", 
+            ".net-core", 
+            "netstandard"
+        ], 
+        "question": "Shift-JIS encoding for a netstandard library", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "74", 
+        "url": "http://stackoverflow.com/questions/40408229/place-markers-from-json-data-for-google-maps-api-v3", 
+        "tags": [
+            "javascript", 
+            "json", 
+            "google-maps", 
+            "google-maps-api-3"
+        ], 
+        "question": "Place markers from JSON data for Google MAPS API v3", 
+        "answers": "2", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "28", 
+        "url": "http://stackoverflow.com/questions/40373658/show-custom-error-page-after-forcing-logout-in-liferay", 
+        "tags": [
+            "liferay", 
+            "hook", 
+            "liferay-6", 
+            "logout", 
+            "custom-error-pages"
+        ], 
+        "question": "Show custom error page after forcing logout in Liferay", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "91", 
+        "url": "http://stackoverflow.com/questions/40336777/rails-4-append-view-path", 
+        "tags": [
+            "ruby-on-rails", 
+            "ruby"
+        ], 
+        "question": "Rails 4 + append_view_path", 
+        "answers": "0", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "103", 
+        "url": "http://stackoverflow.com/questions/40412726/casperjs-iterating-over-a-list-of-links-using-casper-each", 
+        "tags": [
+            "javascript", 
+            "phantomjs", 
+            "casperjs"
+        ], 
+        "question": "Casperjs iterating over a list of links using casper.each", 
+        "answers": "3", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "72", 
+        "url": "http://stackoverflow.com/questions/40291904/selenium-remote-webdriver-with-remote-profile", 
+        "tags": [
+            "python", 
+            "selenium", 
+            "remotewebdriver"
+        ], 
+        "question": "Selenium Remote Webdriver with remote profile", 
+        "answers": "0", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "32", 
+        "url": "http://stackoverflow.com/questions/40395133/works-on-simulator-fails-on-device-error-watchkit-app-doesnt-contain-any-wat", 
+        "tags": [
+            "objective-c", 
+            "xcode", 
+            "watchkit"
+        ], 
+        "question": "Works on Simulator, fails on device: error: WatchKit App doesn't contain any WatchKit Extensions", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "60", 
+        "url": "http://stackoverflow.com/questions/40340919/angular-2-animation-boolean-trigger", 
+        "tags": [
+            "angular2", 
+            "typescript", 
+            "angular2-animation"
+        ], 
+        "question": "Angular 2 Animation - boolean trigger?", 
+        "answers": "2", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "81", 
+        "url": "http://stackoverflow.com/questions/40414289/add-keydown-keyboard-arrow-up-down-support-for-ajax-live-search-php", 
+        "tags": [
+            "javascript", 
+            "autocomplete"
+        ], 
+        "question": "Add keydown (keyboard arrow up/down) support for AJAX Live Search PHP", 
+        "answers": "2", 
+        "questionvotes": "-2"
+    }, 
+    {
+        "views": "57", 
+        "url": "http://stackoverflow.com/questions/40198815/indirect-php-ini-configuration-per-domain-on-multi-domain-iis-8-5-with-plesk", 
+        "tags": [
+            "php", 
+            "email", 
+            "iis", 
+            "plesk", 
+            "windows-server-2012-r2"
+        ], 
+        "question": "indirect php.ini configuration per-domain on multi-domain IIS 8.5 with Plesk", 
+        "answers": "1", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "28", 
+        "url": "http://stackoverflow.com/questions/40242269/customize-umbraco-webform-template", 
+        "tags": [
+            "umbraco7"
+        ], 
+        "question": "Customize umbraco webform template", 
+        "answers": "0", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "107", 
+        "url": "http://stackoverflow.com/questions/37704341/git-merge-commits-from-a-specific-upstream-release", 
+        "tags": [
+            "git", 
+            "github"
+        ], 
+        "question": "Git merge commits from a specific upstream release", 
+        "answers": "3", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "96", 
+        "url": "http://stackoverflow.com/questions/40369508/how-to-utilize-android-nougats-direct-reply-feature-with-a-notificationlistener", 
+        "tags": [
+            "android", 
+            "android-7.0-nougat", 
+            "notification-listener", 
+            "remote-input"
+        ], 
+        "question": "How to utilize Android Nougat's Direct Reply feature with a NotificationListener?", 
+        "answers": "0", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "82", 
+        "url": "http://stackoverflow.com/questions/40403516/search-client-transactions-data", 
+        "tags": [
+            "paypal", 
+            "paypal-sandbox", 
+            "paypal-rest-sdk", 
+            "paypal-permissions"
+        ], 
+        "question": "Search client transactions data", 
+        "answers": "1", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "79", 
+        "url": "http://stackoverflow.com/questions/40378244/why-1-new-date-instead-of-new-date-gettime-in-ga-snippet", 
+        "tags": [
+            "javascript", 
+            "google-analytics"
+        ], 
+        "question": "Why 1 * new Date() instead of new Date().getTime() in GA snippet?", 
+        "answers": "1", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "67", 
+        "url": "http://stackoverflow.com/questions/40341191/unity3d-working-with-more-than-one-touch-in-ipointerdownhandler", 
+        "tags": [
+            "c#", 
+            "unity3d", 
+            "touch"
+        ], 
+        "question": "Unity3D, working with more than one touch in IPointerDownHandler?", 
+        "answers": "0", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "92", 
+        "url": "http://stackoverflow.com/questions/40423398/git-submodule-is-not-syncing", 
+        "tags": [
+            "git", 
+            "git-submodules", 
+            "git-remote"
+        ], 
+        "question": "git submodule is not syncing", 
+        "answers": "1", 
+        "questionvotes": "-1"
+    }, 
+    {
+        "views": "125", 
+        "url": "http://stackoverflow.com/questions/40323677/using-unity3ds-ipointerdownhandler-approach-but-with-the-whole-screen", 
+        "tags": [
+            "c#", 
+            "unity3d", 
+            "touch"
+        ], 
+        "question": "Using Unity3D's IPointerDownHandler approach, but with \u201cthe whole screen\u201d", 
+        "answers": "1", 
+        "questionvotes": "9"
+    }, 
+    {
+        "views": "475", 
+        "url": "http://stackoverflow.com/questions/40270343/the-variable-refers-to-itself", 
+        "tags": [
+            "php", 
+            "reference"
+        ], 
+        "question": "The variable refers to itself", 
+        "answers": "1", 
+        "questionvotes": "21"
+    }, 
+    {
+        "views": "169", 
+        "url": "http://stackoverflow.com/questions/40413013/flexbox-inside-list-item-doesnt-align-to-the-top-of-the-list-item", 
+        "tags": [
+            "html", 
+            "css", 
+            "css3", 
+            "flexbox"
+        ], 
+        "question": "Flexbox inside list item doesn't align to the top of the list item", 
+        "answers": "3", 
+        "questionvotes": "12"
+    }, 
+    {
+        "views": "189", 
+        "url": "http://stackoverflow.com/questions/40424322/duplicating-a-particle-emitter-effect-in-sprite-kit", 
+        "tags": [
+            "swift", 
+            "sprite-kit", 
+            "skemitternode"
+        ], 
+        "question": "Duplicating a particle emitter effect in Sprite Kit", 
+        "answers": "1", 
+        "questionvotes": "14"
+    }, 
+    {
+        "views": "71", 
+        "url": "http://stackoverflow.com/questions/40398528/android-webview-locale-changes-abruptly-on-android-n", 
+        "tags": [
+            "android", 
+            "android-webview", 
+            "locale", 
+            "android-7.0-nougat", 
+            "nexus-6p"
+        ], 
+        "question": "Android - WebView locale changes abruptly on Android N", 
+        "answers": "1", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "62", 
+        "url": "http://stackoverflow.com/questions/40412289/angular-2-referencing-dynamic-instance-of-contentchild", 
+        "tags": [
+            "angular2", 
+            "angular2-ngcontent"
+        ], 
+        "question": "Angular 2 referencing dynamic instance of @ContentChild", 
+        "answers": "2", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "68", 
+        "url": "http://stackoverflow.com/questions/40434013/how-do-i-clear-my-rails-file-cache", 
+        "tags": [
+            "ruby-on-rails", 
+            "ruby-on-rails-4", 
+            "caching", 
+            "tmp"
+        ], 
+        "question": "How do I clear my Rails file cache?", 
+        "answers": "2", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "67", 
+        "url": "http://stackoverflow.com/questions/40420578/python-requests-post-query-failscookies", 
+        "tags": [
+            "python", 
+            "post", 
+            "web-scraping", 
+            "python-requests"
+        ], 
+        "question": "python requests post query fails:cookies?", 
+        "answers": "1", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "86", 
+        "url": "http://stackoverflow.com/questions/40406131/how-can-i-count-each-udp-packet-sent-out-by-subprocesses", 
+        "tags": [
+            "python", 
+            "linux", 
+            "sockets", 
+            "networking"
+        ], 
+        "question": "How can I count each UDP packet sent out by subprocesses?", 
+        "answers": "4", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "152", 
+        "url": "http://stackoverflow.com/questions/40434678/what-is-the-issue-in-my-calculation-of-multivariate-kernel-estimation", 
+        "tags": [
+            "matlab", 
+            "machine-learning", 
+            "pattern-matching", 
+            "naivebayes", 
+            "kernel-density"
+        ], 
+        "question": "What is the issue in my calculation of Multivariate Kernel Estimation?", 
+        "answers": "1", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "84", 
+        "url": "http://stackoverflow.com/questions/40421034/how-do-i-know-what-options-are-available-as-3rd-argument-of-listmapper-add-in", 
+        "tags": [
+            "symfony2", 
+            "sonata-admin"
+        ], 
+        "question": "How do I know what options are available as 3rd argument of ListMapper->add() in SonataAdminBundle", 
+        "answers": "0", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "195", 
+        "url": "http://stackoverflow.com/questions/39485731/python-running-coverage-on-never-ending-process", 
+        "tags": [
+            "python", 
+            "multithreading", 
+            "python-multiprocessing", 
+            "coverage.py"
+        ], 
+        "question": "python running coverage on never ending process", 
+        "answers": "3", 
+        "questionvotes": "10"
+    }, 
+    {
+        "views": "51", 
+        "url": "http://stackoverflow.com/questions/40447074/wit-ai-api-converse-doesnt-respond-with-bookmarked-action", 
+        "tags": [
+            "wit.ai", 
+            "facebook-chatbot"
+        ], 
+        "question": "Wit.ai API converse doesn't respond with bookmarked action", 
+        "answers": "0", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "85", 
+        "url": "http://stackoverflow.com/questions/40408701/sql-agent-job-failure-with-ssis-package-to-access-db", 
+        "tags": [
+            "sql-server", 
+            "ssis", 
+            "oledb", 
+            "sql-agent"
+        ], 
+        "question": "SQL Agent job failure with SSIS package to Access DB", 
+        "answers": "2", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "112", 
+        "url": "http://stackoverflow.com/questions/40468855/spring-integration-abstractinboundfilesynchronizer-not-updating-file", 
+        "tags": [
+            "java", 
+            "spring", 
+            "spring-integration-sftp"
+        ], 
+        "question": "Spring integration - AbstractInboundFileSynchronizer not updating file", 
+        "answers": "1", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "41", 
+        "url": "http://stackoverflow.com/questions/40428423/how-to-make-nspopover-properly-follow-the-mouse-pointer-and-ignore-mouse-events", 
+        "tags": [
+            "osx", 
+            "cocoa", 
+            "nswindow", 
+            "appkit", 
+            "nspopover"
+        ], 
+        "question": "How to make NSPopover properly follow the mouse pointer and ignore mouse events?", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "28", 
+        "url": "http://stackoverflow.com/questions/40411088/pinterest-data-pinmedia-does-not-override-source", 
+        "tags": [
+            "pinterest"
+        ], 
+        "question": "Pinterest : data-pinmedia does not override source", 
+        "answers": "1", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "126", 
+        "url": "http://stackoverflow.com/questions/29795216/call-wcf-with-windows-authentication-from-swagger-ui", 
+        "tags": [
+            "wcf", 
+            "rest", 
+            "swagger-ui", 
+            "swagger-editor"
+        ], 
+        "question": "Call WCF with windows authentication from SWAGGER-UI", 
+        "answers": "0", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "65", 
+        "url": "http://stackoverflow.com/questions/40416305/php-ajax-bash-gaining-access-to-api-system", 
+        "tags": [
+            "php", 
+            "ajax", 
+            "bash", 
+            "curl"
+        ], 
+        "question": "PHP/AJAX BASH Gaining Access To API SYSTEM", 
+        "answers": "2", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "33", 
+        "url": "http://stackoverflow.com/questions/40405358/accessing-java-jetty-server-on-port-9999-using-vagrant-on-local-machine", 
+        "tags": [
+            "vagrant", 
+            "jetty", 
+            "portforwarding", 
+            "puphpet"
+        ], 
+        "question": "Accessing Java jetty server on port 9999 using vagrant on local machine", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "18", 
+        "url": "http://stackoverflow.com/questions/40400377/relation-between-transminnion-power-and-detection-distance", 
+        "tags": [
+            "ibeacon", 
+            "ibeacon-android", 
+            "beacon"
+        ], 
+        "question": "Relation between transminnion power and detection distance", 
+        "answers": "0", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "28", 
+        "url": "http://stackoverflow.com/questions/40400568/how-to-show-quantitative-results-in-jenkins", 
+        "tags": [
+            "jenkins"
+        ], 
+        "question": "how to show quantitative results in Jenkins", 
+        "answers": "1", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "70", 
+        "url": "http://stackoverflow.com/questions/40406339/ios-10-silent-push-notification-not-triggering-backgrounded-app", 
+        "tags": [
+            "apple-push-notifications", 
+            "ios10"
+        ], 
+        "question": "iOS 10 silent push notification not triggering backgrounded app", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "118", 
+        "url": "http://stackoverflow.com/questions/39985856/getting-client-certificate-to-work-for-mutual-authentication-using-swift-3-and-a", 
+        "tags": [
+            "ios", 
+            "ssl", 
+            "swift3", 
+            "alamofire"
+        ], 
+        "question": "Getting client certificate to work for mutual authentication using Swift 3 and Alamofire 4", 
+        "answers": "2", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "45", 
+        "url": "http://stackoverflow.com/questions/40428943/weblogic-12c-how-to-pass-the-active-profile-to-a-spring-boot-application", 
+        "tags": [
+            "spring", 
+            "spring-boot", 
+            "weblogic", 
+            "weblogic12c"
+        ], 
+        "question": "Weblogic 12c : How to pass the \u201cactive profile\u201d to a Spring Boot application?", 
+        "answers": "3", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "52", 
+        "url": "http://stackoverflow.com/questions/40339563/conditionally-change-color-of-files-in-qlistview-connected-to-qfilesystemmodel", 
+        "tags": [
+            "python", 
+            "pyqt", 
+            "qitemdelegate", 
+            "qfilesystemmodel"
+        ], 
+        "question": "Conditionally change color of files in QListView connected to QFileSystemModel", 
+        "answers": "1", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "93", 
+        "url": "http://stackoverflow.com/questions/40054357/include-multiple-headers-in-python-requests", 
+        "tags": [
+            "python", 
+            "python-2.7", 
+            "curl", 
+            "python-requests"
+        ], 
+        "question": "Include multiple headers in python requests", 
+        "answers": "1", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "198", 
+        "url": "http://stackoverflow.com/questions/40398746/message-from-debugger-terminated-due-to-memory-issue", 
+        "tags": [
+            "ios", 
+            "swift", 
+            "mapbox", 
+            "mapbox-gl", 
+            "mapbox-marker"
+        ], 
+        "question": "Message from debugger: Terminated due to memory issue", 
+        "answers": "4", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "42", 
+        "url": "http://stackoverflow.com/questions/40405941/how-to-use-parse-ios-sdk-to-create-service-for-other-developers", 
+        "tags": [
+            "ios", 
+            "parse.com", 
+            "parse-server"
+        ], 
+        "question": "How to use Parse iOS SDK to create service for other developers?", 
+        "answers": "1", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "42", 
+        "url": "http://stackoverflow.com/questions/40382767/meteor-update-crashes-minisat-out-cannot-enlarge-memory-arrays", 
+        "tags": [
+            "meteor"
+        ], 
+        "question": "Meteor update crashes - \u201cMINISAT-out: Cannot enlarge memory arrays.\u201d", 
+        "answers": "1", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "398", 
+        "url": "http://stackoverflow.com/questions/40431599/efficiently-dividing-unsigned-value-by-a-power-of-two-rounding-up", 
+        "tags": [
+            "c", 
+            "optimization", 
+            "x86", 
+            "bit-manipulation", 
+            "division"
+        ], 
+        "question": "Efficiently dividing unsigned value by a power of two, rounding up", 
+        "answers": "9", 
+        "questionvotes": "15"
+    }, 
+    {
+        "views": "48", 
+        "url": "http://stackoverflow.com/questions/40401688/django-all-auth-and-custom-form", 
+        "tags": [
+            "django", 
+            "django-allauth", 
+            "django-registration"
+        ], 
+        "question": "Django all_auth and custom form", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "321", 
+        "url": "http://stackoverflow.com/questions/40381680/out-of-line-definition-of-template-function-vs-in-class", 
+        "tags": [
+            "c++", 
+            "templates", 
+            "code-readability"
+        ], 
+        "question": "Out of line definition of template function vs in class", 
+        "answers": "3", 
+        "questionvotes": "14"
+    }, 
+    {
+        "views": "67", 
+        "url": "http://stackoverflow.com/questions/40414112/rewriteurl-in-phoenix-plug-cowboy", 
+        "tags": [
+            "elixir", 
+            "phoenix-framework", 
+            "cowboy", 
+            "plug"
+        ], 
+        "question": "RewriteUrl in Phoenix / Plug / Cowboy?", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "126", 
+        "url": "http://stackoverflow.com/questions/40365631/fluent-validation-not-accepting-numbers-with-thousands-separator", 
+        "tags": [
+            "c#", 
+            "asp.net-mvc", 
+            "fluentvalidation"
+        ], 
+        "question": "Fluent Validation not accepting numbers with thousands separator", 
+        "answers": "1", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "116", 
+        "url": "http://stackoverflow.com/questions/40400648/how-lombok-generates-code-onto-existing-class", 
+        "tags": [
+            "java", 
+            "android", 
+            "annotations", 
+            "lombok"
+        ], 
+        "question": "How Lombok generates code onto existing class?", 
+        "answers": "2", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "72", 
+        "url": "http://stackoverflow.com/questions/40217785/ie-creates-unnecessary-offset-on-menu-subitems", 
+        "tags": [
+            "html", 
+            "css", 
+            "twitter-bootstrap", 
+            "internet-explorer"
+        ], 
+        "question": "IE creates unnecessary offset on menu subitems", 
+        "answers": "1", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "35", 
+        "url": "http://stackoverflow.com/questions/40409163/python-spark-can-not-access-http-server-in-executor", 
+        "tags": [
+            "apache-spark", 
+            "pyspark"
+        ], 
+        "question": "python spark can not access http server in executor", 
+        "answers": "1", 
+        "questionvotes": "-1"
+    }, 
+    {
+        "views": "84", 
+        "url": "http://stackoverflow.com/questions/40383347/is-there-an-issue-opening-a-https-page-within-an-frame", 
+        "tags": [
+            "java", 
+            "url", 
+            "https", 
+            "hyperlink"
+        ], 
+        "question": "Is there an issue opening a https page within an frame", 
+        "answers": "2", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "31", 
+        "url": "http://stackoverflow.com/questions/40417927/meteor-file-upload-error-on-heroku-storage-name-already-exists-tempstore", 
+        "tags": [
+            "node.js", 
+            "meteor", 
+            "heroku", 
+            "amazon-s3"
+        ], 
+        "question": "Meteor file upload error on heroku - Storage name already exists: \u201c_tempstore\u201d", 
+        "answers": "0", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "176", 
+        "url": "http://stackoverflow.com/questions/40417127/clicking-on-notification-doesnt-open-mentioned-activity", 
+        "tags": [
+            "java", 
+            "android", 
+            "push-notification", 
+            "firebase-cloud-messaging"
+        ], 
+        "question": "Clicking on notification doesn't open mentioned activity", 
+        "answers": "7", 
+        "questionvotes": "10"
+    }, 
+    {
+        "views": "120", 
+        "url": "http://stackoverflow.com/questions/40433395/best-approach-for-composing-uiviews-to-create-complex-views", 
+        "tags": [
+            "ios", 
+            "cocoa-touch", 
+            "design", 
+            "uiview", 
+            "uiviewcontroller"
+        ], 
+        "question": "Best approach for composing UIViews to create complex views?", 
+        "answers": "1", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "2k", 
+        "url": "http://stackoverflow.com/questions/34474060/bittorrent-download-not-starting", 
+        "tags": [
+            "php", 
+            "laravel", 
+            "laravel-5", 
+            "bittorrent"
+        ], 
+        "question": "BitTorrent: Download not starting", 
+        "answers": "0", 
+        "questionvotes": "52"
+    }, 
+    {
+        "views": "25", 
+        "url": "http://stackoverflow.com/questions/40422751/user-defined-boost-lib-in-netbeans-c-projects", 
+        "tags": [
+            "boost", 
+            "boost-build"
+        ], 
+        "question": "User defined boost lib in netbeans c++ projects?", 
+        "answers": "0", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "24", 
+        "url": "http://stackoverflow.com/questions/40421248/why-is-paddle-throwing-errors-when-feeding-in-a-dense-vector-sequence-to-a-seqto", 
+        "tags": [
+            "python", 
+            "c++", 
+            "deep-learning", 
+            "paddle-paddle", 
+            "sequence-to-sequence"
+        ], 
+        "question": "Why is Paddle throwing errors when feeding in a dense_vector_sequence to a SeqToseq model?", 
+        "answers": "0", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "113", 
+        "url": "http://stackoverflow.com/questions/40373414/counting-bigrams-real-fast-with-or-without-multiprocessing-python", 
+        "tags": [
+            "python", 
+            "optimization", 
+            "mapreduce", 
+            "counter", 
+            "n-gram"
+        ], 
+        "question": "Counting bigrams real fast (with or without multiprocessing) - python", 
+        "answers": "2", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "66", 
+        "url": "http://stackoverflow.com/questions/40424536/intercept-eventemitters-with-jasmine", 
+        "tags": [
+            "javascript", 
+            "jasmin"
+        ], 
+        "question": "Intercept EventEmitters with Jasmine", 
+        "answers": "1", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "19", 
+        "url": "http://stackoverflow.com/questions/40426417/javascript-equivalent-for-python-ctypes-with-node-gyp", 
+        "tags": [
+            "node.js", 
+            "dll", 
+            "node-gyp"
+        ], 
+        "question": "javascript equivalent for python ctypes with node-gyp", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "51", 
+        "url": "http://stackoverflow.com/questions/40397917/what-are-the-consequences-when-setting-enforce-valid-basic-auth-credentials-to-f", 
+        "tags": [
+            "java", 
+            "authentication", 
+            "spring-boot", 
+            "weblogic"
+        ], 
+        "question": "What are the consequences when setting enforce-valid-basic-auth-credentials to false on weblogic server", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "154", 
+        "url": "http://stackoverflow.com/questions/40405728/encoding-variable-length-utf8-byte-array-in-java", 
+        "tags": [
+            "java", 
+            "encoding", 
+            "utf-8", 
+            "bluetooth"
+        ], 
+        "question": "Encoding variable-length utf8 byte array in Java", 
+        "answers": "3", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "89", 
+        "url": "http://stackoverflow.com/questions/40419144/adding-wsdl-to-project-creates-only-types-no-entry-to-app-config-and-throws-thr", 
+        "tags": [
+            "c#", 
+            "web-services", 
+            "soap", 
+            "visual-studio-2013", 
+            "wsdl"
+        ], 
+        "question": "Adding WSDL to project creates only types, no entry to app.config and throws three errors", 
+        "answers": "1", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "87", 
+        "url": "http://stackoverflow.com/questions/40257152/is-there-anyway-google-app-engine-apps-can-communicate-or-control-machine-learni", 
+        "tags": [
+            "python", 
+            "google-app-engine", 
+            "machine-learning", 
+            "tensorflow", 
+            "google-cloud-ml"
+        ], 
+        "question": "Is there anyway Google App Engine apps can communicate or control Machine Learning models or tasks?", 
+        "answers": "1", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "127", 
+        "url": "http://stackoverflow.com/questions/40431114/why-is-this-custom-backstage-ui-for-word-not-displaying-its-user-interface", 
+        "tags": [
+            "c#", 
+            ".net", 
+            "xml", 
+            "office-addins", 
+            "word-addins"
+        ], 
+        "question": "Why is this custom backstage UI for Word not displaying its user interface?", 
+        "answers": "1", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "23", 
+        "url": "http://stackoverflow.com/questions/40412871/how-to-get-random-numbers-out-of-dieharder-test-suite", 
+        "tags": [
+            "ubuntu", 
+            "math", 
+            "cryptography", 
+            "statistics"
+        ], 
+        "question": "How to get random numbers OUT of Dieharder test suite?", 
+        "answers": "2", 
+        "questionvotes": "-1"
+    }, 
+    {
+        "views": "42", 
+        "url": "http://stackoverflow.com/questions/40423867/linux-pyodbc-freetds-mssql-server-stopped-working-after-some-time", 
+        "tags": [
+            "python", 
+            "linux", 
+            "pyodbc", 
+            "freetds", 
+            "unixodbc"
+        ], 
+        "question": "linux pyodbc freeTDS mssql server stopped working after some time", 
+        "answers": "0", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "55", 
+        "url": "http://stackoverflow.com/questions/40415320/propagating-specific-touch-event-to-view-underneath", 
+        "tags": [
+            "ios", 
+            "objective-c", 
+            "iphone", 
+            "uiview"
+        ], 
+        "question": "Propagating specific touch event to view underneath", 
+        "answers": "2", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "62", 
+        "url": "http://stackoverflow.com/questions/40377351/identityserver-choose-userservice-for-each-client", 
+        "tags": [
+            "c#", 
+            "identityserver3", 
+            "openid-connect"
+        ], 
+        "question": "IdentityServer choose UserService for each Client", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "53", 
+        "url": "http://stackoverflow.com/questions/40431343/redux-observable-multiple-actions-after-1st-dispatch", 
+        "tags": [
+            "redux", 
+            "fetch", 
+            "rxjs", 
+            "behaviorsubject", 
+            "redux-observable"
+        ], 
+        "question": "redux-observable multiple actions after 1st dispatch", 
+        "answers": "1", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "63", 
+        "url": "http://stackoverflow.com/questions/40433011/how-to-play-a-sound-notification-with-chrome-for-android-with-javascript", 
+        "tags": [
+            "javascript", 
+            "android", 
+            "html5", 
+            "google-chrome", 
+            "audio"
+        ], 
+        "question": "How to play a sound notification with Chrome for Android with Javascript?", 
+        "answers": "3", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "118", 
+        "url": "http://stackoverflow.com/questions/40422760/angular2-lazy-loading-modules-how-to-create-a-build-package-with-systemjs-build", 
+        "tags": [
+            "angular2", 
+            "gulp", 
+            "lazy-loading", 
+            "systemjs", 
+            "systemjs-builder"
+        ], 
+        "question": "Angular2 lazy loading modules: how to create a build package with SystemJS Builder?", 
+        "answers": "2", 
+        "questionvotes": "3"
+    }
+]

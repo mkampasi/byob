@@ -1,0 +1,1163 @@
+[
+    {
+        "views": "12k", 
+        "url": "http://stackoverflow.com/questions/40483266/why-is-a-256-different-than-a-0xff", 
+        "tags": [
+            "c++", 
+            "optimization"
+        ], 
+        "question": "Why is (a % 256) different than (a & 0xFF)?", 
+        "answers": "5", 
+        "questionvotes": "107"
+    }, 
+    {
+        "views": "5k", 
+        "url": "http://stackoverflow.com/questions/40447195/can-i-hint-the-optimizer-by-giving-the-range-of-an-integer", 
+        "tags": [
+            "c++", 
+            "optimization", 
+            "integer", 
+            "range", 
+            "compiler-optimization"
+        ], 
+        "question": "Can I hint the optimizer by giving the range of an integer?", 
+        "answers": "4", 
+        "questionvotes": "142"
+    }, 
+    {
+        "views": "3k", 
+        "url": "http://stackoverflow.com/questions/40530101/why-is-translatey-50-needed-to-center-an-element-which-is-at-top-50", 
+        "tags": [
+            "html", 
+            "css", 
+            "css3"
+        ], 
+        "question": "Why is translateY(-50%) needed to center an element which is at top: 50%?", 
+        "answers": "4", 
+        "questionvotes": "35"
+    }, 
+    {
+        "views": "3k", 
+        "url": "http://stackoverflow.com/questions/40462612/moving-a-member-function-from-base-class-to-derived-class-breaks-the-program-for", 
+        "tags": [
+            "c++", 
+            "c++11", 
+            "templates", 
+            "namespaces", 
+            "gotchas"
+        ], 
+        "question": "Moving a member function from base class to derived class breaks the program for no obvious reason", 
+        "answers": "4", 
+        "questionvotes": "45"
+    }, 
+    {
+        "views": "2k", 
+        "url": "http://stackoverflow.com/questions/40452330/removal-of-negative-numbers-from-an-array-in-java", 
+        "tags": [
+            "java", 
+            "algorithm", 
+            "time-complexity"
+        ], 
+        "question": "Removal of negative numbers from an array in Java", 
+        "answers": "6", 
+        "questionvotes": "16"
+    }, 
+    {
+        "views": "4k", 
+        "url": "http://stackoverflow.com/questions/40503509/how-exactly-can-and-operators-be-interpreted", 
+        "tags": [
+            "c#", 
+            "operators"
+        ], 
+        "question": "How EXACTLY can += and -= operators be interpreted?", 
+        "answers": "4", 
+        "questionvotes": "29"
+    }, 
+    {
+        "views": "2k", 
+        "url": "http://stackoverflow.com/questions/40481286/why-does-the-size-of-this-stdstring-change-when-characters-are-changed", 
+        "tags": [
+            "c++", 
+            "string", 
+            "escaping"
+        ], 
+        "question": "Why does the size of this std::string change, when characters are changed?", 
+        "answers": "2", 
+        "questionvotes": "23"
+    }, 
+    {
+        "views": "961", 
+        "url": "http://stackoverflow.com/questions/40484293/stdarg-and-printf-in-c", 
+        "tags": [
+            "c", 
+            "gcc", 
+            "printf", 
+            "variadic-functions"
+        ], 
+        "question": "stdarg and printf() in C", 
+        "answers": "8", 
+        "questionvotes": "14"
+    }, 
+    {
+        "views": "2k", 
+        "url": "http://stackoverflow.com/questions/40456694/should-a-constructor-ever-be-called-on-assignment", 
+        "tags": [
+            "c++"
+        ], 
+        "question": "Should a constructor ever be called on assignment?", 
+        "answers": "3", 
+        "questionvotes": "24"
+    }, 
+    {
+        "views": "822", 
+        "url": "http://stackoverflow.com/questions/40544030/two-dropdown-values-from-an-array-using-javascript", 
+        "tags": [
+            "javascript", 
+            "jquery", 
+            "html", 
+            "arrays"
+        ], 
+        "question": "Two dropdown values from an array using JavaScript", 
+        "answers": "6", 
+        "questionvotes": "15"
+    }, 
+    {
+        "views": "1k", 
+        "url": "http://stackoverflow.com/questions/40532404/is-calling-a-function-with-local-side-effects-twice-in-the-same-expression-undef", 
+        "tags": [
+            "c", 
+            "undefined-behavior"
+        ], 
+        "question": "Is calling a function with local side-effects twice in the same expression undefined behavior?", 
+        "answers": "5", 
+        "questionvotes": "19"
+    }, 
+    {
+        "views": "2k", 
+        "url": "http://stackoverflow.com/questions/40522841/performance-difference-in-between-windows-and-linux-using-intel-compiler-lookin", 
+        "tags": [
+            "c++", 
+            "assembly", 
+            "intel", 
+            "vtune"
+        ], 
+        "question": "Performance difference in between Windows and Linux using intel compiler: looking at the assembly", 
+        "answers": "2", 
+        "questionvotes": "51"
+    }, 
+    {
+        "views": "742", 
+        "url": "http://stackoverflow.com/questions/40473943/vagrant-box-could-not-be-found-or-could-not-be-accessed-in-the-remote-catalog", 
+        "tags": [
+            "osx", 
+            "laravel", 
+            "vagrant", 
+            "virtualbox"
+        ], 
+        "question": "Vagrant box could not be found or could not be accessed in the remote catalog - incompatible curl version", 
+        "answers": "1", 
+        "questionvotes": "16"
+    }, 
+    {
+        "views": "2k", 
+        "url": "http://stackoverflow.com/questions/40501769/multiple-using-of-and-operands", 
+        "tags": [
+            "c#", 
+            "entity-framework"
+        ], 
+        "question": "Multiple using of || and && operands", 
+        "answers": "4", 
+        "questionvotes": "9"
+    }, 
+    {
+        "views": "1k", 
+        "url": "http://stackoverflow.com/questions/40465477/structs-with-enums-are-different-in-c-and-c-why", 
+        "tags": [
+            "c++", 
+            "c", 
+            "struct", 
+            "arduino", 
+            "stm32"
+        ], 
+        "question": "Structs with enums are different in C and C++, why?", 
+        "answers": "3", 
+        "questionvotes": "10"
+    }, 
+    {
+        "views": "438", 
+        "url": "http://stackoverflow.com/questions/40523355/how-do-i-avoid-referring-to-all-state-variables-when-updating-only-a-few", 
+        "tags": [
+            "haskell", 
+            "state-monad"
+        ], 
+        "question": "How do I avoid referring to all state variables when updating only a few?", 
+        "answers": "3", 
+        "questionvotes": "12"
+    }, 
+    {
+        "views": "865", 
+        "url": "http://stackoverflow.com/questions/40451840/meaning-of-double-bracket-foo-type-name-syntax-in-c", 
+        "tags": [
+            "c++", 
+            "syntax", 
+            "brackets"
+        ], 
+        "question": "Meaning of double bracket \u201c[[foo()]] type name;\u201d syntax in c++?", 
+        "answers": "1", 
+        "questionvotes": "21"
+    }, 
+    {
+        "views": "660", 
+        "url": "http://stackoverflow.com/questions/40449494/why-is-using-let-inside-a-for-loop-so-slow-on-chrome", 
+        "tags": [
+            "javascript", 
+            "performance", 
+            "google-chrome", 
+            "ecmascript-6", 
+            "let"
+        ], 
+        "question": "Why is using `let` inside a `for` loop so slow on Chrome?", 
+        "answers": "3", 
+        "questionvotes": "18"
+    }, 
+    {
+        "views": "852", 
+        "url": "http://stackoverflow.com/questions/40546695/facebook-sdk-js-returns-404-error", 
+        "tags": [
+            "javascript", 
+            "facebook", 
+            "facebook-javascript-sdk"
+        ], 
+        "question": "Facebook sdk.js returns 404 error", 
+        "answers": "3", 
+        "questionvotes": "12"
+    }, 
+    {
+        "views": "765", 
+        "url": "http://stackoverflow.com/questions/40477731/mac-osx-sierra-cant-add-vagrant-box-laravel-homestead-due-to-needing-curl-v-9", 
+        "tags": [
+            "osx", 
+            "laravel", 
+            "vagrant", 
+            "homestead"
+        ], 
+        "question": "mac OSX Sierra, can't add vagrant box laravel/homestead, due to needing cURL v 9.0.0 or later, and libcurl.4.dylib providing v7.0.0", 
+        "answers": "1", 
+        "questionvotes": "9"
+    }, 
+    {
+        "views": "144", 
+        "url": "http://stackoverflow.com/questions/40546553/call-function-based-on-template-argument-type", 
+        "tags": [
+            "c++", 
+            "c++11", 
+            "visual-c++", 
+            "c++14"
+        ], 
+        "question": "Call function based on template argument type", 
+        "answers": "6", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "1k", 
+        "url": "http://stackoverflow.com/questions/40519635/ionic-serve-cannot-read-property-hasownproperty-of-undefined-cli-v2-1-7", 
+        "tags": [
+            "ionic-framework", 
+            "macos-sierra"
+        ], 
+        "question": "ionic serve Cannot read property 'hasOwnProperty' of undefined (CLI v2.1.7)", 
+        "answers": "4", 
+        "questionvotes": "12"
+    }, 
+    {
+        "views": "271", 
+        "url": "http://stackoverflow.com/questions/40460701/why-cant-i-define-an-array-size-using-define-constant", 
+        "tags": [
+            "c", 
+            "arrays", 
+            "c-preprocessor"
+        ], 
+        "question": "Why can't I define an array size using #define constant?", 
+        "answers": "3", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "634", 
+        "url": "http://stackoverflow.com/questions/40543356/modify-solution-to-use-a-single-loop", 
+        "tags": [
+            "java", 
+            "math", 
+            "nested-loops"
+        ], 
+        "question": "Modify solution to use a single loop", 
+        "answers": "4", 
+        "questionvotes": "11"
+    }, 
+    {
+        "views": "310", 
+        "url": "http://stackoverflow.com/questions/40545922/is-there-a-python-shortcut-for-an-init-that-simply-sets-properties", 
+        "tags": [
+            "python", 
+            "python-2.7", 
+            "class", 
+            "shortcut"
+        ], 
+        "question": "Is there a Python shortcut for an __init__ that simply sets properties? [on hold]", 
+        "answers": "4", 
+        "questionvotes": "7"
+    }, 
+    {
+        "views": "539", 
+        "url": "http://stackoverflow.com/questions/40499709/how-is-a-vector-of-vector-aligned-in-memory", 
+        "tags": [
+            "c++", 
+            "memory-management", 
+            "vector"
+        ], 
+        "question": "How is a Vector of Vector aligned in memory?", 
+        "answers": "3", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "556", 
+        "url": "http://stackoverflow.com/questions/40489513/cache-friendliness-stdlist-vs-stdvector", 
+        "tags": [
+            "c++", 
+            "list", 
+            "c++11", 
+            "vector", 
+            "visual-studio-2015"
+        ], 
+        "question": "Cache-friendliness std::list vs std::vector", 
+        "answers": "5", 
+        "questionvotes": "9"
+    }, 
+    {
+        "views": "91", 
+        "url": "http://stackoverflow.com/questions/40531795/how-can-i-use-colon-in-variable", 
+        "tags": [
+            "python", 
+            "list", 
+            "python-3.x", 
+            "variables"
+        ], 
+        "question": "How can I use colon (:) in variable [on hold]", 
+        "answers": "2", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "113", 
+        "url": "http://stackoverflow.com/questions/40536569/where-does-the-name-section-come-from-for-a-partially-applied-infix-operator", 
+        "tags": [
+            "haskell", 
+            "category-theory"
+        ], 
+        "question": "Where does the name \u201csection\u201d come from for a partially applied infix operator?", 
+        "answers": "2", 
+        "questionvotes": "11"
+    }, 
+    {
+        "views": "190", 
+        "url": "http://stackoverflow.com/questions/40449184/java-precedence-for-multiple-and-operators", 
+        "tags": [
+            "java", 
+            "evaluation", 
+            "arithmetic-expressions"
+        ], 
+        "question": "Java precedence for multiple + and - operators", 
+        "answers": "4", 
+        "questionvotes": "9"
+    }, 
+    {
+        "views": "166", 
+        "url": "http://stackoverflow.com/questions/40514139/check-if-an-item-is-in-a-nested-list", 
+        "tags": [
+            "python", 
+            "list"
+        ], 
+        "question": "Check if an item is in a nested list", 
+        "answers": "5", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "97", 
+        "url": "http://stackoverflow.com/questions/40472299/meaning-of-0-0-in-python", 
+        "tags": [
+            "python", 
+            "string", 
+            "python-2.7", 
+            "python-3.x"
+        ], 
+        "question": "Meaning of '\\0\\0' in Python?", 
+        "answers": "3", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "176", 
+        "url": "http://stackoverflow.com/questions/40510195/ocaml-variance-a-a-and-invariance", 
+        "tags": [
+            "ocaml", 
+            "covariance", 
+            "contravariance", 
+            "invariance"
+        ], 
+        "question": "OCaml variance (+'a, -'a) and invariance", 
+        "answers": "2", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "598", 
+        "url": "http://stackoverflow.com/questions/40447401/why-allow-shared-ptrtn", 
+        "tags": [
+            "c++", 
+            "stl", 
+            "shared-ptr", 
+            "c++1z"
+        ], 
+        "question": "Why allow shared_ptr<T[N]>?", 
+        "answers": "2", 
+        "questionvotes": "19"
+    }, 
+    {
+        "views": "124", 
+        "url": "http://stackoverflow.com/questions/40482822/delegates-are-immutable-but-how", 
+        "tags": [
+            "c#", 
+            "delegates"
+        ], 
+        "question": "Delegates are immutable but how?", 
+        "answers": "4", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "169", 
+        "url": "http://stackoverflow.com/questions/40492756/delphi-tdictionary-inheritance", 
+        "tags": [
+            "delphi", 
+            "generics", 
+            "inheritance"
+        ], 
+        "question": "Delphi Tdictionary inheritance", 
+        "answers": "2", 
+        "questionvotes": "14"
+    }, 
+    {
+        "views": "98", 
+        "url": "http://stackoverflow.com/questions/40496334/check-if-string-has-letter-in-uppercase-or-lowercase", 
+        "tags": [
+            "c++", 
+            "string", 
+            "lowercase"
+        ], 
+        "question": "Check if string has letter in uppercase or lowercase", 
+        "answers": "3", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "150", 
+        "url": "http://stackoverflow.com/questions/40446757/which-data-structure-in-c-allow-me-to-store-lines-and-append-lines-easily", 
+        "tags": [
+            "c", 
+            "arrays", 
+            "data-structures", 
+            "linked-list"
+        ], 
+        "question": "Which data structure in C allow me to store lines and append lines easily?", 
+        "answers": "6", 
+        "questionvotes": "7"
+    }, 
+    {
+        "views": "103", 
+        "url": "http://stackoverflow.com/questions/40537516/ensure-deferred-execution-will-be-executed-only-once-or-else", 
+        "tags": [
+            "c#", 
+            "linq", 
+            "lambda", 
+            "deferred-execution"
+        ], 
+        "question": "Ensure deferred execution will be executed only once or else", 
+        "answers": "3", 
+        "questionvotes": "7"
+    }, 
+    {
+        "views": "59", 
+        "url": "http://stackoverflow.com/questions/40557223/converting-two-digit-integer-into-single-digit-inside-a-python-list", 
+        "tags": [
+            "python", 
+            "python-2.7", 
+            "python-3.x"
+        ], 
+        "question": "converting two digit integer into single digit inside a python list?", 
+        "answers": "4", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "49", 
+        "url": "http://stackoverflow.com/questions/40556140/how-to-delete-first-x-lines-based-on-minimum-lines-in-file", 
+        "tags": [
+            "linux", 
+            "bash", 
+            "unix", 
+            "awk", 
+            "sed"
+        ], 
+        "question": "How To Delete First X Lines Based On Minimum Lines In File", 
+        "answers": "6", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "98", 
+        "url": "http://stackoverflow.com/questions/40481549/how-to-make-a-distinct-list-of-integers-from-a-list-of-objects", 
+        "tags": [
+            "c#"
+        ], 
+        "question": "How to make a distinct list of integers from a list of objects?", 
+        "answers": "4", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "84", 
+        "url": "http://stackoverflow.com/questions/40535359/java-random-arrays", 
+        "tags": [
+            "java", 
+            "arrays"
+        ], 
+        "question": "Java Random Arrays", 
+        "answers": "7", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "138", 
+        "url": "http://stackoverflow.com/questions/40446658/javascript-add-transition-between-displaynone-and-displayblock", 
+        "tags": [
+            "javascript", 
+            "transition", 
+            "display"
+        ], 
+        "question": "JavaScript - add transition between display:none and display:block", 
+        "answers": "7", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "65", 
+        "url": "http://stackoverflow.com/questions/40485740/how-to-do-mutiple-css-class-in-one-line-javascript-code", 
+        "tags": [
+            "javascript", 
+            "html", 
+            "css", 
+            "class"
+        ], 
+        "question": "How to do mutiple css class in one line javascript code", 
+        "answers": "2", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "94", 
+        "url": "http://stackoverflow.com/questions/40551751/reading-in-a-string-with-spaces-in-c", 
+        "tags": [
+            "c", 
+            "scanf", 
+            "fgets", 
+            "sscanf"
+        ], 
+        "question": "Reading in a string with spaces in C", 
+        "answers": "4", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "118", 
+        "url": "http://stackoverflow.com/questions/40512397/check-if-a-template-argument-is-a-stdvectortiterator", 
+        "tags": [
+            "c++", 
+            "templates", 
+            "vector", 
+            "iterator"
+        ], 
+        "question": "Check if a template argument is a std::vector<T>::iterator", 
+        "answers": "4", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "89", 
+        "url": "http://stackoverflow.com/questions/40484985/flatten-a-mapinteger-liststring-to-mapstring-integer-with-stream-and-lam", 
+        "tags": [
+            "java", 
+            "lambda", 
+            "java-8", 
+            "java-stream"
+        ], 
+        "question": "Flatten a Map<Integer, List<String>> to Map<String, Integer> with stream and lambda", 
+        "answers": "4", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "107", 
+        "url": "http://stackoverflow.com/questions/40436672/php-regex-match-similar-to-letters-aka-u-%c3%bc-or-%c3%aa-%c3%a9-%c3%a8-e", 
+        "tags": [
+            "php", 
+            "regex", 
+            "unicode", 
+            "collation", 
+            "diacritics"
+        ], 
+        "question": "php regex match similar to letters. Aka u=\u00fc or \u00ea=\u00e9=\u00e8=e", 
+        "answers": "4", 
+        "questionvotes": "9"
+    }, 
+    {
+        "views": "137", 
+        "url": "http://stackoverflow.com/questions/40437342/how-to-input-elements-in-an-array-without-inputting-n-c", 
+        "tags": [
+            "c++"
+        ], 
+        "question": "How to input elements in an array WITHOUT inputting n? (c++)", 
+        "answers": "4", 
+        "questionvotes": "7"
+    }, 
+    {
+        "views": "123", 
+        "url": "http://stackoverflow.com/questions/40545980/insert-a-newline-character-every-10-characters-in-a-string-using-julia", 
+        "tags": [
+            "regex", 
+            "replace", 
+            "julia-lang"
+        ], 
+        "question": "Insert a newline character every 10 characters in a string using Julia", 
+        "answers": "3", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "74", 
+        "url": "http://stackoverflow.com/questions/40521167/javscript-convert-json-object-in-to-array-to-iterate-through-ng-repeat", 
+        "tags": [
+            "javascript", 
+            "angularjs", 
+            "arrays", 
+            "json"
+        ], 
+        "question": "Javscript- convert json object in to array to iterate through ng-repeat? [on hold]", 
+        "answers": "3", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "326", 
+        "url": "http://stackoverflow.com/questions/40479397/getting-unexpected-result-when-compiling-with-clang-optimization", 
+        "tags": [
+            "c++", 
+            "c++11", 
+            "boost", 
+            "clang"
+        ], 
+        "question": "Getting unexpected result when compiling with clang optimization", 
+        "answers": "2", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "93", 
+        "url": "http://stackoverflow.com/questions/40466465/template-function-with-32-bit-64-bit-integer-overloads", 
+        "tags": [
+            "c++", 
+            "c++11", 
+            "templates", 
+            "overloading"
+        ], 
+        "question": "Template function with 32-bit/64-bit integer overloads", 
+        "answers": "4", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "56", 
+        "url": "http://stackoverflow.com/questions/40550810/how-to-count-the-elements-on-deletion-so-i-not-end-up-with-an-empty", 
+        "tags": [
+            "javascript", 
+            "jquery"
+        ], 
+        "question": "How to count the elements on deletion so I not end up with an empty ()?", 
+        "answers": "6", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "242", 
+        "url": "http://stackoverflow.com/questions/40475630/how-to-overload-variadic-templates-when-theyre-not-the-last-argument", 
+        "tags": [
+            "c++", 
+            "c++11", 
+            "variadic-templates"
+        ], 
+        "question": "How to overload variadic templates when they're not the last argument", 
+        "answers": "2", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "69", 
+        "url": "http://stackoverflow.com/questions/40469117/python-pandas-convert-list-of-comma-separated-values-to-dataframe", 
+        "tags": [
+            "python", 
+            "pandas", 
+            "dataframe"
+        ], 
+        "question": "Python pandas convert list of comma separated values to dataframe", 
+        "answers": "3", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "69", 
+        "url": "http://stackoverflow.com/questions/40461601/changing-my-imag-src-using-ajax-getting-the-location-from-db", 
+        "tags": [
+            "javascript", 
+            "php", 
+            "jquery", 
+            "ajax", 
+            "image"
+        ], 
+        "question": "Changing my imag src using ajax getting the location from db", 
+        "answers": "3", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "67", 
+        "url": "http://stackoverflow.com/questions/40523702/use-of-function-application-operator-in-haskell", 
+        "tags": [
+            "function", 
+            "haskell", 
+            "operators", 
+            "function-calls"
+        ], 
+        "question": "Use of function application operator in Haskell", 
+        "answers": "3", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "80", 
+        "url": "http://stackoverflow.com/questions/40456250/difference-between-and-1-at-the-terminal-with-node", 
+        "tags": [
+            "javascript", 
+            "node.js"
+        ], 
+        "question": "Difference between ++ and += 1 at the terminal with Node [closed]", 
+        "answers": "6", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "79", 
+        "url": "http://stackoverflow.com/questions/40476477/confused-about-the-worst-case-of-the-quicksort-algorithm", 
+        "tags": [
+            "arrays", 
+            "algorithm", 
+            "sorting", 
+            "time-complexity", 
+            "quicksort"
+        ], 
+        "question": "Confused about the worst case of the quicksort algorithm", 
+        "answers": "3", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "197", 
+        "url": "http://stackoverflow.com/questions/40522950/oracle-sql-can-i-return-the-before-state-of-a-column-value", 
+        "tags": [
+            "sql", 
+            "oracle"
+        ], 
+        "question": "Oracle SQL - can I return the \u201cbefore\u201d state of a column value", 
+        "answers": "3", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "87", 
+        "url": "http://stackoverflow.com/questions/40495334/consecutive-addition-of-numbers-in-a-string", 
+        "tags": [
+            "python", 
+            "python-3.x"
+        ], 
+        "question": "Consecutive addition of numbers in a string", 
+        "answers": "11", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "87", 
+        "url": "http://stackoverflow.com/questions/40513373/ruby-how-to-check-that-all-elements-in-array-are-negative-integers", 
+        "tags": [
+            "ruby"
+        ], 
+        "question": "Ruby: How to check that all elements in array are negative integers", 
+        "answers": "2", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "111", 
+        "url": "http://stackoverflow.com/questions/40518251/function-composition-do-notation", 
+        "tags": [
+            "haskell", 
+            "composition", 
+            "do-notation"
+        ], 
+        "question": "Function Composition Do Notation", 
+        "answers": "4", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "84", 
+        "url": "http://stackoverflow.com/questions/40463325/define-or-typed-function", 
+        "tags": [
+            "c++", 
+            "function", 
+            "optimization"
+        ], 
+        "question": "#define or typed function?", 
+        "answers": "4", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "270", 
+        "url": "http://stackoverflow.com/questions/40508371/vagrant-box-not-found-in-a-fresh-install-in-a-mac", 
+        "tags": [
+            "osx", 
+            "vagrant"
+        ], 
+        "question": "Vagrant box not found, in a fresh install, in a mac", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "95", 
+        "url": "http://stackoverflow.com/questions/40536719/with-templates-how-to-differentiate-two-parallel-cases-such-as-between-floatin", 
+        "tags": [
+            "c++", 
+            "templates", 
+            "sfinae"
+        ], 
+        "question": "With templates, how to differentiate two parallel cases, such as between floating point types and integral types?", 
+        "answers": "4", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "224", 
+        "url": "http://stackoverflow.com/questions/40466321/firebase-device-test-lab-failed-to-create-a-test-matrix", 
+        "tags": [
+            "android", 
+            "firebase", 
+            "firebase-test-lab"
+        ], 
+        "question": "Firebase Device Test lab: Failed to create a test matrix", 
+        "answers": "5", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "133", 
+        "url": "http://stackoverflow.com/questions/40501992/getting-child-elements-in-javascript", 
+        "tags": [
+            "javascript", 
+            "jquery", 
+            "html"
+        ], 
+        "question": "Getting Child Elements in Javascript [on hold]", 
+        "answers": "8", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "103", 
+        "url": "http://stackoverflow.com/questions/40529730/using-enum-item-to-call-a-method", 
+        "tags": [
+            "c#", 
+            "enums"
+        ], 
+        "question": "Using enum item to call a method", 
+        "answers": "5", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "60", 
+        "url": "http://stackoverflow.com/questions/40463019/how-to-get-the-global-variable-value-in-perl", 
+        "tags": [
+            "perl"
+        ], 
+        "question": "How to get the global variable value in Perl?", 
+        "answers": "2", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "98", 
+        "url": "http://stackoverflow.com/questions/40479302/is-it-possible-to-write-a-factorial-function-as-fast-as-the-textbook-one-in-a", 
+        "tags": [
+            "haskell", 
+            "recursion", 
+            "optimization"
+        ], 
+        "question": "Is it possible to write a factorial function as fast as the \u201ctextbook\u201d one in a different way?", 
+        "answers": "2", 
+        "questionvotes": "8"
+    }, 
+    {
+        "views": "98", 
+        "url": "http://stackoverflow.com/questions/40512327/why-is-there-no-inbuilt-swap-function-in-c-but-there-is-xchg-in-assembly", 
+        "tags": [
+            "c", 
+            "assembly"
+        ], 
+        "question": "Why is there no inbuilt swap function in C but there is xchg in Assembly?", 
+        "answers": "4", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "123", 
+        "url": "http://stackoverflow.com/questions/40468336/check-if-a-number-is-odd-in-c-strange-behaviour-of-code", 
+        "tags": [
+            "c++", 
+            "compilation"
+        ], 
+        "question": "Check if a number is odd in c++. Strange behaviour of code", 
+        "answers": "1", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "58", 
+        "url": "http://stackoverflow.com/questions/40461380/fast-way-to-create-a-binary-matrix-with-known-number-of-1-each-row-in-r", 
+        "tags": [
+            "r", 
+            "matrix"
+        ], 
+        "question": "Fast way to create a binary matrix with known number of 1 each row in R", 
+        "answers": "4", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "74", 
+        "url": "http://stackoverflow.com/questions/40498143/generate-a-random-number-excluding-a-single-number", 
+        "tags": [
+            "random", 
+            "clojure"
+        ], 
+        "question": "Generate a random number, excluding a single number", 
+        "answers": "5", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "155", 
+        "url": "http://stackoverflow.com/questions/40437427/hiding-and-showing-element-based-on-screen-size", 
+        "tags": [
+            "javascript", 
+            "html", 
+            "css"
+        ], 
+        "question": "Hiding and showing element based on screen size", 
+        "answers": "5", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "94", 
+        "url": "http://stackoverflow.com/questions/40542278/add-elements-of-two-array-with-each-other", 
+        "tags": [
+            "ios", 
+            "swift", 
+            "swift3"
+        ], 
+        "question": "Add elements of two array with each other", 
+        "answers": "2", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "93", 
+        "url": "http://stackoverflow.com/questions/40503107/put-a-button-inside-the-text-box", 
+        "tags": [
+            "html", 
+            "css"
+        ], 
+        "question": "Put a button inside the text box", 
+        "answers": "8", 
+        "questionvotes": "3"
+    }, 
+    {
+        "views": "119", 
+        "url": "http://stackoverflow.com/questions/40438707/from-listfoo-to-mapstring-listfoo-looking-for-a-better-implementation", 
+        "tags": [
+            "java", 
+            "java-8", 
+            "guava", 
+            "java-stream", 
+            "lambdaj"
+        ], 
+        "question": "From List<Foo> to Map<String, List<Foo>>: looking for a better implementation", 
+        "answers": "2", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "55", 
+        "url": "http://stackoverflow.com/questions/40487830/php-why-the-time-is-never-printing-correctly", 
+        "tags": [
+            "php", 
+            "datetime", 
+            "timezone"
+        ], 
+        "question": "PHP - why the time is never printing correctly?", 
+        "answers": "4", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "88", 
+        "url": "http://stackoverflow.com/questions/40438676/combinations-of-two-non-consecutive-items", 
+        "tags": [
+            "python", 
+            "list", 
+            "combinations"
+        ], 
+        "question": "Combinations of two non-consecutive items", 
+        "answers": "4", 
+        "questionvotes": "5"
+    }, 
+    {
+        "views": "68", 
+        "url": "http://stackoverflow.com/questions/40471677/difference-between-button-and-button-as-selector", 
+        "tags": [
+            "javascript", 
+            "jquery"
+        ], 
+        "question": "Difference between ':button' and 'button' as selector", 
+        "answers": "4", 
+        "questionvotes": "0"
+    }, 
+    {
+        "views": "83", 
+        "url": "http://stackoverflow.com/questions/40496968/template-parameter-is-ambiguous-could-not-deduce-template-argument", 
+        "tags": [
+            "c++", 
+            "templates", 
+            "ambiguous", 
+            "template-deduction", 
+            "ambiguous-call"
+        ], 
+        "question": "Template parameter is ambiguous: could not deduce template argument", 
+        "answers": "2", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "172", 
+        "url": "http://stackoverflow.com/questions/40442189/are-expression-trees-thread-safe", 
+        "tags": [
+            "c#", 
+            ".net", 
+            "lambda"
+        ], 
+        "question": "Are expression trees thread-safe?", 
+        "answers": "1", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "61", 
+        "url": "http://stackoverflow.com/questions/40549976/placing-two-li-in-one-line-html", 
+        "tags": [
+            "html", 
+            "css"
+        ], 
+        "question": "Placing two <li> in one line html", 
+        "answers": "6", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "100", 
+        "url": "http://stackoverflow.com/questions/40436988/wait-notify-which-thread-first-unlock", 
+        "tags": [
+            "java", 
+            "multithreading", 
+            "notify"
+        ], 
+        "question": "wait() , notify() - which thread first unlock?", 
+        "answers": "5", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "121", 
+        "url": "http://stackoverflow.com/questions/40477682/how-to-declare-pointer-to-array-of-structs-in-c", 
+        "tags": [
+            "c", 
+            "pointers", 
+            "struct"
+        ], 
+        "question": "How to declare pointer to array of structs in C [on hold]", 
+        "answers": "3", 
+        "questionvotes": "6"
+    }, 
+    {
+        "views": "94", 
+        "url": "http://stackoverflow.com/questions/40537456/assigning-a-value-to-each-range-of-consecutive-numbers-with-same-sign-in-r", 
+        "tags": [
+            "r", 
+            "transform", 
+            "aggregate", 
+            "diff", 
+            "sign"
+        ], 
+        "question": "Assigning a value to each range of consecutive numbers with same sign in R", 
+        "answers": "4", 
+        "questionvotes": "7"
+    }, 
+    {
+        "views": "57", 
+        "url": "http://stackoverflow.com/questions/40555172/when-typedef-is-used-in-c-will-it-create-a-new-type-or-only-a-type-name", 
+        "tags": [
+            "c", 
+            "types", 
+            "typedef"
+        ], 
+        "question": "When typedef is used in C, will it create a new type or only a type name?", 
+        "answers": "4", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "319", 
+        "url": "http://stackoverflow.com/questions/40452633/no-of-permutation-of-number-from-1-to-n-in-which-i-i1-and-i-1", 
+        "tags": [
+            "algorithm", 
+            "math"
+        ], 
+        "question": "no. of permutation of number from 1 to n in which i >i+1 and i-1", 
+        "answers": "4", 
+        "questionvotes": "4"
+    }, 
+    {
+        "views": "150", 
+        "url": "http://stackoverflow.com/questions/40441334/is-iter-map-sum-as-fast-as-iter-fold", 
+        "tags": [
+            "rust"
+        ], 
+        "question": "Is `iter().map().sum()` as fast as `iter().fold()`?", 
+        "answers": "2", 
+        "questionvotes": "2"
+    }, 
+    {
+        "views": "89", 
+        "url": "http://stackoverflow.com/questions/40465306/javascript-reduce-function", 
+        "tags": [
+            "javascript", 
+            "arrays"
+        ], 
+        "question": "Javascript reduce function", 
+        "answers": "4", 
+        "questionvotes": "1"
+    }, 
+    {
+        "views": "114", 
+        "url": "http://stackoverflow.com/questions/40528089/why-does-cssfontsize-produce-different-results-in-edge", 
+        "tags": [
+            "javascript", 
+            "html", 
+            "css", 
+            "microsoft-edge"
+        ], 
+        "question": "Why does .css('fontSize') produce different results in Edge?", 
+        "answers": "2", 
+        "questionvotes": "13"
+    }, 
+    {
+        "views": "88", 
+        "url": "http://stackoverflow.com/questions/40510579/how-to-efficiently-concatenate-multiple-arrays-in-ruby", 
+        "tags": [
+            "arrays", 
+            "ruby", 
+            "concatenation"
+        ], 
+        "question": "How to efficiently concatenate multiple arrays in Ruby?", 
+        "answers": "3", 
+        "questionvotes": "4"
+    }
+]
