@@ -64,6 +64,10 @@ with open("../input/allLinks.txt",'r') as fin,open("../output/showcase_v1.1.json
 					else:
 						continue;
 
+					repo_stargazers = repo_tag.find("a",{"aria-label" : "Stargazers"})
+					if(repo_stargazers is not None):
+						data["stargazers"] = repo_stargazers.text.strip()
+
 					repo_json_data.append(data)
 
 		tags["unique_languages"] = unique_languages
