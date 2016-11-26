@@ -16,20 +16,18 @@
     // Handle the successful return from the API call
     function onSuccess(data) {
         console.log(data);
-        console.log(data.firstName);
-        console.log(data.siteStandardProfileRequest.url);
      $.ajax({
-        type: 'GET',
-        url: "http://127.0.0.1:5000/scrape?url="+ data.siteStandardProfileRequest.url,
-        dataType: "text",
-        success: function(response){
-           output = response;
-           alert(output);
-        }
-}).done(function(data){
-    console.log(data);
-    alert(data);
-});
+        type: 'POST',
+        url: "http://127.0.0.1:5000/login",
+        data: {userid:data.id,url:data.publicProfileUrl},
+        dataType: "text"
+		}).done(function(data){
+    		console.log(data);
+    		alert(data);
+			})
+		.fail(function(){
+    		alert("Unable to login");
+			});
 
     }
     // Handle an error response from the API call
@@ -38,7 +36,7 @@
     }
     // Use the API call wrapper to request the member's basic profile data
     function getProfileData() {
-        IN.API.Raw("/people/~").result(onSuccess).error(onError);
+        IN.API.Raw("/people/~:(id,public-profile-url)?format=json").result(onSuccess).error(onError);
     }
 </script>
   </head>

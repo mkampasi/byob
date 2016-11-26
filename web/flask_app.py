@@ -5,9 +5,8 @@ import urllib2
 import json
 from bs4 import BeautifulSoup
 from selenium import webdriver
-driver = webdriver.Chrome('/usr/local/Cellar/chromedriver/2.25/bin/chromedriver') #I actually used the chromedriver and did not test firefox, but it should work.
-
-
+from pymongo import MongoClient
+driver = webdriver.Chrome('/usr/local/Cellar/chromedriver/2.25/bin/chromedriver') 
 
 app = Flask(__name__, static_url_path='')
 
@@ -17,26 +16,34 @@ def root():
 
 @app.route('/<path:path>')
 def static_proxy(path):
-  # send_static_file will guess the correct MIME type
   return app.send_static_file(path)
 
-
-#@app.route('/scrape', methods=['GET', 'POST'])
-@app.route('/scrape')
-def scrape():
-    skillset=[]
-    #profile_link=request.args.get('url')
-    profile_link="https://www.linkedin.com/in/manishakampasi"
+@app.route('/login', methods=['POST'])
+def login():
+    skillset=[] #Users skills will be stored in this list
+    #Fetch POST parameters
+    userid=request.form['userid']
+    profile_link=request.form['url'].encode('utf-8')
+    #Get all user's skills from Linkedin
     driver.get(profile_link)
     html=driver.page_source
     soup=BeautifulSoup(html) #specify parser or it will auto-select for you
     skill_list=soup.find('ul', class_='pills')
+    #remove "See less / See more"
     for row in skill_list.findAll("li"):
         if("see" in row.text.lower()):
             continue
         skillset.append(row.text.lower())
     driver.quit()
-    return jsonify(skills=skillset)
+    #Connect to DB 
+    client = MongoClient()
+    db = client.byob
+    coll = db.users
+    #Update/insert skills in DB
+    key = {'userid':userid}
+    data = {'$set':{'userid':userid,'skills':skillset}}
+    coll.update(key, data,upsert=True)
+    return "success"
 
 if __name__ == '__main__':
     app.run()

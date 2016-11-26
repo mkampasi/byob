@@ -1,7 +1,6 @@
 import scrapy
 import json
 # #Crawl Stackoverflow using Scrapy
-folderloc = "/Users/manishakampasi/Documents/gitworkspace/stackoverflowdata/"
 
 class mySOSpider(scrapy.Spider):
     name = "stackoverflow"
@@ -19,10 +18,8 @@ class mySOSpider(scrapy.Spider):
 
     def parse(self, response):
         page = response.url.split("=")[-1]
-        filename = 'topic-%s.json' % page
-        f = open(filename, 'wb')
-        finalres=[]
         questions = response.css('div.question-summary')
+        finalres=[]
         for ques in questions:
             result={}
             result['url'] = "http://stackoverflow.com" + ques.xpath('div/h3/a/@href').extract()[0]
@@ -33,4 +30,6 @@ class mySOSpider(scrapy.Spider):
             result['answers']=ratings[1]
             result['views']=ratings[2]
             finalres.append(result)
+        foldername = "../output/"
+        f = open(foldername+page+".json", 'w+')
         f.write( json.dumps(finalres, indent=4))
