@@ -1,0 +1,87 @@
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta name="description" content="This is the home page for testmax website">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Update your Skills</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  	<!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
+  	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+	  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	  <script>
+	  $( function() {
+	    $( "#sortable1, #sortable2" ).sortable({
+	      connectWith: ".connectedSortable"
+	    }).disableSelection();
+	  } );
+	  </script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="styles/skillsHome.css">
+    <script src="JavaScripts/setSkillProfile.js"></script>
+</head>
+<body>
+<div class="row">
+	<div id="skillsHomeHeader" class="col-lg-12 col-md-12 col-sm-12">
+		<div id="welcome">
+			<span id="welcomeMsg">Welcome to BYOB!</span>
+		</div>
+	</div>
+	<div id="skillsContainer" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+		<div id="skillText">
+			<span>Let us know what you are interested in</span>
+		</div>
+		<div id="skillsSelectionDiv">
+			<div id="tabsDiv">
+				<!-- Nav tabs -->
+				 <div id="tabMenu">
+				  <ul class="nav nav-tabs" role="tablist">
+				    <li role="presentation" class="active">
+				    	<a href="#languagesTab" aria-controls="home" role="tab" data-toggle="tab">
+							<div class="skillHeaderText">
+								<span>1. Select Programming Languages</span>
+							</div>
+				    	</a>
+				    </li>
+				    <li role="presentation">
+				    	<a href="#fosTab" aria-controls="profile" role="tab" data-toggle="tab">
+				    		<div class="skillHeaderText">
+				    			<span>2. Select Field of Studies and Frameworks</span>
+				    		</div>
+				    	</a>
+				    </li>
+				  </ul>
+				</div>
+				  <!-- Tab panes -->
+				  <div class="tab-content">
+				    <div role="tabpanel" class="tab-pane active" id="languagesTab">
+						<div id="selectable">
+							<ul id="sortable1" class="connectedSortable languageList">
+							 <!--  <li class="ui-state-default">Java</li> -->
+							</ul>
+							<ul id="sortable2" class="connectedSortable languageSelectedList">
+							  <!-- <li class="ui-state-highlight">Ruby</li> -->
+							</ul>
+						</div>
+				    </div>
+				    <div role="tabpanel" class="tab-pane" id="fosTab">
+				    	<div id="selectable">
+							<ul id="sortable1" class="connectedSortable fosList">
+							  <!-- <li class="ui-state-default">Machine Learning</li> -->
+							</ul>
+							<ul id="sortable2" class="connectedSortable fosSelectedList">
+							  <!-- <li class="ui-state-highlight">IOS</li> -->
+							</ul>
+						</div>
+
+				    </div>
+				  </div>				
+			</div>			
+		</div>
+		
+	</div>
+</div>
+</body>
+</html>
