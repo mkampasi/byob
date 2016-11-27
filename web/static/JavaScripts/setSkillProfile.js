@@ -60,9 +60,14 @@ $(function(){
    	} 
    }//end of BUILD_SELECTED_LIST
 
-var userJSONObj = BUILD_SELECTED_LIST.build();	// This is final user selected languages and FOS object
+   $("#getStarted").click(function(){
+      var userJSONObj = BUILD_SELECTED_LIST.build();  // This is final user selected languages and FOS object      
+      console.log(userJSONObj);
+      alert("Skills saved!");
+   });
 
-console.log(userJSONObj);
+
+
 
 
 });
