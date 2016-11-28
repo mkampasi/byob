@@ -1,0 +1,4772 @@
+[
+    {
+      "url" : "http://stackoverflow.com/questions/40837371/simplification-of-successive-if-statements-in-java",
+      "views" : "54",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Simplification of successive if statements in Java",
+      "questionvotes" : "5",
+      "other" : ["multidimensional-array, if-statement"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837491/jquery-why-wont-the-website-open",
+      "views" : "49",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "JQuery: Why won't the website open?",
+      "questionvotes" : "0",
+      "other" : ["jquery, function, setinterval"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837581/get-child-node-in-javascript",
+      "views" : "25",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "get child node in javascript",
+      "questionvotes" : "0",
+      "other" : ["node.js, class"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837592/android-chat-application-using-xmpp-and-openfire",
+      "views" : "17",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Android - chat application using xmpp and openfire",
+      "questionvotes" : "-1",
+      "other" : ["xmpp, android, openfire"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837566/nullreferenceexception-object-reference-not-set-to-an-instance-of-an-object-u",
+      "views" : "15",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "NullReferenceException: Object reference not set to an instance of an object - unity",
+      "questionvotes" : "0",
+      "other" : ["unity3d"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837487/counting-the-number-of-occurrences-of-text-in-a-pandas-dataframe",
+      "views" : "15",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Counting the number of occurrences of text in a pandas dataframe",
+      "questionvotes" : "1",
+      "other" : ["pandas"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837477/uialertcontroller-utility-class-fails-to-call-uitextfield-delegate-or-target-but",
+      "views" : "15",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "UIAlertController utility class fails to call UITextField delegate or target but works in UIViewController",
+      "questionvotes" : "0",
+      "other" : ["uialertcontroller, uitextfield, ios, swift3, uitextfielddelegate"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837506/creating-a-class-with-fields-java",
+      "views" : "18",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Creating a class with fields java",
+      "questionvotes" : "0",
+      "other" : ["class"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837541/which-is-better-using-globals-directly-or-using-through-a-variable-in-python",
+      "views" : "13",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Which is better : Using globals() directly or using through a variable in python script",
+      "questionvotes" : "-1",
+      "other" : [null],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837589/how-could-i-split-this-string-in-python",
+      "views" : "12",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How could I split this string in python [on hold]",
+      "questionvotes" : "0",
+      "other" : ["regex"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837572/how-to-print-first-side-part-of-a-dictionary",
+      "views" : "12",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How to print first side/part of a dictionary?",
+      "questionvotes" : "0",
+      "other" : ["dictionary"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837466/browser-current-window-close-using-java-server-side-after-click-on-alert",
+      "views" : "12",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "browser current window close using java server side after click on alert",
+      "questionvotes" : "0",
+      "other" : [null],
+      "languages" : ["javascript, java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837522/updating-column-rows-in-gridview-c-sharp",
+      "views" : "11",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "updating column rows in GridView C#",
+      "questionvotes" : "0",
+      "other" : ["asp.net, gridview"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837258/how-to-compare-date-in-format-dd-mm-with-datetime-now",
+      "views" : "40",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "How to compare date in format \u201cdd/mm\u201d with DateTime.Now",
+      "questionvotes" : "1",
+      "other" : [".net, datetime"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836641/what-does-mean-at-the-start-of-a-javascript-file",
+      "views" : "40",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "What does \u201c|| {}\u201d mean at the start of a JavaScript file",
+      "questionvotes" : "1",
+      "other" : [null],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837331/how-to-show-settimeout-image-before-showing-content-in-jquery",
+      "views" : "36",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How to show setTimeout image before showing content in jQuery?",
+      "questionvotes" : "0",
+      "other" : ["jquery"],
+      "languages" : ["javascript, html, php, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837019/work-with-datetime-in-c-sharp",
+      "views" : "57",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Work with datetime in C#",
+      "questionvotes" : "0",
+      "other" : [".net"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837320/what-is-better-way-to-compare-strings",
+      "views" : "40",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "What is better way to compare Strings? [on hold]",
+      "questionvotes" : "-3",
+      "other" : ["string"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836911/how-to-print-out-an-arraylist-that-resides-in-a-second-main-method",
+      "views" : "34",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How to print out an ArrayList that resides in a second main method?",
+      "questionvotes" : "1",
+      "other" : ["arraylist"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836592/activity-to-fragment-error-having-trouble-getting-value-to-shared-preferences",
+      "views" : "34",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Activity to Fragment error having trouble getting value to shared preferences",
+      "questionvotes" : "0",
+      "other" : ["android, android, sharedpreferences"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837057/json-javascript-functionality-implementation",
+      "views" : "55",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "JSON/JavaScript Functionality/Implementation",
+      "questionvotes" : "1",
+      "other" : [null],
+      "languages" : ["javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836585/dictionary-recursion-to-group-keys-by-values",
+      "views" : "54",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Dictionary recursion to group keys by values",
+      "questionvotes" : "0",
+      "other" : ["dictionary"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837031/how-to-fix-this-error-java-lang-illegalstateexception-expected-begin-array-but",
+      "views" : "32",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "how to fix this error java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 2 path $",
+      "questionvotes" : "0",
+      "other" : ["android, retrofit2, json, gson"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837458/how-do-i-get-the-key-name-out-of-a-multidimensional-array",
+      "views" : "26",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How do i get the key name out of a multidimensional array",
+      "questionvotes" : "1",
+      "other" : ["arrays, multidimensional-array"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837010/div-overlap-another-though-position-of-div-is-relative",
+      "views" : "39",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "div overlap another though position of div is relative",
+      "questionvotes" : "3",
+      "other" : ["jquery, d3.js"],
+      "languages" : ["javascript, html, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837043/why-does-x-5-for-i-in-rangex-printi-result-in-a-syntaxerror",
+      "views" : "39",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Why does `x = 5; for i in range(x): print(i)` result in a SyntaxError? [on hold]",
+      "questionvotes" : "0",
+      "other" : [null],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837065/localstorage-is-commonly-used-by-applications-so-how-to-avoid-removing-value-ac",
+      "views" : "28",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "LocalStorage is commonly used by applications, so how to avoid removing value accidently?",
+      "questionvotes" : "0",
+      "other" : ["local-storage, sessionstorage"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837224/matrix-mirroring-in-python",
+      "views" : "26",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Matrix Mirroring in python",
+      "questionvotes" : "1",
+      "other" : ["arrays, numpy, matrix, python-3.x"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837100/container-div-not-working-trying-to-stop-my-page-from-resizing",
+      "views" : "33",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Container div not working (trying to stop my page from resizing)",
+      "questionvotes" : "1",
+      "other" : [null],
+      "languages" : ["html, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836900/value-inserting-on-last-row",
+      "views" : "25",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Value inserting on last row",
+      "questionvotes" : "2",
+      "other" : ["mysql"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837203/c-template-type-and-type-of-template",
+      "views" : "25",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "C++ template type and type of template",
+      "questionvotes" : "0",
+      "other" : ["templates"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837262/how-to-blur-a-view-or-layout-in-android",
+      "views" : "32",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "How to blur a view or layout in android?",
+      "questionvotes" : "-3",
+      "other" : ["material-design, android, android, android, blur"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837440/continue-generating-random-numbers-with-every-click",
+      "views" : "32",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Continue generating random numbers with every click [on hold]",
+      "questionvotes" : "0",
+      "other" : [null],
+      "languages" : ["javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837251/c-stdshared-ptr-would-initialized-other-member-data-in-the-class",
+      "views" : "24",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "C++ std::shared_ptr would initialized other member data in the class",
+      "questionvotes" : "0",
+      "other" : ["initialization, c++11, constructor"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836601/how-can-i-get-the-corrent-classname-in-android",
+      "views" : "30",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "how can I get the corrent classname in android?",
+      "questionvotes" : "-2",
+      "other" : ["android"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837311/validate-textfield-using-reactive-cocoa-swift",
+      "views" : "18",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Validate textfield using Reactive Cocoa swift",
+      "questionvotes" : "0",
+      "other" : ["reactive-cocoa, ios, reactive-cocoa-5"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837256/selector-in-custom-class",
+      "views" : "22",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Selector in custom class",
+      "questionvotes" : "0",
+      "other" : ["selector"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837039/validation-for-laravel-object-variable-that-empty-or-not-exist",
+      "views" : "22",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "validation for laravel object variable that empty or not exist",
+      "questionvotes" : "1",
+      "other" : ["laravel, laravel-5, foreach"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837045/solving-tower-breakers-game-theory-in-javascript",
+      "views" : "28",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Solving 'tower breakers' (game theory) in javascript",
+      "questionvotes" : "0",
+      "other" : ["game-theory"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837302/form-submission-in-mvc-using-ajax-cant-prevent-default-form-submission",
+      "views" : "27",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Form submission in MVC using Ajax. Can't prevent default form submission",
+      "questionvotes" : "0",
+      "other" : ["jquery, ajax"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836974/visual-studio-c-warning-for-no-default-constructor",
+      "views" : "26",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Visual Studio C++ warning for no default constructor?",
+      "questionvotes" : "0",
+      "other" : ["visual-studio, default-constructor"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837358/stackover-flow-query",
+      "views" : "20",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "stackover flow query",
+      "questionvotes" : "1",
+      "other" : ["stackexchange-api"],
+      "languages" : ["sql"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836661/retrieve-rows-value-to-textboxes-c-sharp-sql-server",
+      "views" : "25",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Retrieve Rows Value to Textboxes C# & SQL Server",
+      "questionvotes" : "0",
+      "other" : ["sql-server"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836795/haskell-streaming-download",
+      "views" : "19",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Haskell streaming download",
+      "questionvotes" : "0",
+      "other" : ["conduit"],
+      "languages" : ["haskell"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836700/how-to-use-ajax-in-wordpress-in-mysql-query",
+      "views" : "19",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How to use AJAX in WordPress in MYSQL query?",
+      "questionvotes" : "0",
+      "other" : ["jquery, ajax, wordpress, mysql"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837297/cross-domain-issue-preventing-my-ajax-call-to-retrieve-data-from-my-express-file",
+      "views" : "24",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Cross domain issue preventing my ajax call to retrieve data from my express file",
+      "questionvotes" : "1",
+      "other" : ["node.js, express"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837233/ios-how-to-show-and-play-video-from-json",
+      "views" : "18",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "IOS: How to show and play video from JSON",
+      "questionvotes" : "0",
+      "other" : ["ios, json, video, uiwebview"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837228/http-request-show-nothing-in-my-reservation-system",
+      "views" : "23",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "HTTP Request show nothing in my reservation system",
+      "questionvotes" : "0",
+      "other" : ["httprequest, http"],
+      "languages" : ["javascript, php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837394/how-can-i-print-a-rows-mysql-array-in-a-table-in-php",
+      "views" : "23",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How can I print a rows mysql array in a table in php? [on hold]",
+      "questionvotes" : "0",
+      "other" : ["arrays, mysqli, mysql"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837105/auto-input-data-depended-what-i-input-in-html-form",
+      "views" : "23",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "auto input data depended what i input in html form",
+      "questionvotes" : "0",
+      "other" : ["forms"],
+      "languages" : ["javascript, html, php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836996/access-violation-reading-location-error-while-doing-linked-lists",
+      "views" : "23",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "\u201cAccess violation reading location error\u201d while doing linked lists?",
+      "questionvotes" : "0",
+      "other" : [null],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837273/check-json-data-element-value-and-return-if-null-for-a-multidimensional-non-s",
+      "views" : "22",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Check JSON data element value and return \u201c\u201d if Null for a multidimensional non-symmetrical JSON structure",
+      "questionvotes" : "0",
+      "other" : ["json, angularjs"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837172/how-to-find-and-remove-unused-css-by-chrome",
+      "views" : "22",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How to find and remove unused css by chrome",
+      "questionvotes" : "0",
+      "other" : ["google-chrome"],
+      "languages" : ["css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837149/how-to-read-text-file-line-by-line-into-array",
+      "views" : "22",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to read text file line by line into array",
+      "questionvotes" : "-1",
+      "other" : ["arrays, function, file-handling"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837245/python-what-does-this-slicing-notation-mean",
+      "views" : "22",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "python - what does this slicing notation mean? [on hold]",
+      "questionvotes" : "0",
+      "other" : ["slice"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837041/convert-code-for-pdf-to-csv-from-vb-net-to-c-sharp",
+      "views" : "22",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Convert code for PDF to CSV from VB.NET to C#",
+      "questionvotes" : "-1",
+      "other" : ["vb.net"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837190/count-based-on-other-csv-file",
+      "views" : "17",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Count based on other csv file",
+      "questionvotes" : "1",
+      "other" : ["pandas, dataframe"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837281/how-to-add-a-string-to-every-even-row-in-a-pandas-dataframe-column-series",
+      "views" : "13",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How to add a string to every even row in a pandas dataframe column series?",
+      "questionvotes" : "2",
+      "other" : ["loc, indexing, pandas"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837215/how-pthread-create-function-works",
+      "views" : "21",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "how pthread_create function works",
+      "questionvotes" : "0",
+      "other" : ["pthreads, linux"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837225/how-to-get-git-log-without-the-commit-message",
+      "views" : "21",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "how to get git log without the commit message",
+      "questionvotes" : "1",
+      "other" : ["terminal, git, git-bash, bash"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837207/how-to-display-image-through-xml-to-html",
+      "views" : "21",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "how to display image through XML to html",
+      "questionvotes" : "1",
+      "other" : [null],
+      "languages" : ["xml, javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837359/node-js-not-serving-the-static-image",
+      "views" : "21",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Node JS not serving the static image",
+      "questionvotes" : "1",
+      "other" : ["node.js, static-files"],
+      "languages" : ["javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836915/laravel-multi-database-connection-join-table",
+      "views" : "16",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Laravel Multi Database Connection Join table",
+      "questionvotes" : "1",
+      "other" : ["laravel, eloquent, laravel-5, dbconnection"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837455/how-to-insert-record-in-exiting-column-using-sql-server",
+      "views" : "20",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How to insert record in exiting column using SQL Server",
+      "questionvotes" : "0",
+      "other" : ["sql-server"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837442/how-to-properly-name-java-class",
+      "views" : "20",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How to properly name java class?",
+      "questionvotes" : "0",
+      "other" : ["naming-conventions"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837324/i-cant-be-able-to-set-datepicker-starts-from-tomorrows-datematerial-design-date",
+      "views" : "20",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "I cant be able to set datepicker starts from tomorrows date(Material Design Datepicker)",
+      "questionvotes" : "0",
+      "other" : ["datepicker, android"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837314/cant-figure-out-this-non-static-member-reference-error",
+      "views" : "20",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "can't figure out this non static member reference error",
+      "questionvotes" : "0",
+      "other" : [null],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837189/alternative-way-for-post-form-in-order-to-call-two-functions-javascript-to-php",
+      "views" : "20",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Alternative Way for Post Form in Order to Call Two Functions (Javascript to PHP)",
+      "questionvotes" : "0",
+      "other" : ["ajax, html5"],
+      "languages" : ["javascript, php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837005/does-the-content-uri-points-to-a-specific-location-in-android-directory",
+      "views" : "20",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Does the content uri points to a specific location in android directory?",
+      "questionvotes" : "0",
+      "other" : ["android, android"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837419/how-can-i-select-this-joined-list-in-mysql",
+      "views" : "19",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How can I select this joined list in MySQL",
+      "questionvotes" : "0",
+      "other" : ["mysql"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837254/swift-slide-out-menu-and-multiple-view-controllers",
+      "views" : "19",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "swift slide out menu and multiple view controllers",
+      "questionvotes" : "0",
+      "other" : ["menu, ios"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837378/ios-sdk-track-viewdidload-method",
+      "views" : "19",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "iOS SDK - Track viewDidLoad method",
+      "questionvotes" : "0",
+      "other" : ["ios, categories, sdk"],
+      "languages" : ["objective-c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837062/javascript-printing-form-values-to-console-log-giving-undefined-error",
+      "views" : "19",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "javascript - printing form values to console.log giving undefined error",
+      "questionvotes" : "0",
+      "other" : ["forms, console.log, undefined"],
+      "languages" : ["javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837432/how-to-detect-a-button-press-in-swift",
+      "views" : "30",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How to detect a button press in Swift",
+      "questionvotes" : "-3",
+      "other" : ["ios, swift2"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837296/conversion-of-vb-code-to-vb-net-code",
+      "views" : "18",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Conversion of VB code to VB.NET code",
+      "questionvotes" : "-2",
+      "other" : ["vb.net, vba"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837232/image-source-is-not-binding-with-scope-variable-inside-directive",
+      "views" : "18",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Image source is not binding with scope variable inside directive",
+      "questionvotes" : "1",
+      "other" : ["angularjs, angularjs"],
+      "languages" : ["javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837206/unnecessary-new-line-character-while-taking-multiple-strings-as-input",
+      "views" : "18",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Unnecessary new line character while taking multiple strings as input",
+      "questionvotes" : "0",
+      "other" : ["malloc, newline, string"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837099/access-pressure-value-from-barometer-in-ios",
+      "views" : "18",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Access pressure value from barometer in iOS",
+      "questionvotes" : "0",
+      "other" : ["ios, sensor"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837035/proper-way-to-make-and-query-normalized-database-for-shoe-store",
+      "views" : "18",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Proper Way to Make and Query Normalized Database for Shoe Store",
+      "questionvotes" : "1",
+      "other" : ["mysql, database"],
+      "languages" : ["php, sql"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837415/supplement-numpy-array-in-python-3",
+      "views" : "14",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "supplement numpy array in python 3",
+      "questionvotes" : "0",
+      "other" : ["scipy, numpy, python-3.x"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837407/exiting-loop-when-user-clicks-cancel-or-finishes-number-of-allowed-attempts",
+      "views" : "17",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Exiting loop when user clicks \u201ccancel\u201d or finishes number of allowed attempts",
+      "questionvotes" : "0",
+      "other" : ["loops, if-statement, joptionpane, while-loop"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837138/how-to-automate-command-prompt-command-in-sql-server",
+      "views" : "17",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How to automate command prompt command in SQL Server?",
+      "questionvotes" : "0",
+      "other" : ["batch-file, sql-server, tsql"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837398/is-it-true-that-a-path-is-always-either-a-file-or-a-directory",
+      "views" : "17",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Is it true that a path is always either a file or a directory?",
+      "questionvotes" : "2",
+      "other" : ["directory, path, file"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837202/python-float-vs-numpy-float-give-different-answers",
+      "views" : "17",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "python float vs numpy.float give different answers?",
+      "questionvotes" : "0",
+      "other" : ["numpy"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837167/by-removing-scientific-notation-the-data-does-not-display-correctly",
+      "views" : "13",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "By removing scientific notation the data does not display correctly",
+      "questionvotes" : "0",
+      "other" : ["google-bigquery"],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837076/spring-mongo-db-with-annotation-based-configurations",
+      "views" : "16",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Spring Mongo DB with Annotation based configurations",
+      "questionvotes" : "0",
+      "other" : ["spring, spring-boot, intellij-idea, mongodb"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836994/set-number-of-withdraws-to-3-and-test-it-in-junit-testing",
+      "views" : "16",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "set number of withdraws to 3 and test it in Junit Testing.",
+      "questionvotes" : "0",
+      "other" : ["set, junit"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837239/android-studio-build-failed-exception-while-build-with-different-emulator",
+      "views" : "16",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Android studio build failed exception while build with different emulator?",
+      "questionvotes" : "0",
+      "other" : ["android, android"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837146/typescript-and-angular2-uncaught-typeerror-class-extends-value-undefined-is-not",
+      "views" : "16",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "TypeScript and Angular2 Uncaught TypeError: Class extends value undefined is not a constructor or null",
+      "questionvotes" : "1",
+      "other" : ["angular2"],
+      "languages" : ["typescript, javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837007/async-functions-are-only-available-when-targeting-ecmascript-2015-or-higher",
+      "views" : "16",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Async functions are only available when targeting ECMAScript 2015 or higher",
+      "questionvotes" : "0",
+      "other" : ["ecmascript-6, angular2, async-await"],
+      "languages" : ["typescript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837319/android-deferred-web-request",
+      "views" : "12",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Android deferred web request",
+      "questionvotes" : "0",
+      "other" : ["android, okhttp3"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837020/authentication-for-node-js-app",
+      "views" : "12",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "authentication for node js app",
+      "questionvotes" : "-1",
+      "other" : ["node.js, authentication"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837055/c-2d-char-array",
+      "views" : "15",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "C++ 2D Char array",
+      "questionvotes" : "-2",
+      "other" : ["arrays, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40676457/googleplaces-api-giving-wrong-values-after-parsing",
+      "views" : "73",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "googlePlaces api giving wrong values after parsing",
+      "questionvotes" : "2",
+      "other" : ["google-places-api"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40648829/how-to-consume-empty-collection-without-hal-response-structure-in-spring-data-re",
+      "views" : "82",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to consume empty collection without HAL response structure in spring-data-rest",
+      "questionvotes" : "5",
+      "other" : ["spring-hateoas, spring-mvc, spring-data-rest, spring-4"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40688768/smtplib-attachments-not-received",
+      "views" : "53",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "SMTPlib Attachments not received",
+      "questionvotes" : "2",
+      "other" : ["smtplib, mime, email"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40670839/external-command-return-external-variables-to-oracle-apex",
+      "views" : "57",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "External command, return external variables to Oracle Apex?",
+      "questionvotes" : "4",
+      "other" : ["oracle-apex-5"],
+      "languages" : ["plsql"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40655076/missing-line-when-reading-using-input-stream-reader",
+      "views" : "166",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Missing line when reading using input stream reader",
+      "questionvotes" : "7",
+      "other" : ["runtime"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40677666/word-interop-c-insert-new-page-using-existing-page",
+      "views" : "91",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Word Interop C#: Insert new page using existing page",
+      "questionvotes" : "0",
+      "other" : ["interop, ms-word, office-interop"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/37041696/html-not-rendering-properly-with-canopy-1-7-1-3323-ipython-4-1-2",
+      "views" : "152",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "HTML not rendering properly with Canopy 1.7.1.3323 / IPython 4.1.2",
+      "questionvotes" : "9",
+      "other" : ["ipython, canopy, pandas"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40669618/ann-approximating-non-linear-function-with-neural-network",
+      "views" : "52",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "ANN: Approximating non-linear function with neural network",
+      "questionvotes" : "0",
+      "other" : ["supervised-learning, regression, neural-network"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40482166/progress-dialog-not-show-on-screen",
+      "views" : "307",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Progress Dialog not show on screen",
+      "questionvotes" : "2",
+      "other" : ["nfc-p2p, android"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40632915/core-data-not-saving-data-in-entity-for-the-first-time",
+      "views" : "130",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Core Data not saving data in entity for the first time",
+      "questionvotes" : "2",
+      "other" : ["core-data, ios"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40678688/firefox-and-ie-slow-for-302-status-redirect-requests",
+      "views" : "63",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Firefox and IE slow for 302 status redirect requests",
+      "questionvotes" : "0",
+      "other" : ["google-chrome, servlets, internet-explorer, firefox"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40677092/to-add-category-filter-in-product-grid-magento2",
+      "views" : "28",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "To add category filter in Product grid magento2",
+      "questionvotes" : "0",
+      "other" : ["filter, magento2"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40681322/sharing-formsauthentication-cookie-between-wcf-asp-net-application",
+      "views" : "55",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Sharing FormsAuthentication Cookie Between WCF & ASP.NET Application",
+      "questionvotes" : "0",
+      "other" : ["asp.net, cookies, forms-authentication, wcf"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40286920/setting-request-cookies-angular2-http-post-request",
+      "views" : "117",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Setting request cookies angular2 http post request",
+      "questionvotes" : "2",
+      "other" : ["session-cookies, cookies, angular2, http-post"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40676573/how-to-reload-key-from-hsm-by-using-openssl",
+      "views" : "70",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to reload key from HSM by using openssl?",
+      "questionvotes" : "5",
+      "other" : ["pki, openssl, openssl-engine, hsm"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40471989/ios-objective-c-widget-texts-and-images-are-doubled-old-data-are-not-clear",
+      "views" : "86",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "iOS - Objective-C - widget texts and images are doubled - old data are not cleared",
+      "questionvotes" : "3",
+      "other" : ["widget, ios"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40686955/lighthouse-service-worker-how-to-return-http-200-when-offline",
+      "views" : "79",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Lighthouse/Service Worker, how to return http 200 when offline",
+      "questionvotes" : "1",
+      "other" : ["service-worker, lighthouse, webpack, angularjs, offline"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40682877/running-all-ssrs-reports-through-one-report-user-ignoring-own-users-domain",
+      "views" : "85",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Running all SSRS reports through one report user ignoring own users domain",
+      "questionvotes" : "2",
+      "other" : ["reporting-services, ssrs-2012"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40041658/netbeans-clean-build-android-error-java-lang-x500principal-access",
+      "views" : "252",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "NetBeans Clean & Build Android error: Java.Lang X500Principal access",
+      "questionvotes" : "2",
+      "other" : ["ant, android, java.lang, netbeans"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40690099/clarification-wanted-for-make-step-function-of-googles-deep-dream-script",
+      "views" : "65",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Clarification wanted for make_step function of Google's deep dream script",
+      "questionvotes" : "5",
+      "other" : ["machine-learning, neural-network"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40676426/what-is-the-difference-between-x-is-null-and-x-null",
+      "views" : "579",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "What is the difference between \u201cx is null\u201d and \u201cx == null\u201d?",
+      "questionvotes" : "26",
+      "other" : ["c#-7.0, .net, null, pattern-matching"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40674829/tinymce-move-cursor-to-end-of-inserted-text",
+      "views" : "24",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "TinyMCE: Move cursor to end of inserted text",
+      "questionvotes" : "0",
+      "other" : ["tinymce, tinymce-3"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40631592/vs-not-recognizing-project-dependencies",
+      "views" : "62",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "VS not recognizing project dependencies",
+      "questionvotes" : "3",
+      "other" : ["visual-studio-2015"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40673389/game-center-sending-and-receiving-data-with-swift",
+      "views" : "56",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Game Center - sending and receiving data with Swift",
+      "questionvotes" : "1",
+      "other" : ["ios10, ios, swift3, game-center"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40636799/copy-text-to-clipboard-through-safari-and-read-that-clipboard-data-in-ios-app",
+      "views" : "52",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Copy text to clipboard through safari and read that clipboard data in iOS App",
+      "questionvotes" : "3",
+      "other" : ["clipboard, ios, safari, mobile-safari, uipasteboard"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40584791/is-it-possible-to-create-a-firefoxprofile-and-pass-in-saved-passwords",
+      "views" : "83",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Is it possible to create a FirefoxProfile and pass in saved passwords?",
+      "questionvotes" : "2",
+      "other" : ["firefox-profile, selenium, firefox, selenium-webdriver"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/6492683/how-to-detect-divs-dimension-changed",
+      "views" : "113000",
+      "source" : "stackoverflow",
+      "answers" : "16",
+      "question" : "How to detect DIV's dimension changed?",
+      "questionvotes" : "133",
+      "other" : ["jquery"],
+      "languages" : ["javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40689884/save-image-details-on-upload-to-amazon-s3-with-refile-gem-ruby-on-rails",
+      "views" : "49",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Save image details on upload to amazon S3 with refile gem, Ruby on Rails",
+      "questionvotes" : "1",
+      "other" : ["amazon-s3, refile, ruby-on-rails"],
+      "languages" : ["ruby"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40118209/running-windows-subsystem-for-linux-wsl-bash-on-emacs-shell",
+      "views" : "123",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Running Windows Subsystem for Linux (WSL) bash on Emacs shell",
+      "questionvotes" : "1",
+      "other" : ["emacs, wsl"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40683883/python-signal-counter",
+      "views" : "137",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Python signal counter",
+      "questionvotes" : "4",
+      "other" : ["signals, analysis"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40546333/how-to-simulate-typing-keypresses-in-c-on-mac-os",
+      "views" : "96",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How to simulate typing/keypresses in C++ on Mac OS?",
+      "questionvotes" : "3",
+      "other" : ["osx, keypress"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40653233/nss-jss-load-user-imported-cert-along-with-pkcs11-smartcard-in-java",
+      "views" : "42",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "NSS/JSS: load user imported cert along with PKCS#11 smartcard in Java",
+      "questionvotes" : "2",
+      "other" : ["client-certificates, nss"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40558365/tweepy-3-5-search-geocode-returns-empty-list",
+      "views" : "16",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "tweepy 3.5 search geocode returns empty list",
+      "questionvotes" : "0",
+      "other" : ["geocode, python-3.x, tweepy"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40687002/yii2-select2-asset-bundle-not-loading-css-when-called-from-ajax",
+      "views" : "35",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "yii2 select2 asset bundle not loading css when called from ajax",
+      "questionvotes" : "0",
+      "other" : ["yii2, select2, yii2-model"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40673348/service-hdfs-check-failed-java-net-unknownhostexception-hortonworks",
+      "views" : "79",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Service 'hdfs' check failed: java.net.UnknownHostException - Hortonworks",
+      "questionvotes" : "2",
+      "other" : ["hdfs, hadoop, hortonworks-data-platform"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40615641/testing-os-exit-scenarios-in-go-with-coverage-information-coveralls-io-goverall",
+      "views" : "370",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Testing os.Exit scenarios in Go with coverage information (coveralls.io/Goveralls)",
+      "questionvotes" : "8",
+      "other" : ["unit-testing, testing, coveralls, architecture"],
+      "languages" : ["go"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40693175/delay-while-using-placeautocomplete-without-using-rest-api",
+      "views" : "61",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Delay while using PlaceAutocomplete without using Rest API",
+      "questionvotes" : "2",
+      "other" : ["google-places-api, android"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40503644/opencl-distinguishing-computation-failure-from-tdr-interrupt",
+      "views" : "34",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "OpenCL: Distinguishing computation failure from TDR interrupt",
+      "questionvotes" : "3",
+      "other" : ["windows, opencl"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40693566/roslyn-codefix-cant-find-previously-created-additionaldocument",
+      "views" : "64",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Roslyn CodeFix can't find previously created AdditionalDocument",
+      "questionvotes" : "2",
+      "other" : ["code-analysis, file, roslyn"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/35304622/socket-io-1-0-0-using-the-default-room-vs-a-custom-room-for-user-specific-com",
+      "views" : "141",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "socket.io 1.0.0^ : Using the default room vs a custom room for user specific communications",
+      "questionvotes" : "2",
+      "other" : ["node.js, socket.io, sockets, socket.io-1.0"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40680344/jvm-g1gcs-mixed-gc-not-collecting-much-old-regions",
+      "views" : "110",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "JVM G1GC's mixed gc not collecting much old regions",
+      "questionvotes" : "5",
+      "other" : ["garbage-collection, g1gc"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40658423/how-to-listen-to-children-elements-events-in-a-directive",
+      "views" : "85",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How to listen to children elements events in a directive?",
+      "questionvotes" : "1",
+      "other" : ["angular2, angular2"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40683884/uploading-file-on-sharepoint-with-python-causes-uploaded-file-to-retain-headers",
+      "views" : "45",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Uploading file on sharepoint with python causes uploaded file to retain headers in the content",
+      "questionvotes" : "3",
+      "other" : ["http-headers, sharepoint"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40626775/angular-mocks-and-jasmine-argument-fn-is-not-a-function-got-object-error",
+      "views" : "105",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Angular Mocks and Jasmine - \u201cArgument 'fn' is not a function, got Object\u201d error",
+      "questionvotes" : "1",
+      "other" : ["unit-testing, jasmine, angularjs"],
+      "languages" : ["coffeescript, javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40687211/pymc3-densitydist-not-working-for-simple-example",
+      "views" : "14",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "PyMC3 DensityDist not working for simple example",
+      "questionvotes" : "0",
+      "other" : ["pymc, pymc3"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40682766/multithreading-within-a-celery-worker",
+      "views" : "108",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Multithreading within a Celery Worker",
+      "questionvotes" : "3",
+      "other" : ["celery, multithreading, api-design, rabbitmq"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40599669/error-generating-migration-with-ef-and-dot-net-core-1-postgresql-database",
+      "views" : "59",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Error generating migration with EF and Dot Net Core 1 (PostgreSQL database)",
+      "questionvotes" : "0",
+      "other" : ["asp.net-core, .net, postgresql, asp.net-core-1.0"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40616807/jinja2-frame-variables-in-global-function",
+      "views" : "56",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Jinja2 Frame Variables in Global Function",
+      "questionvotes" : "1",
+      "other" : ["jinja2"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/29962371/list-label-getting-errorcode-105-with-delphi-vcl-components",
+      "views" : "221",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "List & Label: Getting ErrorCode -105 with Delphi VCL components",
+      "questionvotes" : "0",
+      "other" : ["delphi, listlabel"],
+      "languages" : ["vcl"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40661401/private-npm-how-can-the-latest-version-of-a-module-be-installed",
+      "views" : "91",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Private NPM: How can the latest version of a module be installed?",
+      "questionvotes" : "5",
+      "other" : ["node.js, npm, semantic-versioning, repository"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40680331/information-retrieval-looking-for-term-synonyms",
+      "views" : "29",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Information retrieval - looking for term synonyms",
+      "questionvotes" : "2",
+      "other" : ["information-retrieval, web-crawler"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40580808/call-to-audioconverterfillcomplexbuffer-results-in-crashifclientprovidedbogusaud",
+      "views" : "54",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Call to AudioConverterFillComplexBuffer results in CrashIfClientProvidedBogusAudioBufferList only on MacOS Sierra",
+      "questionvotes" : "1",
+      "other" : ["core-audio"],
+      "languages" : ["objective-c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40671306/mono-xbuild-invariant-language-invariant-culture-vs-vs2015-msbuilds-neutra",
+      "views" : "27",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Mono / XBuild Invariant Language (Invariant Culture) vs. VS2015 MSBuild's Neutral Language",
+      "questionvotes" : "1",
+      "other" : ["mono, assemblies, xbuild, invariantculture, culture"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40690641/naming-convention-with-firebase-serialization-deserialization",
+      "views" : "48",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Naming convention with Firebase serialization/deserialization?",
+      "questionvotes" : "3",
+      "other" : ["android, json, firebase-database"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40696443/gae-ndb-restore-fails-with-unexpected-error-contacting-datastore",
+      "views" : "117",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "GAE NDB restore fails with \u201cUnexpected error contacting datastore\u201d",
+      "questionvotes" : "5",
+      "other" : ["backup, google-app-engine, gae-datastore, google-cloud-datastore"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40638122/ionic-video-fullscreen-mode",
+      "views" : "35",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Ionic video fullscreen mode",
+      "questionvotes" : "0",
+      "other" : ["ionic-framework"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40304161/showdialog-method-hangs-without-showing-the-window-deadlock",
+      "views" : "169",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "ShowDialog method hangs without showing the window ¿Deadlock?",
+      "questionvotes" : "3",
+      "other" : ["hang, wpf, .net, message-pump, showdialog"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40689658/reupload-images-on-amazon-s3-carrierwave",
+      "views" : "58",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Reupload images on Amazon S3 carrierwave",
+      "questionvotes" : "0",
+      "other" : ["ruby-on-rails-4, carrierwave, amazon-s3, ruby-on-rails"],
+      "languages" : ["ruby"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40697214/angular2-ng2-chart-customizations",
+      "views" : "120",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Angular2 ng2-chart customizations?",
+      "questionvotes" : "3",
+      "other" : ["ng2-charts, angular2, charts, chart.js"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/36871806/run-each-unit-test-in-a-new-window",
+      "views" : "50",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Run each unit test in a new window",
+      "questionvotes" : "3",
+      "other" : ["unit-testing, phantomjs, testing, karma-runner, automated-tests"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40588280/visual-studio-2015-impersonate-url-for-debugging",
+      "views" : "23",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Visual Studio 2015 impersonate URL for debugging",
+      "questionvotes" : "0",
+      "other" : ["iis-8, visual-studio-2015-comm"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40639507/illegalstateexception-when-replace-fragment-on-restart",
+      "views" : "191",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "IllegalStateException when .replace fragment on restart",
+      "questionvotes" : "7",
+      "other" : ["android, android, illegalstateexception"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/9330523/step-by-step-how-to-do-xdebug-troubleshooting-connection-to-client-ide",
+      "views" : "3000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Step-by-step: How to do Xdebug troubleshooting connection to client IDE",
+      "questionvotes" : "17",
+      "other" : ["xdebug, network-programming, ide"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40613342/how-may-i-detect-requests-generated-by-other-requests-using-ruby-and-puma",
+      "views" : "60",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How may I detect requests generated by other requests using Ruby and Puma?",
+      "questionvotes" : "2",
+      "other" : ["request, emerald-framework, http"],
+      "languages" : ["ruby"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/39859131/using-object-fit-on-a-div-with-child-elements-including-a-canvas",
+      "views" : "150",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Using object-fit on a <div> with child elements, including a <canvas>",
+      "questionvotes" : "9",
+      "other" : ["css3, object-fit, flexbox"],
+      "languages" : ["css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/39400344/draggable-attribute-on-touch-devices",
+      "views" : "49",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Draggable attribute on touch devices",
+      "questionvotes" : "0",
+      "other" : ["draggable, html5-draggable, drag, html5, drag-and-drop"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/36604751/nhibernate-ilist-ordered-list-race-condition",
+      "views" : "63",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Nhibernate IList (ordered list) race condition",
+      "questionvotes" : "3",
+      "other" : ["nhibernate, concurrency, database"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40697485/tmux-command-not-working-at-the-time-of-window-creation",
+      "views" : "39",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "tmux command not working at the time of window creation?",
+      "questionvotes" : "0",
+      "other" : ["terminal, tmux"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/37983149/google-place-picker-is-not-launching-on-android-mi-phones",
+      "views" : "219",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Google place picker is not launching on Android Mi phones",
+      "questionvotes" : "9",
+      "other" : ["google-places-api, android, google-play-services, android"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40670295/how-to-get-ip-address-of-cellular-network-when-device-is-connected-to-wifi-in-an",
+      "views" : "102",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How to get IP address of cellular network when device is connected to WiFi in Android",
+      "questionvotes" : "4",
+      "other" : ["android, networking"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40428184/angular2-how-to-best-handle-expired-authentication-token",
+      "views" : "140",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Angular2 - How to best handle expired authentication token?",
+      "questionvotes" : "4",
+      "other" : ["angular2, angular2, angular2"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/26917689/how-to-use-facets-with-a-dual-y-axis-ggplot",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How to use facets with a dual y-axis ggplot",
+      "questionvotes" : "12",
+      "other" : ["gtable, ggplot2"],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40685751/cordova-xcode8-linker-command-failed-with-exit-code-1",
+      "views" : "29",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Cordova + Xcode8 = Linker command failed with exit code 1",
+      "questionvotes" : "1",
+      "other" : ["xcode, cordova"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/37446702/find-all-windows-beneath-a-point",
+      "views" : "123",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Find all windows beneath a point",
+      "questionvotes" : "4",
+      "other" : ["windows, winapi"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40682199/joing-lists-with-anonymous-columns-from-dynamic-pivot",
+      "views" : "114",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Joing lists with anonymous columns from dynamic pivot",
+      "questionvotes" : "2",
+      "other" : ["join, dynamic, linq, pivot"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40666490/is-it-possible-to-mix-typescript-clojurescript",
+      "views" : "65",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Is it possible to mix TypeScript & ClojureScript",
+      "questionvotes" : "2",
+      "other" : ["clojurescript"],
+      "languages" : ["typescript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40659570/scalable-and-extensible-cross-platform-architecture-for-a-mostly-solo-developmen",
+      "views" : "33",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Scalable and extensible cross-platform architecture for a mostly solo development pipeline?",
+      "questionvotes" : "0",
+      "other" : ["sysadmin, continuous-integration, architecture, devops"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40560164/python-flask-page-not-rendering-with-external-css-and-javascript",
+      "views" : "86",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Python Flask page not rendering with external CSS and Javascript",
+      "questionvotes" : "0",
+      "other" : ["flask, jinja2"],
+      "languages" : ["python, javascript, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/26999491/boostasioyield-context-unexpected-forced-unwind-exception",
+      "views" : "872",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "boost::asio::yield_context: unexpected forced_unwind exception",
+      "questionvotes" : "6",
+      "other" : ["boost-asio, boost, coroutine"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40709384/change-webview-source-from-text-field",
+      "views" : "75",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Change webview source from text field",
+      "questionvotes" : "-2",
+      "other" : ["webview, android, android"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40711452/cross-origin-redirection-denied-by-cross-origin-resource-sharing-policy-in-safar",
+      "views" : "101",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Cross-origin redirection denied by Cross-Origin Resource Sharing policy in Safari",
+      "questionvotes" : "0",
+      "other" : ["safari, cors"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40721113/buildconfig-debug-or-equivalent-as-a-constant-value",
+      "views" : "124",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "BuildConfig.DEBUG (or equivalent) as a constant value",
+      "questionvotes" : "1",
+      "other" : ["android, gradle, android, annotations"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40715680/elasticsearch-prioritize-specific-ids-but-dont-filter",
+      "views" : "76",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Elasticsearch prioritize specific _ids but don't filter?",
+      "questionvotes" : "0",
+      "other" : ["elasticsearch, chewy-gem"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40719697/why-snippet-manager-doesnt-works",
+      "views" : "41",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Why Snippet Manager doesn't works?",
+      "questionvotes" : "2",
+      "other" : ["code-snippets, visual-studio, plugins"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/38945033/implementing-collaborative-authentication-in-java-web-application",
+      "views" : "71",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Implementing Collaborative Authentication in Java Web Application",
+      "questionvotes" : "4",
+      "other" : ["authentication, web-applications"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40739398/how-proc-is-executed-when-passed-to-instance-exec",
+      "views" : "102",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How proc is executed when passed to `instance_exec`",
+      "questionvotes" : "6",
+      "other" : ["proc, metaprogramming, lambda"],
+      "languages" : ["ruby"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/36420337/running-visual-studio-remote-debugger-in-windows-container-docker-managed",
+      "views" : "536",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Running Visual Studio Remote Debugger in Windows Container (Docker managed)",
+      "questionvotes" : "10",
+      "other" : ["debugging, docker, remote-debugging, containers, windows-server-2016"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40460274/gstreamer-appears-to-be-not-calling-my-callbacks",
+      "views" : "91",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "GStreamer appears to be not calling my callbacks",
+      "questionvotes" : "2",
+      "other" : ["callback, qt, gstreamer-1.0"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40427369/sending-messages-via-llrp",
+      "views" : "87",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Sending messages via LLRP",
+      "questionvotes" : "2",
+      "other" : ["node.js, llrp, rfid"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40672170/how-can-i-manually-check-the-url-authorization-in-mvc5",
+      "views" : "160",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How can I manually check the url authorization in MVC5?",
+      "questionvotes" : "3",
+      "other" : ["asp.net-mvc, iis, authorization, asp.net-mvc-5"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40485997/android-warning-ignoring-innerclasses-attribute-jnamed",
+      "views" : "48",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Android Warning - Ignoring InnerClasses attribute (jnamed)",
+      "questionvotes" : "0",
+      "other" : ["proguard, android, android, warnings"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40692723/how-to-restrict-the-execution-of-runnable-jar-that-is-executed-independently-and",
+      "views" : "76",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How to restrict the execution of runnable JAR that is executed independently and can be executed through web application.?",
+      "questionvotes" : "1",
+      "other" : ["spring-mvc, jar, processbuilder"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40708043/how-to-listen-to-d-bus-events-and-the-ipc-channel-at-the-same-time",
+      "views" : "27",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How to listen to D-Bus events and the IPC channel at the same time?",
+      "questionvotes" : "0",
+      "other" : ["glib, python-3.4, dbus, systemd, python-3.x"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40716903/aws-elastic-beanstalk-ebextensions-config-options-not-being-used",
+      "views" : "39",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "AWS Elastic Beanstalk .ebextensions' config_options not being used",
+      "questionvotes" : "0",
+      "other" : ["amazon-web-services, elastic-beanstalk, amazon-elastic-beanstalk"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40282964/svn-error-repository-moved-temporarily-to-please-relocate",
+      "views" : "104",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "SVN Error \u201c Repository moved temporarily to \u2026 please relocate\u201d",
+      "questionvotes" : "-1",
+      "other" : ["apache, svn, tortoisesvn, eclipse, subversive"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40653384/sending-app-to-background-and-re-launching-it-from-recents-in-xctest",
+      "views" : "46",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Sending app to background and re-launching it from recents in XCTest",
+      "questionvotes" : "3",
+      "other" : ["ui-automation, ios, xctest, xctestcase"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40751662/is-a-b-255-255-the-same-as-a-b-255",
+      "views" : "5000",
+      "source" : "stackoverflow",
+      "answers" : "9",
+      "question" : "Is ((a + (b & 255)) & 255) the same as ((a + b) & 255)?",
+      "questionvotes" : "61",
+      "other" : ["binary, logic"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40742918/uses-of-destructor-delete",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Uses of destructor = delete;",
+      "questionvotes" : "33",
+      "other" : ["c++11, destructor"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40766653/understanding-complex-typedef-expressions",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "7",
+      "question" : "Understanding complex typedef expressions [on hold]",
+      "questionvotes" : "11",
+      "other" : ["c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40809985/are-functors-actually-faster-than-pointers-to-functions",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Are functors actually faster than pointers to functions?",
+      "questionvotes" : "31",
+      "other" : ["inlining, function-object, function-pointers"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40735138/forward-declaration-of-lambdas-in-c",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Forward declaration of lambdas in C++",
+      "questionvotes" : "30",
+      "other" : ["definition, lambda, c++11, declaration"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40773259/declaring-arrays-in-c",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "Declaring arrays in C++",
+      "questionvotes" : "12",
+      "other" : ["arrays, stl, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40807404/does-the-c-standard-specify-that-for-some-cases-the-compiling-should-fail-with",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Does the C++ standard specify that for some cases the compiling should fail with an error?",
+      "questionvotes" : "18",
+      "other" : ["language-lawyer, type-conversion, iso"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40793038/why-css-selector-with-sign-direct-child-overrides-default-styles",
+      "views" : "775",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Why CSS selector with > sign (direct child) overrides default styles?",
+      "questionvotes" : "20",
+      "other" : ["css-selectors"],
+      "languages" : ["html, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40791235/error-with-ranged-for-inside-function",
+      "views" : "543",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "Error with ranged for inside function",
+      "questionvotes" : "14",
+      "other" : ["arrays, ranged-loops"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40765232/why-can-constructor-syntax-not-be-used-with-the-unsigned-int-type",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Why can constructor syntax not be used with the \u201cunsigned int\u201d type?",
+      "questionvotes" : "25",
+      "other" : ["type-conversion, language-lawyer"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40759800/in-special-cases-is-faster-than",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "In special cases: Is & faster than %?",
+      "questionvotes" : "32",
+      "other" : ["performance"],
+      "languages" : ["c, c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40718542/why-is-throws-not-type-safe-in-swift",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Why is 'throws' not type safe in Swift?",
+      "questionvotes" : "26",
+      "other" : ["try-catch, throw"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40820787/is-there-a-difference-between-and-list-when-using-id",
+      "views" : "780",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Is there a difference between [] and list() when using id()?",
+      "questionvotes" : "18",
+      "other" : ["python-internals, list"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40782381/is-there-a-way-to-have-pi-in-a-css-calc",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Is there a way to have pi in a CSS calc?",
+      "questionvotes" : "20",
+      "other" : ["css3, svg, css-animations"],
+      "languages" : ["css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40767681/absence-of-compilation-error-when-using-parametrized-constructor",
+      "views" : "686",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Absence of compilation error when using parametrized constructor",
+      "questionvotes" : "18",
+      "other" : ["most-vexing-parse"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40746309/want-kind-of-constexpr-switch-case-on-type",
+      "views" : "587",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Want kind of constexpr switch case on type",
+      "questionvotes" : "15",
+      "other" : ["templates, metaprogramming"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40823526/error-validate-default-type-an-options-default-must-match-its-type-argume",
+      "views" : "803",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Error \u201c'Validate_default_type!': An option's default must match its type (ArgumentError)\u201d when running Ruby on Rails generate on Windows",
+      "questionvotes" : "11",
+      "other" : ["ruby-on-rails"],
+      "languages" : ["ruby"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40787990/how-to-avoid-const-cast-for-map-access",
+      "views" : "762",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How to avoid const cast for map access?",
+      "questionvotes" : "15",
+      "other" : ["stdmap, c++14, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40742801/set-new-variable-na-if-any-other-is-na",
+      "views" : "151",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Set new variable NA if any other is NA",
+      "questionvotes" : "4",
+      "other" : [null],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40767647/populate-dictionary-from-list",
+      "views" : "116",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Populate dictionary from list",
+      "questionvotes" : "5",
+      "other" : ["list, python-3.x, dictionary"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40713337/clarify-to-understand-c-variables",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Clarify to understand C variables",
+      "questionvotes" : "9",
+      "other" : [null],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40811117/equivalent-of-python-string-format-in-go",
+      "views" : "409",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Equivalent of Python string.format in Go?",
+      "questionvotes" : "9",
+      "other" : [null],
+      "languages" : ["python, go"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40759137/split-character-vector-at-math-comparisons-signs-in-r",
+      "views" : "327",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Split character vector at math comparisons signs in R",
+      "questionvotes" : "13",
+      "other" : ["regex"],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40819058/is-this-a-forwarding-reference",
+      "views" : "522",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Is this a forwarding reference?",
+      "questionvotes" : "13",
+      "other" : ["forwarding-reference, perfect-forwarding, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40799211/reference-count-in-arc",
+      "views" : "521",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Reference count in ARC",
+      "questionvotes" : "15",
+      "other" : ["ios, automatic-ref-counting"],
+      "languages" : ["objective-c, swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40805865/float-initialization-from-double-with-braces",
+      "views" : "429",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "float initialization from double with braces",
+      "questionvotes" : "8",
+      "other" : ["c++14, value-initialization, c++11, brace-initialization"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40776014/javascript-point-collision-with-regular-hexagon",
+      "views" : "149",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "JavaScript Point Collision with Regular Hexagon",
+      "questionvotes" : "13",
+      "other" : ["collision-detection, canvas, hexagonal-tiles, html5"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40822067/why-does-incorrect-assignment-to-a-global-variable-raise-exception-early",
+      "views" : "415",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Why does incorrect assignment to a global variable raise exception early?",
+      "questionvotes" : "11",
+      "other" : ["function, scope, python-3.x"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40801684/cant-upload-android-assets-to-publish-app-in-playstore",
+      "views" : "445",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Can't upload Android Assets to publish app in PlayStore?",
+      "questionvotes" : "12",
+      "other" : ["android, image, assets"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40775604/how-to-return-array-with-true-false-values-comparing-2-arrays",
+      "views" : "179",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "How to return array with true/false values comparing 2 arrays?",
+      "questionvotes" : "6",
+      "other" : ["arrays, wordpress"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40816421/find-duplicate-strings-in-list-and-make-them-unique",
+      "views" : "215",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Find duplicate strings in list and make them unique",
+      "questionvotes" : "8",
+      "other" : ["duplicates, unique, list"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40737145/sort-a-sublist-of-elements-in-a-list-leaving-the-rest-in-place",
+      "views" : "209",
+      "source" : "stackoverflow",
+      "answers" : "9",
+      "question" : "Sort a sublist of elements in a list leaving the rest in place",
+      "questionvotes" : "7",
+      "other" : ["python-2.7, sorting, list, key"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40734359/could-someone-help-describe-the-two-types-of-array-storage-in-javascript",
+      "views" : "692",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Could someone help describe the two types of array storage in Javascript?",
+      "questionvotes" : "12",
+      "other" : ["arrays, v8"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40741790/javascript-array-mapping",
+      "views" : "111",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "JavaScript Array mapping",
+      "questionvotes" : "4",
+      "other" : ["arrays"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40751875/has-c-always-allowed-using-a-variable-for-array-size",
+      "views" : "100",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Has C++ Always Allowed Using A Variable for Array Size? [closed]",
+      "questionvotes" : "1",
+      "other" : ["arrays, dynamic, size"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40812204/what-are-the-scopes-of-default-template-arguments",
+      "views" : "300",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "What are the scopes of default template arguments?",
+      "questionvotes" : "16",
+      "other" : ["templates, c++14"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40817167/splitting-a-string-into-an-array-of-n-words",
+      "views" : "129",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Splitting a string into an array of n words",
+      "questionvotes" : "6",
+      "other" : ["regex"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40734253/making-trace-optimise-away-like-assert",
+      "views" : "92",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Making \u201ctrace\u201d optimise away like \u201cassert\u201d?",
+      "questionvotes" : "5",
+      "other" : ["debugging, ghc"],
+      "languages" : ["haskell"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40787241/how-to-make-this-initialization-legal-in-c",
+      "views" : "247",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "How to make this initialization legal in C++?",
+      "questionvotes" : "4",
+      "other" : ["c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40736293/how-to-declare-a-vector-of-functions-lambdas",
+      "views" : "241",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How to declare a vector of functions (lambdas)",
+      "questionvotes" : "4",
+      "other" : ["c++14, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40832381/if-object-is-string-color-c-sharp-7-0-tuple-usage-doesnt-work",
+      "views" : "418",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "\u201cif (object is (string, Color))\u201d c# 7.0 tuple usage doesn't work",
+      "questionvotes" : "12",
+      "other" : ["visual-studio-2017, c#-7.0, tuples"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40802071/pass-an-extra-argument-to-a-callback-function",
+      "views" : "495",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Pass an extra argument to a callback function",
+      "questionvotes" : "9",
+      "other" : ["function, callback, parameters"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40824677/how-is-pow-calculated-in-c",
+      "views" : "135",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "How is pow() calculated in C?",
+      "questionvotes" : "6",
+      "other" : ["pow, math.h"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40765584/why-cant-i-remove-the-empty-string-in-this-list",
+      "views" : "101",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "Why can't I remove the empty string in this list?",
+      "questionvotes" : "-1",
+      "other" : [null],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40767476/how-does-rhs-work",
+      "views" : "99",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "How does rhs work?",
+      "questionvotes" : "2",
+      "other" : ["overloading"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40791002/elegant-way-to-delete-items-in-a-list-which-do-not-has-substrings-that-appear-in",
+      "views" : "93",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Elegant way to delete items in a list which do not has substrings that appear in another list",
+      "questionvotes" : "5",
+      "other" : ["list-comprehension"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40788361/can-i-guarantee-that-a-non-ref-method-doesnt-change-the-array-size-c-sharp",
+      "views" : "92",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Can I guarantee that a non-ref method doesn't change the array size C#",
+      "questionvotes" : "4",
+      "other" : ["arrays"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40759161/how-can-i-apply-lambda-to-some-object",
+      "views" : "404",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "How can I apply lambda to some object",
+      "questionvotes" : "8",
+      "other" : ["metaprogramming, lambda"],
+      "languages" : ["ruby"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40771073/is-casting-from-object-to-boolean-valid-java-language",
+      "views" : "115",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Is casting from Object to boolean valid Java language?",
+      "questionvotes" : "11",
+      "other" : ["language-specifications"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40738351/forward-declaration-as-struct-vs-class",
+      "views" : "357",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Forward declaration as struct vs class",
+      "questionvotes" : "11",
+      "other" : ["struct, forward-declaration"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40831682/subset-where-there-are-at-least-five-consecutive-years-in-a-data-frame-column",
+      "views" : "75",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "subset where there are at least five consecutive years in a data.frame column",
+      "questionvotes" : "4",
+      "other" : ["data.table, dataframe"],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40781475/differences-between-c-sharp-var-and-c-auto",
+      "views" : "197",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Differences between C# \u201cvar\u201d and C++ \u201cauto\u201d",
+      "questionvotes" : "4",
+      "other" : ["var, auto"],
+      "languages" : ["c#, c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40830375/c-struct-tm-time-t",
+      "views" : "242",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "C++ struct tm & time_t",
+      "questionvotes" : "8",
+      "other" : ["c++11, time-t"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40761035/are-c-lambdas-true-closures-capturing-by-reference",
+      "views" : "212",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Are C++ lambdas true closures? Capturing by reference",
+      "questionvotes" : "5",
+      "other" : ["c++14, lambda"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40719641/regex-pattern-for-string-replace",
+      "views" : "77",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Regex Pattern for string replace",
+      "questionvotes" : "5",
+      "other" : ["regex"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40823418/why-cant-i-import-from-a-module-alias",
+      "views" : "95",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Why can't I import from a module alias? [on hold]",
+      "questionvotes" : "10",
+      "other" : [null],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40773517/how-to-randomize-between-given-number-in-java",
+      "views" : "73",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "How to randomize between given number in Java?",
+      "questionvotes" : "2",
+      "other" : ["integer, random"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40767175/semantically-correct-way-to-select-multiple-elements-in-jquery",
+      "views" : "70",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Semantically \u201ccorrect\u201d way to select multiple elements in jQuery?",
+      "questionvotes" : "5",
+      "other" : ["jquery"],
+      "languages" : ["javascript, html, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40811452/injecting-indexed-functor-into-functor-coproduct",
+      "views" : "626",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Injecting Indexed Functor into Functor Coproduct",
+      "questionvotes" : "8",
+      "other" : ["dependent-type, free-monad"],
+      "languages" : ["haskell"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40814933/how-do-the-perl-6-set-operations-compare-elements",
+      "views" : "108",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "How do the Perl 6 set operations compare elements?",
+      "questionvotes" : "6",
+      "other" : ["nqp, set, moarvm"],
+      "languages" : ["perl6"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40763154/why-12-and-12-are-not-the-same-in-ocaml-in-terms-of",
+      "views" : "105",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Why 1::2::[] and [1;2] are not the same in OCaml in terms of ==?",
+      "questionvotes" : "2",
+      "other" : ["functional-programming"],
+      "languages" : ["ocaml"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40713242/how-can-i-pass-a-sequence-as-a-parameter-in-perl-6",
+      "views" : "81",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How can I pass a sequence as a parameter in Perl 6?",
+      "questionvotes" : "6",
+      "other" : ["seq"],
+      "languages" : ["perl6"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40802341/ienumerable-get-all-before-the-last-that-matches-a-predicate",
+      "views" : "95",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "IEnumerable: Get all before the last that matches a predicate",
+      "questionvotes" : "2",
+      "other" : ["linq"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40716707/any-way-to-convert-this-for-loop-with-list-comprehension",
+      "views" : "103",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Any way to convert this for loop with list comprehension?",
+      "questionvotes" : "1",
+      "other" : ["python-2.7, for-loop, list-comprehension"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40805769/how-to-count-distinct-values-in-a-combination-of-columns-while-grouping-by-in-pa",
+      "views" : "46",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "How to count distinct values in a combination of columns while grouping by in pandas?",
+      "questionvotes" : "3",
+      "other" : ["group-by, pandas"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40809553/what-makes-it-possible-for-glibc-malloc-to-compare-pointers-from-different-obje",
+      "views" : "125",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "What makes it possible for glibc malloc to compare pointers from different \u201cobjects\u201d?",
+      "questionvotes" : "9",
+      "other" : ["malloc, language-lawyer, glibc"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40744328/how-to-order-a-list-of-lists-by-the-first-value",
+      "views" : "75",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "How to order a list of lists by the first value",
+      "questionvotes" : "4",
+      "other" : [null],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40766094/what-is-the-most-pythonic-way-to-reuse-data-in-multiple-calls-to-same-function",
+      "views" : "259",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "What is the most pythonic way to reuse data in multiple calls to same function?",
+      "questionvotes" : "7",
+      "other" : [null],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40732418/failed-to-resolve-com-google-android-gmsplay-services-appindexing10-0-0",
+      "views" : "427",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Failed to resolve: `com.google.android.gms:play-services-appindexing:10.0.0`",
+      "questionvotes" : "6",
+      "other" : ["android, android"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40788316/julia-limited-printing-of-large-arrays",
+      "views" : "93",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Julia: limited printing of large arrays",
+      "questionvotes" : "5",
+      "other" : ["arrays, julia-lang, printing"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40746482/c-class-template-deduction-p0091r0-for-function-arguments",
+      "views" : "193",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "C++ Class template deduction (P0091R0) for function arguments",
+      "questionvotes" : "14",
+      "other" : ["c++1z"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40778629/matlab-convert-vector-to-unit-vector",
+      "views" : "71",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "MATLAB - convert vector to unit vector [on hold]",
+      "questionvotes" : "1",
+      "other" : ["vector"],
+      "languages" : ["matlab"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40742941/change-text-from-uppercase-to-lowercase-jquery",
+      "views" : "71",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Change text from uppercase to lowercase jQuery",
+      "questionvotes" : "1",
+      "other" : ["jquery"],
+      "languages" : ["javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40769695/add-a-new-column-and-insert-specific-values-according-to-an-defined-intervall-in",
+      "views" : "43",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Add a new column and insert specific values according to an defined intervall in python",
+      "questionvotes" : "4",
+      "other" : ["numpy, pandas"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40737472/list-of-dictionary-within-dictionary-using-for-loop",
+      "views" : "55",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "List of dictionary within dictionary using for loop",
+      "questionvotes" : "1",
+      "other" : ["python-2.7, for-loop, dictionary"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40804138/c-sharp-efficiency-for-method-parameters",
+      "views" : "109",
+      "source" : "stackoverflow",
+      "answers" : "7",
+      "question" : "C# Efficiency for method parameters",
+      "questionvotes" : "0",
+      "other" : [null],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40757947/how-does-double-quote-symbol-have-methods",
+      "views" : "92",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "How does \u201c\u201d (double quote symbol) have methods?",
+      "questionvotes" : "2",
+      "other" : ["literals, string"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40830717/regarding-dynamic-memory-allocation-in-c",
+      "views" : "54",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Regarding dynamic memory allocation in C++",
+      "questionvotes" : "2",
+      "other" : ["pointers, dynamic-allocation"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40805302/php-generate-random-numbers-with-no-duplicates",
+      "views" : "66",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "PHP - Generate random numbers with no duplicates",
+      "questionvotes" : "1",
+      "other" : [null],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40800450/java-what-does-the-first-index-represent-in-2d-array",
+      "views" : "66",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Java: What does the first index represent in 2D array?",
+      "questionvotes" : "1",
+      "other" : ["arrays"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40755567/group-by-multiple-column-in-linq-in-c-sharp",
+      "views" : "178",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Group By Multiple Column In LINQ in C#",
+      "questionvotes" : "7",
+      "other" : ["linq"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40808006/why-does-adding-a-move-constructor-disable-initializier-list",
+      "views" : "83",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "why does adding a move constructor disable initializier list?",
+      "questionvotes" : "5",
+      "other" : ["initializer-list, move"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40805206/simple-approximation-of-sine",
+      "views" : "80",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Simple approximation of Sine [on hold]",
+      "questionvotes" : "2",
+      "other" : ["sin"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40737258/how-can-i-sum-array-elements-in-place-in-ruby",
+      "views" : "99",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "How can i sum array elements in place in ruby?",
+      "questionvotes" : "2",
+      "other" : [null],
+      "languages" : ["ruby"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40717271/contains-method-is-not-working-for-arrays-aslist-in-java",
+      "views" : "77",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "contains() method is not working for Arrays.asList in java",
+      "questionvotes" : "2",
+      "other" : ["collections, arraylist, list, string"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40832232/what-does-haskells-do-keyword-do",
+      "views" : "59",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "What does Haskell's \u201cdo\u201d keyword do?",
+      "questionvotes" : "2",
+      "other" : ["main, keyword, syntax"],
+      "languages" : ["haskell, io"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40743389/what-is-a-smarter-way-to-check-if-a-joda-time-datetime-object-does-not-represent",
+      "views" : "75",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "What is a smarter way to check if a Joda-Time DateTime object does not represent the last day of the year?",
+      "questionvotes" : "4",
+      "other" : ["date, datetime, jodatime"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40717756/add-multiple-columns-simultaneously-based-on-a-sequence",
+      "views" : "58",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Add multiple columns simultaneously based on a sequence",
+      "questionvotes" : "3",
+      "other" : [null],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40722980/can-a-struct-be-smaller-than-the-sum-of-its-components",
+      "views" : "122",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Can a struct be smaller than the sum of its components?",
+      "questionvotes" : "5",
+      "other" : ["sizeof, struct"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40822700/how-to-convert-a-list-of-strings-to-list-of-dictonaries-in-python",
+      "views" : "87",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "How to convert a list of strings to list of dictonaries in python?",
+      "questionvotes" : "6",
+      "other" : ["list, string, dictionary"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40781417/declare-member-variables-from-variadic-template-parameter",
+      "views" : "41",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Declare member variables from variadic template parameter",
+      "questionvotes" : "4",
+      "other" : [null],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837371/simplification-of-successive-if-statements-in-java",
+      "views" : "51",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Simplification of successive if statements in Java",
+      "questionvotes" : "5",
+      "other" : ["multidimensional-array, if-statement"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40813407/multiple-dot-operator-c-class",
+      "views" : "138",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Multiple dot operator (c++ class)",
+      "questionvotes" : "6",
+      "other" : ["method-chaining"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40752434/how-to-tell-between-undefined-array-elements-and-empty-slots",
+      "views" : "65",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How to tell between undefined array elements and empty slots?",
+      "questionvotes" : "9",
+      "other" : ["arrays, undefined"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40767213/why-no-transparent-c1x-stdmapat",
+      "views" : "374",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Why no transparent C++1x std::map::at?",
+      "questionvotes" : "8",
+      "other" : ["c++14, language-lawyer, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40750338/python-lowest-cost-of-checking-various-equalities-at-once",
+      "views" : "135",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "python lowest cost of checking various equalities at once",
+      "questionvotes" : "6",
+      "other" : ["list"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40354978/why-is-this-c-code-faster-than-my-hand-written-assembly-for-testing-the-collat",
+      "views" : "37000",
+      "source" : "stackoverflow",
+      "answers" : "11",
+      "question" : "Why is this C++ code faster than my hand-written assembly for testing the Collatz conjecture?",
+      "questionvotes" : "391",
+      "other" : ["performance, optimization, x86"],
+      "languages" : ["assembly, c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40633059/why-write-1-000-000-000-as-100010001000-in-c",
+      "views" : "9000",
+      "source" : "stackoverflow",
+      "answers" : "7",
+      "question" : "Why write 1,000,000,000 as 1000*1000*1000 in C?",
+      "questionvotes" : "93",
+      "other" : ["integer, literals"],
+      "languages" : ["objective-c, c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40483266/why-is-a-256-different-than-a-0xff",
+      "views" : "14000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Why is (a % 256) different than (a & 0xFF)?",
+      "questionvotes" : "130",
+      "other" : ["optimization"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40447195/can-i-hint-the-optimizer-by-giving-the-range-of-an-integer",
+      "views" : "6000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Can I hint the optimizer by giving the range of an integer?",
+      "questionvotes" : "161",
+      "other" : ["integer, range, optimization, compiler-optimization"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40590216/is-it-legal-to-index-into-a-struct",
+      "views" : "7000",
+      "source" : "stackoverflow",
+      "answers" : "10",
+      "question" : "Is it legal to index into a struct?",
+      "questionvotes" : "85",
+      "other" : ["struct"],
+      "languages" : ["c, c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40530101/why-is-translatey-50-needed-to-center-an-element-which-is-at-top-50",
+      "views" : "4000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Why is translateY(-50%) needed to center an element which is at top: 50%?",
+      "questionvotes" : "57",
+      "other" : ["css3"],
+      "languages" : ["html, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40751662/is-a-b-255-255-the-same-as-a-b-255",
+      "views" : "5000",
+      "source" : "stackoverflow",
+      "answers" : "9",
+      "question" : "Is ((a + (b & 255)) & 255) the same as ((a + b) & 255)?",
+      "questionvotes" : "61",
+      "other" : ["binary, logic"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40628465/create-three-vertical-dots-ellipsis-inside-a-circle",
+      "views" : "3000",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "Create three vertical dots (ellipsis) inside a circle",
+      "questionvotes" : "46",
+      "other" : [null],
+      "languages" : ["html, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40473943/vagrant-box-could-not-be-found-or-could-not-be-accessed-in-the-remote-catalog",
+      "views" : "3000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Vagrant box could not be found or could not be accessed in the remote catalog - incompatible curl version",
+      "questionvotes" : "60",
+      "other" : ["laravel, osx, vagrant, virtualbox"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40395066/can-0-and-null-be-used-interchangeably",
+      "views" : "4000",
+      "source" : "stackoverflow",
+      "answers" : "7",
+      "question" : "Can '\\0' and NULL be used interchangeably?",
+      "questionvotes" : "51",
+      "other" : ["null"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40622204/uncaught-referenceerror-ytcfg-is-not-defined",
+      "views" : "19000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Uncaught ReferenceError: ytcfg is not defined",
+      "questionvotes" : "130",
+      "other" : ["youtube-iframe-api, referenceerror"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40379293/does-javas-try-with-resources-catch-errors-or-just-exceptions",
+      "views" : "3000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Does Java's try-with-resources catch errors or just exceptions?",
+      "questionvotes" : "44",
+      "other" : ["exception, junit, exception-handling"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40462612/moving-a-member-function-from-base-class-to-derived-class-breaks-the-program-for",
+      "views" : "3000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Moving a member function from base class to derived class breaks the program for no obvious reason",
+      "questionvotes" : "50",
+      "other" : ["templates, gotchas, c++11, namespaces"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40592298/why-would-the-character-a-be-compared-with-0x41",
+      "views" : "5000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Why would the character 'A' be compared with 0x41?",
+      "questionvotes" : "79",
+      "other" : ["string"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40677631/why-are-the-memory-addresses-of-string-literals-so-different-from-others-on-li",
+      "views" : "4000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Why are the memory addresses of string literals so different from others', on Linux?",
+      "questionvotes" : "57",
+      "other" : ["memory-address, string-literals, linux, memory"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40620804/how-do-i-sort-a-list-with-positives-coming-before-negatives-with-values-sorted-r",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "11",
+      "question" : "How do I sort a list with positives coming before negatives with values sorted respectively?",
+      "questionvotes" : "27",
+      "other" : ["sorting"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40376260/not-like-and-like-not-returning-opposite-result",
+      "views" : "4000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "NOT LIKE and LIKE not returning opposite result",
+      "questionvotes" : "53",
+      "other" : ["sql-like, sql-server, tsql"],
+      "languages" : ["sql"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40632868/returning-the-length-of-largest-word-in-a-sentence",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "11",
+      "question" : "Returning the length of largest word in a sentence [closed]",
+      "questionvotes" : "18",
+      "other" : [null],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40503509/how-exactly-can-and-operators-be-interpreted",
+      "views" : "5000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "How EXACTLY can += and -= operators be interpreted?",
+      "questionvotes" : "41",
+      "other" : ["operators"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40581507/why-is-this-an-invalid-assignment-left-hand-side",
+      "views" : "3000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Why is this an invalid assignment left hand side?",
+      "questionvotes" : "31",
+      "other" : [null],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40452330/removal-of-negative-numbers-from-an-array-in-java",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Removal of negative numbers from an array in Java",
+      "questionvotes" : "18",
+      "other" : ["algorithm"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40630465/can-i-reset-a-css-property-rather-than-overriding-it",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Can I reset a CSS property rather than overriding it?",
+      "questionvotes" : "35",
+      "other" : [null],
+      "languages" : ["html, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40431599/efficiently-dividing-unsigned-value-by-a-power-of-two-rounding-up",
+      "views" : "548",
+      "source" : "stackoverflow",
+      "answers" : "9",
+      "question" : "Efficiently dividing unsigned value by a power of two, rounding up",
+      "questionvotes" : "22",
+      "other" : ["division, optimization, x86, bit-manipulation"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40432805/how-is-true-2-implemented",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How is True < 2 implemented?",
+      "questionvotes" : "23",
+      "other" : ["boolean, comparison-operators, python-2.x"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40591312/c-macro-how-to-get-an-integer-value-into-a-string-literal",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "C Macro - how to get an integer value into a string literal [closed]",
+      "questionvotes" : "28",
+      "other" : ["gcc, c-preprocessor, avr"],
+      "languages" : ["c, assembly"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40742918/uses-of-destructor-delete",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Uses of destructor = delete;",
+      "questionvotes" : "33",
+      "other" : ["c++11, destructor"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40416228/using-c11-type-traits-to-provide-alternate-inline-implementations",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Using C++11 type traits to provide alternate inline implementations",
+      "questionvotes" : "28",
+      "other" : ["templates, typetraits, c++11, exception-handling"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40766653/understanding-complex-typedef-expressions",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "7",
+      "question" : "Understanding complex typedef expressions [on hold]",
+      "questionvotes" : "11",
+      "other" : ["c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40809985/are-functors-actually-faster-than-pointers-to-functions",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Are functors actually faster than pointers to functions?",
+      "questionvotes" : "31",
+      "other" : ["inlining, function-object, function-pointers"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40611540/is-there-a-class-like-optional-but-for-non-optionals",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Is there a class like Optional but for non-optionals?",
+      "questionvotes" : "39",
+      "other" : ["java-8, optional"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40522841/performance-difference-in-between-windows-and-linux-using-intel-compiler-lookin",
+      "views" : "3000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Performance difference in between Windows and Linux using intel compiler: looking at the assembly",
+      "questionvotes" : "63",
+      "other" : ["vtune, intel"],
+      "languages" : ["assembly, c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40481286/why-does-the-size-of-this-stdstring-change-when-characters-are-changed",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Why does the size of this std::string change, when characters are changed?",
+      "questionvotes" : "26",
+      "other" : ["escaping, string"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40735138/forward-declaration-of-lambdas-in-c",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Forward declaration of lambdas in C++",
+      "questionvotes" : "30",
+      "other" : ["definition, lambda, c++11, declaration"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40544030/two-dropdown-values-from-an-array-using-javascript",
+      "views" : "935",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Two dropdown values from an array using JavaScript",
+      "questionvotes" : "18",
+      "other" : ["jquery, arrays"],
+      "languages" : ["javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40456694/should-a-constructor-ever-be-called-on-assignment",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Should a constructor ever be called on assignment?",
+      "questionvotes" : "25",
+      "other" : [null],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40532404/is-calling-a-function-with-local-side-effects-twice-in-the-same-expression-undef",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Is calling a function with local side-effects twice in the same expression undefined behavior?",
+      "questionvotes" : "23",
+      "other" : ["undefined-behavior"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40357924/c11-typeid-uniqueness",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "C++11 - typeid uniqueness",
+      "questionvotes" : "23",
+      "other" : ["typeid, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40484293/stdarg-and-printf-in-c",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "stdarg and printf() in C",
+      "questionvotes" : "15",
+      "other" : ["variadic-functions, gcc, printf"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40773259/declaring-arrays-in-c",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "Declaring arrays in C++",
+      "questionvotes" : "12",
+      "other" : ["arrays, stl, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40655530/how-to-typedef-the-return-type-of-a-method-from-a-template-class",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How to typedef the return type of a method from a template class?",
+      "questionvotes" : "16",
+      "other" : ["return-type-deduction, c++14, types"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40807404/does-the-c-standard-specify-that-for-some-cases-the-compiling-should-fail-with",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Does the C++ standard specify that for some cases the compiling should fail with an error?",
+      "questionvotes" : "18",
+      "other" : ["language-lawyer, type-conversion, iso"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40417527/how-do-i-preserve-line-breaks-when-getting-text-from-a-textarea",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "7",
+      "question" : "How do I preserve line breaks when getting text from a textarea?",
+      "questionvotes" : "21",
+      "other" : [null],
+      "languages" : ["javascript, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40793038/why-css-selector-with-sign-direct-child-overrides-default-styles",
+      "views" : "775",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Why CSS selector with > sign (direct child) overrides default styles?",
+      "questionvotes" : "20",
+      "other" : ["css-selectors"],
+      "languages" : ["html, css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40635107/why-does-unique-ptr-instantiation-compile-to-larger-binary-than-raw-pointer",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Why does unique_ptr instantiation compile to larger binary than raw pointer?",
+      "questionvotes" : "35",
+      "other" : ["smart-pointers"],
+      "languages" : ["assembly, c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40606723/substitute-the-power-symbol-with-cs-pow-syntax-in-mathematical-expression",
+      "views" : "706",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Substitute the ^ (power) symbol with C's pow syntax in mathematical expression",
+      "questionvotes" : "15",
+      "other" : [null],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40377546/why-can-creating-a-static-const-stdstring-cause-an-exception",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Why can creating a static const std::string cause an exception?",
+      "questionvotes" : "24",
+      "other" : ["static, constant-expression"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40791235/error-with-ranged-for-inside-function",
+      "views" : "543",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "Error with ranged for inside function",
+      "questionvotes" : "14",
+      "other" : ["arrays, ranged-loops"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40501769/multiple-using-of-and-operands",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Multiple using of || and && operands",
+      "questionvotes" : "14",
+      "other" : ["entity-framework"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40765232/why-can-constructor-syntax-not-be-used-with-the-unsigned-int-type",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Why can constructor syntax not be used with the \u201cunsigned int\u201d type?",
+      "questionvotes" : "25",
+      "other" : ["type-conversion, language-lawyer"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40331110/split-python-tuple-in-subtuples-with-capacity-limit-in-functional-programming-st",
+      "views" : "810",
+      "source" : "stackoverflow",
+      "answers" : "10",
+      "question" : "Split python tuple in subtuples with capacity limit in functional programming style",
+      "questionvotes" : "10",
+      "other" : ["functional-programming, itertools"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40759800/in-special-cases-is-faster-than",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "In special cases: Is & faster than %?",
+      "questionvotes" : "32",
+      "other" : ["performance"],
+      "languages" : ["c, c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40351219/efficiently-check-if-an-element-occurs-at-least-n-times-in-a-list",
+      "views" : "520",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Efficiently check if an element occurs at least n times in a list",
+      "questionvotes" : "20",
+      "other" : ["performance, optimization, list, python-3.x"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40598483/how-big-can-the-input-to-pythons-input-function-be",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How big can the input to Pythons input() function be?",
+      "questionvotes" : "29",
+      "other" : ["function, input, python-internals, python-3.x"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40718542/why-is-throws-not-type-safe-in-swift",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Why is 'throws' not type safe in Swift?",
+      "questionvotes" : "26",
+      "other" : ["try-catch, throw"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40685006/why-do-python-yield-statements-form-a-closure",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Why do Python yield statements form a closure?",
+      "questionvotes" : "20",
+      "other" : ["functional-programming, closures, yield"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40323715/in-visual-studio-is-there-a-way-to-sort-private-methods-by-usage",
+      "views" : "475",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "In Visual Studio, is there a way to sort private methods by usage?",
+      "questionvotes" : "23",
+      "other" : ["refactoring, visual-studio"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40321265/android-studio-suddenly-started-to-display-unable-to-resolve-com-android-support",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Android Studio Suddenly started to display unable to resolve com.android.support\u202625.0.0 error messages and all of my java files are erroneous now?",
+      "questionvotes" : "14",
+      "other" : ["android, android, android, android"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40477731/mac-osx-sierra-cant-add-vagrant-box-laravel-homestead-due-to-needing-curl-v-9",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "mac OSX Sierra, can't add vagrant box laravel/homestead, due to needing cURL v 9.0.0 or later, and libcurl.4.dylib providing v7.0.0",
+      "questionvotes" : "18",
+      "other" : ["laravel, osx, vagrant, homestead"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40642021/c-fastest-data-structure-for-multiple-searches",
+      "views" : "373",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "C++ fastest data structure for multiple searches",
+      "questionvotes" : "9",
+      "other" : ["data-structures, vector, hashmap"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40339209/is-there-a-case-where-vararg-functions-should-be-preferred-over-variadic-templat",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Is there a case where vararg functions should be preferred over variadic templates?",
+      "questionvotes" : "16",
+      "other" : ["variadic-templates, c++11, varargs"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40820787/is-there-a-difference-between-and-list-when-using-id",
+      "views" : "780",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Is there a difference between [] and list() when using id()?",
+      "questionvotes" : "18",
+      "other" : ["python-internals, list"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40627506/member-function-call-on-shared-ptr-through-member-function-pointer-in-template",
+      "views" : "594",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Member function call on shared_ptr through member function pointer in template",
+      "questionvotes" : "19",
+      "other" : ["templates, smart-pointers, pointers, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40782381/is-there-a-way-to-have-pi-in-a-css-calc",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Is there a way to have pi in a CSS calc?",
+      "questionvotes" : "20",
+      "other" : ["css3, svg, css-animations"],
+      "languages" : ["css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40344159/understanding-memory-allocation-for-large-integers-in-python",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Understanding memory allocation for large integers in Python",
+      "questionvotes" : "24",
+      "other" : ["int, python-internals, python-3.x"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40641468/how-does-si-32-convert-upper-to-lower-case",
+      "views" : "792",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How does s[i]^=32 convert upper to lower case?",
+      "questionvotes" : "7",
+      "other" : ["uppercase, lowercase, string"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40361041/achieve-same-random-number-sequence-on-different-os-with-same-seed",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Achieve same random number sequence on different OS with same seed",
+      "questionvotes" : "29",
+      "other" : ["random, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40434884/how-to-select-all-the-sub-category-records-with-its-main-category-name-and-paren",
+      "views" : "251",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "How to select all the sub_category records with its main_category_name and parent_id in a single query in MySQL?",
+      "questionvotes" : "12",
+      "other" : ["mysql"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40767681/absence-of-compilation-error-when-using-parametrized-constructor",
+      "views" : "686",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Absence of compilation error when using parametrized constructor",
+      "questionvotes" : "18",
+      "other" : ["most-vexing-parse"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40681413/how-to-avoid-warning-about-no-return-expression-when-using-static-assert",
+      "views" : "621",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "How to avoid warning about no return expression when using static_assert?",
+      "questionvotes" : "17",
+      "other" : ["templates, compiler-warnings"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40597626/webpack-validateschema-is-not-a-function",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "webpack.validateSchema is not a function",
+      "questionvotes" : "15",
+      "other" : ["webpack, webpack-dev-server"],
+      "languages" : ["typescript, javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40403041/match-all-substrings-that-end-with-4-digits-using-regular-expressions",
+      "views" : "971",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Match all substrings that end with 4 digits using regular expressions",
+      "questionvotes" : "16",
+      "other" : ["regex, preg-split, string"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40746309/want-kind-of-constexpr-switch-case-on-type",
+      "views" : "587",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Want kind of constexpr switch case on type",
+      "questionvotes" : "15",
+      "other" : ["templates, metaprogramming"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40378205/c-initialising-fields-directly-vs-initialisation-list-in-default-constructor",
+      "views" : "955",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "C++ Initialising fields directly vs initialisation list in default constructor",
+      "questionvotes" : "19",
+      "other" : [null],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40333000/why-do-c17-structured-bindings-not-use",
+      "views" : "738",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Why do C++17 structured bindings not use { }?",
+      "questionvotes" : "28",
+      "other" : ["c++1z"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40622430/stdlistsort-why-the-sudden-switch-to-top-down-strategy",
+      "views" : "899",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "`std::list<>::sort()` - why the sudden switch to top-down strategy?",
+      "questionvotes" : "40",
+      "other" : ["mergesort, sorting, list, algorithm"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40465477/structs-with-enums-are-different-in-c-and-c-why",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Structs with enums are different in C and C++, why?",
+      "questionvotes" : "11",
+      "other" : ["stm32, struct"],
+      "languages" : ["c, c++, arduino"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40588595/chromium-throws-neterr-certificate-transparency-required",
+      "views" : "4000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Chromium throws NET::ERR_CERTIFICATE_TRANSPARENCY_REQUIRED [closed]",
+      "questionvotes" : "28",
+      "other" : ["ssl, chromium, ubuntu"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40653204/closure-in-ttask-runanonproc-not-released-after-anonproc-has-finished",
+      "views" : "444",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Closure in TTask.Run(AnonProc) not released after AnonProc has finished",
+      "questionvotes" : "20",
+      "other" : ["delphi, multithreading"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40342870/extending-javascripts-built-in-types-is-it-evil",
+      "views" : "928",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Extending JavaScript's built-in types - is it evil? [closed]",
+      "questionvotes" : "13",
+      "other" : [null],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40341486/how-to-enable-compiler-warning-when-comparing-char-and-unsigned-char",
+      "views" : "902",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "How to enable compiler warning when comparing char and unsigned char?",
+      "questionvotes" : "21",
+      "other" : ["gcc, compiler-warnings, signed, unsigned"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40546553/call-function-based-on-template-argument-type",
+      "views" : "327",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Call function based on template argument type",
+      "questionvotes" : "10",
+      "other" : ["visual-c++, c++14, c++11"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40658617/are-static-variables-inlined-by-default-inside-templates-in-c17",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Are static variables inlined by default inside templates in C++17?",
+      "questionvotes" : "18",
+      "other" : ["templates, inline, c++1z"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40709321/python-flattening-a-zip",
+      "views" : "607",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Python: flattening a zip?",
+      "questionvotes" : "10",
+      "other" : [null],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40713171/how-to-search-a-json-files-key-case-insensititvely",
+      "views" : "842",
+      "source" : "stackoverflow",
+      "answers" : "8",
+      "question" : "How to search a JSON file's key case insensititvely",
+      "questionvotes" : "8",
+      "other" : ["node.js, json"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40343674/is-there-a-simplistic-way-to-extract-numbers-from-a-string-following-certain-rul",
+      "views" : "380",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "Is there a simplistic way to extract numbers from a string following certain rules?",
+      "questionvotes" : "15",
+      "other" : ["delphi, lazarus, freepascal"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40391500/length-of-longest-subarray-of-sum-less-than-or-equal-to-k",
+      "views" : "471",
+      "source" : "stackoverflow",
+      "answers" : "6",
+      "question" : "Length of longest subarray of sum less than or equal to k",
+      "questionvotes" : "11",
+      "other" : ["dynamic-programming, algorithm"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40417127/clicking-on-notification-doesnt-open-mentioned-activity",
+      "views" : "270",
+      "source" : "stackoverflow",
+      "answers" : "10",
+      "question" : "Clicking on notification doesn't open mentioned activity",
+      "questionvotes" : "16",
+      "other" : ["firebase-cloud-messaging, android, push-notification, firebase-notifications"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40523355/how-do-i-avoid-referring-to-all-state-variables-when-updating-only-a-few",
+      "views" : "489",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "How do I avoid referring to all state variables when updating only a few?",
+      "questionvotes" : "15",
+      "other" : ["state-monad"],
+      "languages" : ["haskell"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40664153/java-scanner-class-bad-character",
+      "views" : "973",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Java Scanner Class bad character \u201c®\u201d",
+      "questionvotes" : "23",
+      "other" : ["unicode"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40381680/out-of-line-definition-of-template-function-vs-in-class",
+      "views" : "396",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "Out of line definition of template function vs in class",
+      "questionvotes" : "21",
+      "other" : ["templates, code-readability"],
+      "languages" : ["c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40519635/ionic-serve-cannot-read-property-hasownproperty-of-undefined-cli-v2-1-7",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "4",
+      "question" : "ionic serve Cannot read property 'hasOwnProperty' of undefined (CLI v2.1.7)",
+      "questionvotes" : "14",
+      "other" : ["macos-sierra, ionic-framework"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40590302/initializing-a-multidimensional-array-0-versus-0",
+      "views" : "883",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Initializing a multidimensional array: {0} versus {{{0}}}",
+      "questionvotes" : "19",
+      "other" : ["arrays, initialization"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40610396/strange-random-behavior-in-where-clause",
+      "views" : "1000",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Strange random behavior in where clause",
+      "questionvotes" : "16",
+      "other" : ["oracle"],
+      "languages" : ["plsql, sql"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40546695/facebook-sdk-js-returns-404-error",
+      "views" : "940",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Facebook sdk.js returns 404 error",
+      "questionvotes" : "16",
+      "other" : ["facebook-javascript-sdk, facebook"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40622016/efficent-way-to-find-overlapping-of-n-rectangles",
+      "views" : "367",
+      "source" : "stackoverflow",
+      "answers" : "7",
+      "question" : "Efficent way to find overlapping of N rectangles",
+      "questionvotes" : "9",
+      "other" : ["computational-geometry, algorithm"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40434080/combine-two-strings-char-by-char-and-repeat-last-char-of-shortest-one",
+      "views" : "339",
+      "source" : "stackoverflow",
+      "answers" : "7",
+      "question" : "Combine two strings (char by char) and repeat last char of shortest one",
+      "questionvotes" : "9",
+      "other" : ["string"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837618/python-djangorest-uwsgi-nginx",
+      "views" : "1",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Python-DjangoREST-uWSGi-nginx",
+      "questionvotes" : "0",
+      "other" : ["django"],
+      "languages" : ["python, nginx"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837617/how-does-google-analytics-get-demographic-data-age-gender",
+      "views" : "1",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How does Google analytics get demographic data (age/gender)",
+      "questionvotes" : "0",
+      "other" : ["analytics, google-analytics"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837616/how-to-match-a-string-for-a-given-reg-expression-in-prolog",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to match a string for a given reg expression in prolog?",
+      "questionvotes" : "0",
+      "other" : ["regex"],
+      "languages" : ["prolog"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837581/get-child-node-in-javascript",
+      "views" : "24",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "get child node in javascript",
+      "questionvotes" : "0",
+      "other" : ["node.js, class"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837487/counting-the-number-of-occurrences-of-text-in-a-pandas-dataframe",
+      "views" : "15",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Counting the number of occurrences of text in a pandas dataframe",
+      "questionvotes" : "1",
+      "other" : ["pandas"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837611/using-workflows-in-dynamics-crm-static-fields",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Using workflows in Dynamics CRM. Static fields?",
+      "questionvotes" : "0",
+      "other" : ["dynamics-crm, crm"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837554/typo3-news-extension-give-editor-possibility-to-select-image-for-preview",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "TYPO3 news extension, give editor possibility to select image for preview",
+      "questionvotes" : "0",
+      "other" : ["typo3, privileges, typo3-7.6.x, editor, tx-news"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40832970/how-can-i-index-a-field-using-two-different-analyzers-in-elastic-search",
+      "views" : "9",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How can I index a field using two different analyzers in Elastic search",
+      "questionvotes" : "0",
+      "other" : ["elasticsearch"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837609/space-efficient-b-tree",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Space Efficient B Tree",
+      "questionvotes" : "0",
+      "other" : ["data-structures, tree, b-tree"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837607/get-maximum-nesting-of-a-specific-element-type-with-beautifulsoup",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Get maximum nesting of a specific element type with BeautifulSoup",
+      "questionvotes" : "0",
+      "other" : ["beautifulsoup, parsing"],
+      "languages" : ["python, html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40583676/mifare-desfire-wrapped-mode-how-to-calculate-cmac",
+      "views" : "18",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Mifare Desfire Wrapped Mode: How to calculate CMAC?",
+      "questionvotes" : "1",
+      "other" : ["mifare, apdu"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837605/ionic2-platform-ready-is-not-invoked",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "ionic2 Platform.ready is not invoked",
+      "questionvotes" : "0",
+      "other" : ["ionic2"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40833792/implement-sdwebimage-in-modal-segue-in-objective-cios",
+      "views" : "13",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "implement SDWebImage in modal segue in Objective-C(iOS)",
+      "questionvotes" : "0",
+      "other" : ["ios, sdwebimage"],
+      "languages" : ["objective-c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837604/display-json-data-to-html-file",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Display json data to HTML file",
+      "questionvotes" : "0",
+      "other" : ["json, ajax"],
+      "languages" : ["html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/29903751/angularjs-routing-with-asp-net-mvc",
+      "views" : "12000",
+      "source" : "stackoverflow",
+      "answers" : "5",
+      "question" : "AngularJs routing with Asp.Net Mvc",
+      "questionvotes" : "3",
+      "other" : ["angularjs, asp.net-mvc, asp.net-mvc-4, asp.net-mvc-routing, angularjs"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/5773756/jquery-loading-ajax-content-into-parent-of-this",
+      "views" : "2000",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "jQuery: Loading AJAX content into parent of 'this'",
+      "questionvotes" : "2",
+      "other" : ["jquery, ajax, css-selectors"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836661/retrieve-rows-value-to-textboxes-c-sharp-sql-server",
+      "views" : "25",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Retrieve Rows Value to Textboxes C# & SQL Server",
+      "questionvotes" : "0",
+      "other" : ["sql-server"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837596/angular2-color-picker-cannot-determine-the-module-for-component-dialogcomponen",
+      "views" : "5",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Angular2-color-picker : Cannot determine the module for component DialogComponent",
+      "questionvotes" : "0",
+      "other" : ["angular2"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837595/c-sharp-drag-and-drop-console-activation-from-windows-form",
+      "views" : "6",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "C# Drag and Drop Console Activation From Windows Form",
+      "questionvotes" : "0",
+      "other" : ["oop, drag-and-drop"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837594/how-to-convert-string-into-list-of-array",
+      "views" : "7",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to convert string into list of array",
+      "questionvotes" : "0",
+      "other" : ["python-3.x"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837591/application-not-able-to-restrict-docusign-envelopes-from-sending-to-third-party",
+      "views" : "3",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Application not able to restrict DocuSign envelopes from sending to Third Party(Customers) using API who don't have DocuSign account created",
+      "questionvotes" : "0",
+      "other" : ["docusign, api"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837590/selenium-python-webdriver-error",
+      "views" : "3",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Selenium Python webdriver error",
+      "questionvotes" : "0",
+      "other" : ["selenium, internet-explorer, firefox"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837519/is-it-possible-to-reference-the-polymer-css-variables-in-a-angular2-component-co",
+      "views" : "7",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Is it possible to reference the polymer css variables in a Angular2 component context?",
+      "questionvotes" : "0",
+      "other" : ["polymer, angular2, polymer-1.0, components, vaadin"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837588/ggplot2-with-dual-axis",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "ggplot2 with dual axis",
+      "questionvotes" : "0",
+      "other" : ["facet, ggplot2"],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40816859/how-do-i-connect-securely-to-a-remote-serial-port",
+      "views" : "28",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "how do I connect securely to a remote serial port?",
+      "questionvotes" : "-1",
+      "other" : ["tty, ssh, linux"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837586/svg-background-image-tiling-for-printing",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "SVG Background Image Tiling for Printing",
+      "questionvotes" : "0",
+      "other" : ["background-image, svg"],
+      "languages" : ["css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837498/exchange-server-distribution-list",
+      "views" : "5",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Exchange Server Distribution List",
+      "questionvotes" : "0",
+      "other" : ["exchange-server-2007, exchange-server, exchange-server-2010"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40833482/how-to-find-methods-name-that-was-invocated-my-methodinvocation-in-forwardingas",
+      "views" : "7",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to find Method's name that was invocated my MethodInvocation in ForwardingAstVisitor?",
+      "questionvotes" : "0",
+      "other" : ["android, lint"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837492/sorting-new-grid-column-in-sylius-error",
+      "views" : "3",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Sorting New Grid Column in Sylius Error",
+      "questionvotes" : "0",
+      "other" : ["sylius"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837559/selenium-script-not-working",
+      "views" : "5",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Selenium script not working",
+      "questionvotes" : "0",
+      "other" : ["testing, selenium"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837575/avoiding-redundancy-when-using-both-a-simpleschema-and-a-validatedmethod-for-a-m",
+      "views" : "3",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Avoiding redundancy when using both a SimpleSchema and a ValidatedMethod for a meteor collection?",
+      "questionvotes" : "0",
+      "other" : ["validation, meteor-methods, meteor, simple-schema"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837152/react-big-calendar-import-failing-for-css",
+      "views" : "9",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "react-big-calendar import failing for css",
+      "questionvotes" : "1",
+      "other" : ["calendar, reactjs"],
+      "languages" : ["css"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837571/gsm-send-text-fails",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "GSM Send Text Fails",
+      "questionvotes" : "0",
+      "other" : ["python-2.7, gsm, raspberry-pi"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837568/joining-result-sets-from-two-unions-in-mysql",
+      "views" : "10",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Joining Result Sets from Two Unions in MySQL",
+      "questionvotes" : "0",
+      "other" : ["mysql"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40815251/need-to-know-how-to-exclude-the-particular-folder-file-from-media-library-in-wor",
+      "views" : "13",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Need to know how to exclude the particular folder file from media_library in wordpress",
+      "questionvotes" : "0",
+      "other" : ["wordpress"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837398/is-it-true-that-a-path-is-always-either-a-file-or-a-directory",
+      "views" : "17",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Is it true that a path is always either a file or a directory?",
+      "questionvotes" : "2",
+      "other" : ["directory, path, file"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837564/how-to-pickup-record-in-oracle-sql-10g-when-the-time-difference-is-5-minutes",
+      "views" : "5",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "how to pickup record in oracle sql 10g when the time difference is 5 minutes",
+      "questionvotes" : "0",
+      "other" : ["oracle10g"],
+      "languages" : ["plsql, sql"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40831780/error-when-using-timed-commands-in-e310",
+      "views" : "7",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "error when using timed commands in e310",
+      "questionvotes" : "0",
+      "other" : ["gnuradio-companion, gnuradio"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837561/how-to-use-call-directory-extension-to-identify-a-incoming-call",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to use call directory extension to identify a incoming call?",
+      "questionvotes" : "0",
+      "other" : ["ios10, xcode8, call, callkit"],
+      "languages" : ["objective-c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40832910/including-html-div-into-my-wordpress-does-not-work",
+      "views" : "11",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Including html div into my wordpress does not work",
+      "questionvotes" : "0",
+      "other" : ["wordpress"],
+      "languages" : ["html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837558/sails-update-query-output-should-have-selected-colums",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Sails update query, output should have selected colums",
+      "questionvotes" : "0",
+      "other" : ["sails.js, waterline, sails-mongo"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836994/set-number-of-withdraws-to-3-and-test-it-in-junit-testing",
+      "views" : "16",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "set number of withdraws to 3 and test it in Junit Testing.",
+      "questionvotes" : "0",
+      "other" : ["set, junit"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40834452/changing-an-element-of-an-array-within-an-array-in-java",
+      "views" : "27",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Changing an element of an array within an array in Java",
+      "questionvotes" : "0",
+      "other" : ["arrays"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836911/how-to-print-out-an-arraylist-that-resides-in-a-second-main-method",
+      "views" : "34",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "How to print out an ArrayList that resides in a second main method?",
+      "questionvotes" : "1",
+      "other" : ["arraylist"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837553/no-access-control-allow-origin-header-not-working-after-setting-header",
+      "views" : "10",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "No 'Access-Control-Allow-Origin' header not working after setting header",
+      "questionvotes" : "0",
+      "other" : ["node.js, express"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/37353172/openshift-tomcat-7-httpurlconnection-javax-crypto-jcesecurity-not-found",
+      "views" : "54",
+      "source" : "stackoverflow",
+      "answers" : "1",
+      "question" : "Openshift, Tomcat 7, HTTPUrlConnection, javax.crypto.JceSecurity not found",
+      "questionvotes" : "0",
+      "other" : ["openshift"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837548/logs-from-another-spring-boot-module-are-missing",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "logs from another spring boot module are missing",
+      "questionvotes" : "0",
+      "other" : ["logback, spring-boot, logging, module"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837546/how-to-verify-if-the-javascript-is-compatible-with-es5",
+      "views" : "7",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to verify if the Javascript is compatible with es5",
+      "questionvotes" : "0",
+      "other" : ["jshint, eslint"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837545/canvas-separates-image-into-sections-upon-scaling",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Canvas separates image into sections upon scaling",
+      "questionvotes" : "0",
+      "other" : ["html5-canvas"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837543/error-when-connecting-to-siebel-with-java-data-bean",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Error when connecting to Siebel with Java Data Bean",
+      "questionvotes" : "0",
+      "other" : ["siebel"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837537/tfs-board-consolidation-with-multiple-projects",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "TFS Board Consolidation with Multiple Projects",
+      "questionvotes" : "0",
+      "other" : ["tfs2012, tfs, team"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40833162/web-api-recommended-way-to-return-json-string",
+      "views" : "33",
+      "source" : "stackoverflow",
+      "answers" : "3",
+      "question" : "Web Api: recommended way to return json string",
+      "questionvotes" : "2",
+      "other" : ["asp.net-web-api2"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837531/opentk-pdb-could-not-be-found-in-the-selected-paths",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "OpenTK.pdb could not be found in the selected paths",
+      "questionvotes" : "0",
+      "other" : ["opentk, visual-studio, monogame"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837523/login-with-google-using-fcm-service-cordova",
+      "views" : "7",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "login with google using FCM service (cordova)",
+      "questionvotes" : "0",
+      "other" : ["jquery, cordova, google-login, fcm-push"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837522/updating-column-rows-in-gridview-c-sharp",
+      "views" : "10",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "updating column rows in GridView C#",
+      "questionvotes" : "0",
+      "other" : ["asp.net, gridview"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40812161/switch-statement-wont-reiterate-counting",
+      "views" : "55",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Switch statement won't reiterate counting",
+      "questionvotes" : "0",
+      "other" : ["loops, switch-statement"],
+      "languages" : ["c"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837518/tcpdump-monitor-mode-time-stamp-format",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "tcpdump monitor mode time stamp format",
+      "questionvotes" : "0",
+      "other" : ["tcpdump"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/33885610/using-vertex-arrays-with-opentk",
+      "views" : "358",
+      "source" : "stackoverflow",
+      "answers" : "2",
+      "question" : "Using Vertex Arrays with OpenTK",
+      "questionvotes" : "1",
+      "other" : ["opentk, opengl"],
+      "languages" : ["c#"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837516/twilio-is-it-possible-to-extend-the-time-to-enter-the-access-code",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Twilio Is it possible to extend the time to enter the access code?",
+      "questionvotes" : "0",
+      "other" : ["ruby-on-rails-4, twilio"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836255/how-to-make-a-call-to-mongodb-synchronous-in-meteor",
+      "views" : "11",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to make a call to MongoDB synchronous in Meteor?",
+      "questionvotes" : "0",
+      "other" : ["mongodb, meteor"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837510/upload-file-with-parameters-to-aws-s3-using-ios-swift",
+      "views" : "10",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Upload File with parameters to AWS S3 using iOS Swift",
+      "questionvotes" : "0",
+      "other" : ["amazon-web-services, amazon-s3, ios"],
+      "languages" : ["swift"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837505/how-to-use-jquery-ui-with-aurelia",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to use JQuery-UI with Aurelia",
+      "questionvotes" : "0",
+      "other" : ["aurelia"],
+      "languages" : ["javascript"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837504/value-discrepency-between-saved-and-restored-model-in-tensorflow",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Value discrepency between saved and restored model in tensorflow",
+      "questionvotes" : "0",
+      "other" : ["tensorflow"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40732543/seeking-workaround-for-gtable-add-grob-code-broken-by-ggplot-2-2-0",
+      "views" : "63",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Seeking workaround for gtable_add_grob code broken by ggplot 2.2.0",
+      "questionvotes" : "6",
+      "other" : ["grob, gtable, ggplot2"],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837493/what-advantages-does-scala-util-try-have-over-try-catch",
+      "views" : "3",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "What advantages does scala.util.Try have over try..catch?",
+      "questionvotes" : "0",
+      "other" : ["try-catch, monads"],
+      "languages" : ["scala"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837443/how-to-hide-tooltip-of-fileuploadfield-using-extjs",
+      "views" : "9",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "how to hide tooltip of fileuploadfield using extjs",
+      "questionvotes" : "0",
+      "other" : ["extjs6"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837490/is-there-a-way-to-disable-or-block-a-js-or-css-source-in-chromes-inspector",
+      "views" : "5",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Is there a way to disable or block a .js or .css source in Chrome's Inspector?",
+      "questionvotes" : "0",
+      "other" : ["google-chrome"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837489/spark-streaming-kinesis-initial-record-consumption",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Spark Streaming + Kinesis : Initial record consumption",
+      "questionvotes" : "0",
+      "other" : ["spark-streaming, amazon-kinesis"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837484/surprisingly-slow-of-mutable-array-drop",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Surprisingly slow of mutable.array.drop",
+      "questionvotes" : "0",
+      "other" : ["yourkit, profiling"],
+      "languages" : ["scala"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837308/im-trying-to-get-the-count-for-an-id-in-robomongo",
+      "views" : "3",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "I'm trying to get the count for an id in robomongo",
+      "questionvotes" : "0",
+      "other" : ["robomongo"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837479/cannot-find-objectmapper-from-jackson-databind-maven-eclipse",
+      "views" : "10",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Cannot find ObjectMapper from jackson-databind maven eclipse",
+      "questionvotes" : "0",
+      "other" : ["maven, jackson"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837478/2sxc-permissions-by-role",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "2sxc: Permissions by Role",
+      "questionvotes" : "0",
+      "other" : ["2sxc, dotnetnuke"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837471/a-device-precise-location",
+      "views" : "5",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "A device precise location",
+      "questionvotes" : "0",
+      "other" : ["android, location"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837456/assigning-variables-to-wlan-interfaces-with-find-in-a-bashscript",
+      "views" : "9",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Assigning variables to wlan interfaces with find in a bashscript",
+      "questionvotes" : "0",
+      "other" : ["variables, find, bash, aircrack-ng"],
+      "languages" : ["shell"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837449/tvos-focus-not-moving-correctly",
+      "views" : "6",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "tvOS: Focus not moving correctly",
+      "questionvotes" : "0",
+      "other" : ["tvos, focus"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837439/how-to-organize-many-methods-that-extract-data-from-a-few-larger-data-sources",
+      "views" : "8",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How to organize (many) methods that extract data from a few larger data sources?",
+      "questionvotes" : "0",
+      "other" : ["python-2.7, methods, python-3.x"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837436/external-control-of-system-or-configuration-setting",
+      "views" : "7",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "External Control of System or Configuration Setting",
+      "questionvotes" : "0",
+      "other" : ["security, database-connection, veracode, asp.net-mvc, connection-string"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837429/mongodb-log-appender-optional-field-saving-structure-to-mongodb-kaa-0-10-0",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "mongodb Log Appender - optional field saving structure to MongoDB (Kaa 0.10.0)",
+      "questionvotes" : "0",
+      "other" : ["kaa"],
+      "languages" : [null]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837416/live-reload-kivy-templates",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Live Reload Kivy Templates",
+      "questionvotes" : "0",
+      "other" : ["python-watchdog, kivy-language, kivy, livereload"],
+      "languages" : ["python"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837408/cythonize-multiple-packages-keep-init-files",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "cythonize multiple packages - keep __init__ files",
+      "questionvotes" : "0",
+      "other" : ["python-2.7, cythonize"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837406/matlab-neural-network-tool-box-on-extract-weight-bias-from-feedforwardnet",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Matlab neural network tool box,on extract weight & bias from feedforwardnet",
+      "questionvotes" : "0",
+      "other" : ["neural-network"],
+      "languages" : ["matlab"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837396/deciphering-the-text-and-data-segments-from-gcc-assembly-output",
+      "views" : "14",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Deciphering the text and data segments from gcc assembly output",
+      "questionvotes" : "2",
+      "other" : ["gcc, memory"],
+      "languages" : ["assembly, c++"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837395/what-formats-are-accepted-in-vsts-logging-commands",
+      "views" : "2",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "What formats are accepted in VSTS logging commands?",
+      "questionvotes" : "0",
+      "other" : ["vs-team-services, tfs, tfsbuild"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837363/an-xhtml-page-with-svg-is-not-displayed-in-local",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "An xhtml page with svg is not displayed in local",
+      "questionvotes" : "0",
+      "other" : ["svg, xhtml"],
+      "languages" : ["html"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837361/is-there-any-concrete-example-of-the-local-local-minima-for-mlp",
+      "views" : "4",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Is there any concrete example of the local local minima for MLP?",
+      "questionvotes" : "0",
+      "other" : ["neural-network, data-mining, machine-learning"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837350/how-do-i-create-a-view-across-folders-in-jenkins",
+      "views" : "3",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "How do I create a view across folders in Jenkins?",
+      "questionvotes" : "0",
+      "other" : ["jenkins, folder, view"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836739/share-files-between-multiple-applications-in-codeigniter-3-1-2",
+      "views" : "15",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Share files between multiple applications in codeigniter 3.1.2",
+      "questionvotes" : "1",
+      "other" : ["codeigniter"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837063/bitbucket-branch-diff-is-only-visible-one-way",
+      "views" : "6",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Bitbucket branch diff is only visible one-way",
+      "questionvotes" : "0",
+      "other" : ["git, bitbucket, version-control, git-diff"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837307/spring-boot-run-in-java-cli-has-a-strange-error-that-java-io-filenotfoundexcepti",
+      "views" : "5",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "spring boot run in java CLI has a strange error that java.io.FileNotFoundException",
+      "questionvotes" : "0",
+      "other" : ["embedded-tomcat-8, spring-boot"],
+      "languages" : ["java"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837295/linux-device-tree-ad5628",
+      "views" : "3",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Linux device tree (AD5628)",
+      "questionvotes" : "0",
+      "other" : ["linux-kernel, linux-device-driver, device-tree, archlinux-arm, linux"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40834284/generating-data-with-different-parameters-according-to-other-grouping-variables",
+      "views" : "23",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Generating data with different parameters according to other grouping variables",
+      "questionvotes" : "2",
+      "other" : ["apply, simulation"],
+      "languages" : ["r"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837220/excel-small-formula-not-returing-small-value-due-to-duplicate-value",
+      "views" : "5",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Excel small formula not returing small value due to duplicate value",
+      "questionvotes" : "1",
+      "other" : ["excel-vba, array-formulas"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837153/asp-net-core-doesnt-respond-to-preflight-request-option",
+      "views" : "10",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Asp.net core doesn't respond to preflight request (OPTION)?",
+      "questionvotes" : "2",
+      "other" : ["asp.net, asp.net-core, .net, .net-core"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837134/mongodb-aggregate-show-count-with-zero-value-on-multiple-fields",
+      "views" : "9",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Mongodb aggregate show count with zero value on multiple fields",
+      "questionvotes" : "1",
+      "other" : ["aggregate, mongodb"],
+      "languages" : [""]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40837021/upload-field-with-custom-form-requiring-a-custom-implementation-of-field",
+      "views" : "8",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Upload field with custom form requiring a custom implementation of Field()",
+      "questionvotes" : "1",
+      "other" : ["silverstripe, upload"],
+      "languages" : ["php"]
+    },
+    {
+      "url" : "http://stackoverflow.com/questions/40836914/intercept-ienumerable-list-of-interface-types-with-unity-di-ioc",
+      "views" : "3",
+      "source" : "stackoverflow",
+      "answers" : "0",
+      "question" : "Intercept IEnumerable list of Interface types with Unity DI/IoC",
+      "questionvotes" : "1",
+      "other" : ["unity-container, dependency-injection, c#-4.0, inversion-of-control"],
+      "languages" : [""]
+    }
+]

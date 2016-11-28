@@ -22,6 +22,7 @@ class mySOSpider(scrapy.Spider):
         finalres=[]
         for ques in questions:
             result={}
+            result['source'] = "stackoverflow"
             result['url'] = "http://stackoverflow.com" + ques.xpath('div/h3/a/@href').extract()[0]
             result['question'] = ques.xpath('div/h3/a/text()').extract()[0]
             result['tags'] = ques.css('a.post-tag::text').extract()

@@ -35,15 +35,34 @@ def login():
             continue
         skillset.append(row.text.lower())
     driver.quit()
+    
+    #Load master list of languages from Github
+    with open('languages.json') as language_file:
+        languages = json.load(language_file)
+        languages=set(languages)
+    skillset = set(skillset)
+    languagelist=list(skillset.intersection(languages))
+    others=list(skillset.difference(languages))
     #Connect to DB 
     client = MongoClient()
     db = client.byob
     coll = db.users
     #Update/insert skills in DB
     key = {'userid':userid}
-    data = {'$set':{'userid':userid,'skills':skillset}}
+    data = {'$set':{'userid':userid,'languages':languagelist,'others':others}}
     coll.update(key, data,upsert=True)
     return "success"
+
+#This will fetch the logged in user's skills 
+@app.route('/getlanguages', methods=['GET'])
+def getskills():
+    userid=request.args.get('userid')
+    client = MongoClient()
+    db = client.byob
+    coll = db.users.find({'userid':userid}).limit(1)
+    for x in coll:
+        return jsonify(languages=x['languages'])
+ 
 
 if __name__ == '__main__':
     app.run()
