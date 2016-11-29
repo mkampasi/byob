@@ -38,6 +38,7 @@ with open("../input/allLinks.txt",'r') as fin,open("../output/showcase_v1.1.json
 					data = {}
 
 					data["field_of_study"] = title_tag.string.strip()
+					data["source"] = "github"
 
 					repo_header = repo_tag.find("h3",{"class" : "mb-1"}).find("a")['href']
 					if(repo_header is not None):
