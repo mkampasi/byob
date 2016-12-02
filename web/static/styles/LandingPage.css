@@ -1,0 +1,22 @@
+#landingpage {
+ margin: 0;
+ background-image: url('light-bulb.jpg');
+ background-size: 1440px 800px;
+ background-repeat:no-repeat;
+ display: compact;
+ font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+
+#landingtitle{
+	width:100%;
+	margin-top: 40px;
+	font-size:50px;
+	font-weight: bold;
+
+}
+.IN-widget
+{
+	margin-left: 1200px;
+	margin-top:-100px;
+	margin-bottom:-20px;
+}
