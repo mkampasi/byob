@@ -403,14 +403,13 @@
   <field name="answers" type="tlongs" docValues="false" indexed="false" stored="false"/>
   <field name="field_of_study" type="strings" docValues="false" indexed="false" stored="false"/>
   <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
-  <field name="languages" indexed="true" type="strings"/>
+  <field name="languages" multiValued="false" indexed="true" type="strings"/>
   <field name="other" indexed="true" type="strings"/>
   <field name="question" docValues="false" type="strings" indexed="false" stored="false"/>
   <field name="questionvotes" type="tlongs" docValues="false" indexed="false" stored="false"/>
   <field name="repo_description" multiValued="false" type="strings"/>
   <field name="title" multiValued="false" indexed="true" type="strings"/>
   <field name="repo_link" type="strings" docValues="false" indexed="false" stored="false"/>
-  <field name="view_rank" type="tfloats" multiValued="false"/>
   <field name="repo_language" type="strings" docValues="false" indexed="false" stored="false"/>
   <field name="repo_name" type="strings" docValues="false" indexed="false" stored="false"/>
   <field name="source" multiValued="false" type="strings"/>
