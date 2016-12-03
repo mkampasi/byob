@@ -15,6 +15,17 @@
 <script type="text/javascript">
 
     // Setup an event listener to make an API call once auth is complete
+    function tempfunc() {
+                        $.ajax({
+        'url': 'http://localhost:8983/solr/byob/select',
+        'data': {'wt':'json', 'q':"languages:C++ AND languages:java", 'sort':'views desc'},
+        'success': function(data) { console.log(data)},
+        'dataType': 'jsonp',
+        'jsonp': 'json.wrf'
+      });
+    }
+
+    // Setup an event listener to make an API call once auth is complete
     function onLinkedInLoad() {
         IN.Event.on(IN, "auth", getProfileData);
     }
@@ -28,11 +39,12 @@
         dataType: "text"
 		}).done(function(data){
     		console.log(data);
-    		alert(data);
+    		window.location.href = "http://127.0.0.1:5000/setSkillProfile.html" + "?user_id="+data;
 			})
 		.fail(function(){
     		alert("Unable to login");
 			});
+		
 
     }
     // Handle an error response from the API call
@@ -52,5 +64,6 @@
          </div>
 </div>
 <script type="in/Login"></script>
+<input id="temp" type="button" value="Click me" style="padding-left: 80px;" onclick="tempfunc()">Click me</div>
 </body>
 </html>

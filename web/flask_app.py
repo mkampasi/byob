@@ -23,7 +23,14 @@ def login():
     skillset=[] #Users skills will be stored in this list
     #Fetch POST parameters
     userid=request.form['userid']
+    #Connect to DB 
+    client = MongoClient()
+    db = client.byob
+    coll = db.users.find({'userid':userid}).limit(1)
+    if coll is not None:
+        return userid
     profile_link=request.form['url'].encode('utf-8')
+    
     #Get all user's skills from Linkedin
     driver.get(profile_link)
     html=driver.page_source
@@ -34,7 +41,6 @@ def login():
         if("see" in row.text.lower()):
             continue
         skillset.append(row.text.lower())
-    driver.quit()
     
     #Load master list of languages from Github
     with open('languages.json') as language_file:
@@ -43,15 +49,12 @@ def login():
     skillset = set(skillset)
     languagelist=list(skillset.intersection(languages))
     others=list(skillset.difference(languages))
-    #Connect to DB 
-    client = MongoClient()
-    db = client.byob
-    coll = db.users
+
     #Update/insert skills in DB
     key = {'userid':userid}
     data = {'$set':{'userid':userid,'languages':languagelist,'others':others}}
     coll.update(key, data,upsert=True)
-    return "success"
+    return userid
 
 #This will fetch the logged in user's skills 
 @app.route('/getlanguages', methods=['GET'])
