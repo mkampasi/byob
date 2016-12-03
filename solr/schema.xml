@@ -410,6 +410,7 @@
   <field name="repo_description" multiValued="false" type="strings"/>
   <field name="title" multiValued="false" indexed="true" type="strings"/>
   <field name="repo_link" type="strings" docValues="false" indexed="false" stored="false"/>
+  <field name="view_rank" type="tfloats" multiValued="false"/>
   <field name="repo_language" type="strings" docValues="false" indexed="false" stored="false"/>
   <field name="repo_name" type="strings" docValues="false" indexed="false" stored="false"/>
   <field name="source" multiValued="false" type="strings"/>
