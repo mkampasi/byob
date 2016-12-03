@@ -18,14 +18,14 @@
 }
 #skillText{
 	width:100%;
-	margin-top: 15px;
+	margin-top: 40px;
 	text-align: center;
 	font-size:17px;
 	font-weight: bold;
 }
 #skillsSelectionDiv{
 	width:100%;
-	height: 900px;
+	height: 600px;
 	margin-top: 20px;
 	/*background-color:rgba(0,0,0,0.4);*/
 	border:1px solid grey;
@@ -40,7 +40,7 @@
 
 }
   #sortable1, #sortable2 {
-    border: 1px solid #eee;
+    border: 2px solid grey;
     width: 300px;
     min-height: 20px;
     list-style-type: none;
@@ -51,7 +51,7 @@
     margin-left: 120px;
   }
   #sortable1 li, #sortable2 li {
-    margin: 0 5px 5px 5px;
+    margin: 0 7px 7px 5px;
     padding: 5px;
     font-size: 1.2em;
     width: 230px;
@@ -60,7 +60,7 @@
   }
 
   #selectable{
-  	height:750px;
+  	/*height:500px;*/
   	margin-top: 20px;
   	margin-left: 40px;
   	margin-right: 40px;
@@ -81,4 +81,95 @@
 	width:170px;
 	margin-left: 450px;
 	font-size: 17px;
+}
+
+#collapsebtn{
+	height:70px;
+	margin-top: 20px;
+	/*background-color:rgba(0,0,0,0.4);*/
+	width: 23%; 
+	margin-left: 500px;
+	border:1px solid grey;
+	border-radius: 5px;
+	font-size: 18px;
+	padding-top: 10px;
+	padding-left: 20px;
+
+}
+#drop-down{
+	margin-left: 40%;
+	font-size: 30px;
+}
+a:link, a:visited  {
+    text-decoration: none;
+}
+#collapse-menu{
+	padding-top: 30px;
+	display: 
+}
+
+#selection-search-bar{
+	width: 600px;
+	height: 40px; 
+	/*background-color:rgba(0,0,0,0.4);*/
+	margin-left: 150px;
+	float:left;
+}
+#go{
+	float: left;
+	height: 35px;
+    margin-left: 20px;
+    font-size: 25px;
+    padding-top: 2px;
+    color: #006bb3;
+}
+#search-bar{
+	width:100%;
+	height: 40px;
+}
+#popups{
+	width: 60%;
+	margin: 0 auto;
+	padding-left: 20px;
+}
+.suggestions{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	/*background-color:rgba(0,0,0,0.1);*/
+	border-bottom: 1px solid grey;
+}
+
+.bucket-header{
+	float:left;
+	width: 50%;
+	height:50px;
+	padding-top: 15px;
+    font-size: 17px;
+    color: #006bb3;
+}
+
+#linkedin-bucket{
+	padding-left: 230px;
+}
+#query-bucket{
+	padding-left: 150px;
+}
+#info-bkt{
+	margin-left: 85px;
+	color:grey;
+}
+#info-ln{
+	margin-left: 50px;
+	color:grey;
+}
+#lets-byob{
+	float:left;
+	padding-left: 30px;
+	width: 50px;
+}
+#results-div{
+	margin-top:30px;
+	height:300px;
+	background-color:rgba(0,0,0,0.1);
+	border-top: 1px solid grey;
 }

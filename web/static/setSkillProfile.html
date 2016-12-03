@@ -1,14 +1,14 @@
 <html>
 <head>
 	<meta charset="utf-8">
-    <meta name="description" content="This is the home page for testmax website">
+    <meta name="description" content="This is the set skills page for Byob">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Update your Skills</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   	<!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
-  	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  	<!-- // <script src="https://code.jquery.com/jquery-1.12.4.js"></script> -->
 	  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	  <script>
 	  $( function() {
@@ -16,6 +16,8 @@
 	      connectWith: ".connectedSortable"
 	    }).disableSelection();
 	  } );
+
+	  $('[data-toggle="popover"]').popover();
 	  </script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
@@ -29,60 +31,52 @@
 			<span id="welcomeMsg">Welcome to BYOB!</span>
 		</div>
 	</div>
-	<div id="skillsContainer" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-		<div id="skillText">
-			<span>Let us know what you are interested in</span>
+	<a role="button" data-toggle="collapse" href="#collapseSelection" aria-expanded="false" aria-controls="collapseExample">
+		<div id = "collapsebtn" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+			<span>What do you want to do today?</span>
+			<span id="drop-down" class="glyphicon glyphicon-menu-down"></span>
 		</div>
-		<div id="skillsSelectionDiv">
-			<div id="tabsDiv">
-				<!-- Nav tabs -->
-				 <div id="tabMenu">
-				  <ul class="nav nav-tabs" role="tablist">
-				    <li role="presentation" class="active">
-				    	<a href="#languagesTab" aria-controls="home" role="tab" data-toggle="tab">
-							<div class="skillHeaderText">
-								<span>1. Select Programming Languages</span>
-							</div>
-				    	</a>
-				    </li>
-				    <li role="presentation">
-				    	<a href="#fosTab" aria-controls="profile" role="tab" data-toggle="tab">
-				    		<div class="skillHeaderText">
-				    			<span>2. Select Field of Studies and Frameworks</span>
-				    		</div>
-				    	</a>
-				    </li>
-				  </ul>
-				</div>
-				  <!-- Tab panes -->
-				  <div class="tab-content">
-				    <div role="tabpanel" class="tab-pane active" id="languagesTab">
-						<div id="selectable">
-							<ul id="sortable1" class="connectedSortable languageList">
-							 <!--  <li class="ui-state-default">Java</li> -->
-							</ul>
-							<ul id="sortable2" class="connectedSortable languageSelectedList">
-							  <!-- <li class="ui-state-highlight">Ruby</li> -->
-							</ul>
-						</div>
-				    </div>
-				    <div role="tabpanel" class="tab-pane" id="fosTab">
-				    	<div id="selectable">
-							<ul id="sortable1" class="connectedSortable fosList">
-							  <!-- <li class="ui-state-default">Machine Learning</li> -->
-							</ul>
-							<ul id="sortable2" class="connectedSortable fosSelectedList">
-							  <!-- <li class="ui-state-highlight">IOS</li> -->
-							</ul>
-						</div>
+	</a>
+	<div class="panel-collapse collapse" id="collapseSelection">
+		<div id="collapse-menu" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+			<div id="search-bar">
+				<div id="selection-search-bar">
+					<input type="text" id="topicBar" autofocus="on" autocomplete="off" class="form-control" style="width:100%" type="text" placeholder="Start entering topics">
+				</div>  	
+				<div id="go"><span id="go-bar" class="glyphicon glyphicon-plus"></span></div>
+				<div id="lets-byob"><button id="lets-byob-btn" type="button" class="btn btn-default" style="color: #006bb3">Let's BYOB</button></div>
+			</div>
+			
+    		<div id="popups">
+    		</div>
 
-				    </div>
-				  </div>				
-			</div>	
-		<div id="buttonDiv">
-			<button id = "getStarted" class="btn btn-primary" type="submit">Get Started</button>
-		</div>			
+			<div id="skillText">
+				<span>Build your Query Bucket</span>
+			</div>
+			<div id="skillsSelectionDiv">
+				<div id = "bucket-headers">
+					<div class="bucket-header" id="linkedin-bucket"><span>LinkedIn Suggestions</span>
+						<a href="#" data-container="body" data-toggle="popover" data-placement="right" data-content="These are skills from your LinkedIn profile.">
+							<span id="info-ln" class="glyphicon glyphicon-info-sign"></span>
+						</a>
+					</div>
+					<div class="bucket-header" id="query-bucket"><span>Query Bucket</span>
+						<a href="#" data-container="body" data-toggle="popover" data-placement="right" data-content="Build your query bucket here. Keep bucket size less than 5 to get better results.">
+							<span id="info-bkt" class="glyphicon glyphicon-info-sign"></span>
+						</a>
+					</div>
+					
+				</div>
+				<div id="selectable">
+					<ul id="sortable1" class="connectedSortable languageList">
+					</ul>
+					<ul id="sortable2" class="connectedSortable languageSelectedList"></ul>
+				</div>
+			</div>
+
 		</div>
+	</div>
+	<div id="results-div" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
 		
 	</div>
 </div>
