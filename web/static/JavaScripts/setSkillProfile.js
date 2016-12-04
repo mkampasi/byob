@@ -76,20 +76,134 @@ $(function(){
 
    $("#lets-byob-btn").click(function(){
       var userJSONObj = BUILD_SELECTED_LIST.build();  // This is final user selected languages and FOS object      
-      console.log(userJSONObj);
+
       // alert("Skills saved!");
       $("#collapseSelection").collapse();
 
+      //Start of query building
+
+      var skillCnt = userJSONObj.selectedLang.length;
+      var queryString = '';
+
+      for(var i = 0 ; i < skillCnt ; i++){
+        if(skillCnt == 1){
+          queryString += userJSONObj.selectedLang[i];
+        }else{
+          if(i == 0){
+            queryString += '(';
+          }
+
+          queryString += userJSONObj.selectedLang[i];
+
+          if(i < skillCnt - 1)
+            queryString += ' OR ';
+
+          if(i == skillCnt - 1){
+            queryString += ')';
+          }
+        }
+      }
+
+    POPULATE_RESULTS = {
+      display: function(objValue){
+
+          var src = '';
+          src += "<tr class = 'result-row'><td class = 'logo-cell'><img src='styles/Github3.gif' style= 'height:40px; width:40px'></td>";
+          src += "<td class = 'views-cell'><span style = 'padding-left:10px'>"+ objValue.views +"<span><br> views</td>";
+          src += "<td class = 'innerRow-cell'><table class = 'innerRow-table'><tr><td class = 'title-cell'>"+objValue.title+"</td></tr>";
+          if(objValue.repo_description != undefined){
+            src += "<tr><td class = 'desc-cell'>"+objValue.repo_description+"</td></tr>";
+          }
+          var tagStr = '';
+          if(objValue.other[0] != undefined)
+            var tags = objValue.other[0].split(',');
+          // console.log(tags);
+          $.each(tags,function(key,value){
+              tagStr += "<div class = 'tag-div'>" + value +"</div>";
+              
+          });
+
+          src += "<tr><td class = 'tags-cell'>"+tagStr+"</td></tr></table></td>";
+          var url = objValue.url;
+          src += "<td class = 'go-cell'><a href = '"+url+"' target='_blank'><button type='button' class='btn btn-default' style='width: 40px; color: #006bb3;'><span class='glyphicon glyphicon-circle-arrow-right'></span></button></a></td></tr>";
+
+          $(src).appendTo("#results-table");
+
+      } 
+     }//end of BUILD_SELECTED_LIST
+
+
       // solr query code
 
-      // $.ajax({
-      //   'url': 'http://localhost:8983/solr/byob/select',
-      //   'data': {'wt':'json', 'q':"other:'machine learning'", 'sort':'views desc'},
-      //   'success': function(data) { console.log(data)},
-      //   'dataType': 'jsonp',
-      //   'jsonp': 'json.wrf'
-      // });
+      $.ajax({
+        'url': 'http://localhost:8983/solr/byob/select',
+        'data': {'wt':'json','indent':'true', 'q':"languages: " + queryString,'group' : 'true','group.field' : 'groupbycol', 'group.limit' : '5', 'group.sort' : 'view_rank desc'},
+        'dataType': 'jsonp',
+        'jsonp': 'json.wrf'
+      }).done(function(data){
+        
+        // populate results fields from here
+
+        //populated filters here 
+        $("<tr class = 'single-filter-cell'><td><button type='button' class='btn btn-default filterbtn' style='width: 150px; color: #006bb3;'>All<span class='glyphicon glyphicon-chevron-right' style='float:right;'></span></button></td></tr>").appendTo("#filter-table");
+        $.each(userJSONObj.selectedLang,function(key,skill){
+          
+          //code to make first letter upeercase
+          skill = skill.toLowerCase().replace(/\b[a-z]/g, function(letter) {
+                      return letter.toUpperCase();
+                  });
+
+          var filter_html_str = "<tr class = 'single-filter-cell'><td><button type='button' class='btn btn-default filterbtn' style='width: 150px; color: #006bb3;'>" + skill +"<span class='glyphicon glyphicon-chevron-right' style='float:right;'></span></button></td></tr>";
+          $(filter_html_str).appendTo("#filter-table");
+        });
+
+        var allObjs = data.grouped.groupbycol.groups;
+
+        $(allObjs).each(function(key, oneObj){
+            var results = oneObj.doclist.docs;
+
+            
+            $(results).each(function(key,singleObj){
+                POPULATE_RESULTS.display(singleObj);
+              });
+
+        });
+        
+        // Filter logic
+
+        $(".filterbtn").click(function(e){
+          var filter_type = $(e.target).text();
+          console.log(filter_type);
+          
+          $('#results-table').empty();
+
+          $(allObjs).each(function(key,res){
+              var category = res.groupValue;
+              var so_option = 'stackoverflow-'+filter_type.toLowerCase();
+              var git_option = 'github-'+filter_type.toLowerCase();
+
+              if(category == so_option || category == git_option){
+                console.log(res.doclist.docs);
+
+                $(res.doclist.docs).each(function(key,singleObj){
+                  POPULATE_RESULTS.display(singleObj);
+                });
+
+              }else if(filter_type == "All"){
+                $(allObjs).each(function(key, oneObj){
+                    var results = oneObj.doclist.docs;
+
+                    $(results).each(function(key,singleObj){
+                        POPULATE_RESULTS.display(singleObj);
+                    });
+                });
+              }
+            });
+        });
+      });
    });
+
+  
 
    $("#topicBar").keyup(function() {
        searchSuggest();
