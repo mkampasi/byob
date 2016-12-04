@@ -236,5 +236,11 @@ a:link, a:visited  {
 	border: 1px bold black;
 	color: #800020;
     background-color: #fbf0d0;
-
+}
+#advanced_search{
+	margin-top:10px;
+}
+.myRadio{
+	/*float:left;*/
+	    margin: 0px 20px 0px 20px;
 }

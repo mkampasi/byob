@@ -92,6 +92,14 @@ $(function(){
       var userJSONObj = BUILD_SELECTED_LIST.build();  // This is final user selected languages and FOS object      
 
       // alert("Skills saved!");
+
+      var skill_level_val = $("input:radio[name='skill-level']:checked");
+      var result_req_cnt = $("input:text[name='result-req-cnt']").val();
+
+      if(result_req_cnt == ''){
+        result_req_cnt = 5;   //default
+      }
+
       
 
       //Start of query building
