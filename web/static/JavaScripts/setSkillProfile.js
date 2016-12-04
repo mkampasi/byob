@@ -91,7 +91,7 @@ $(function(){
       }
       var userJSONObj = BUILD_SELECTED_LIST.build();  // This is final user selected languages and FOS object      
 
-      // alert("Skills saved!");
+      // Reading Advanced search parameters here
 
       var skill_level_val = $("input:radio[name='skill-level']:checked");
       var result_req_cnt = $("input:text[name='result-req-cnt']").val();
@@ -99,9 +99,6 @@ $(function(){
       if(result_req_cnt == ''){
         result_req_cnt = 5;   //default
       }
-
-      
-
       //Start of query building
 
       var skillCnt = userJSONObj.selectedLang.length;
@@ -161,7 +158,8 @@ $(function(){
           var tagStr = '';
           if(objValue.other[0] != undefined)
             var tags = objValue.other[0].split(',');
-          // console.log(tags);
+        
+          tagStr += "<div class = 'tag-div'>" + objValue.languages +"</div>";
           $.each(tags,function(key,value){
               tagStr += "<div class = 'tag-div'>" + value +"</div>";
               
@@ -181,7 +179,7 @@ $(function(){
 
       $.ajax({
         'url': 'http://localhost:8983/solr/byob/select',
-        'data': {'wt':'json','indent':'true', 'q':"languages: " + queryString,'group' : 'true','group.field' : 'groupbycol', 'group.limit' : '5', 'group.sort' : 'view_rank asc'},
+        'data': {'wt':'json','indent':'true', 'q':"languages: " + queryString,'group' : 'true','group.field' : 'groupbycol', 'group.limit' : result_req_cnt, 'group.sort' : 'view_rank asc'},
         'dataType': 'jsonp',
         'jsonp': 'json.wrf'
       }).done(function(data){
@@ -227,7 +225,6 @@ $(function(){
               var git_option = 'github-'+filter_type.toLowerCase();
 
               if(category == so_option || category == git_option){
-                console.log(res.doclist.docs);
 
                 $(res.doclist.docs).each(function(key,singleObj){
                   POPULATE_RESULTS.display(singleObj);
