@@ -5,7 +5,7 @@
 $(function(){
 
    console.log("setSillsProfile.js loaded!");
-   var user_id = "jyUCvRtHq2"; 
+   var user_id = window.location.search.substring(1).split("=")[1]; 
 
    function set_data(data){
       var allLanguages = jQuery.makeArray(data.languages);
@@ -109,7 +109,13 @@ $(function(){
 
           var src = '';
           src += "<tr class = 'result-row'><td class = 'logo-cell'><img src='styles/Github3.gif' style= 'height:40px; width:40px'></td>";
-          src += "<td class = 'views-cell'><span style = 'padding-left:10px'>"+ objValue.views +"<span><br> views</td>";
+          var viewTxt = objValue.views;
+          if(objValue.views > 1000){
+            viewTxt = Math.ceil(viewTxt/1000);
+            viewTxt += 'K';
+          }
+
+          src += "<td class = 'views-cell'><span style = 'padding-left:10px'>"+ viewTxt +"<span><br> views</td>";
           src += "<td class = 'innerRow-cell'><table class = 'innerRow-table'><tr><td class = 'title-cell'>"+objValue.title+"</td></tr>";
           if(objValue.repo_description != undefined){
             src += "<tr><td class = 'desc-cell'>"+objValue.repo_description+"</td></tr>";
@@ -137,7 +143,7 @@ $(function(){
 
       $.ajax({
         'url': 'http://localhost:8983/solr/byob/select',
-        'data': {'wt':'json','indent':'true', 'q':"languages: " + queryString,'group' : 'true','group.field' : 'groupbycol', 'group.limit' : '5', 'group.sort' : 'view_rank desc'},
+        'data': {'wt':'json','indent':'true', 'q':"languages: " + queryString,'group' : 'true','group.field' : 'groupbycol', 'group.limit' : '5', 'group.sort' : 'view_rank asc'},
         'dataType': 'jsonp',
         'jsonp': 'json.wrf'
       }).done(function(data){
