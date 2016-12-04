@@ -121,8 +121,20 @@ $(function(){
     POPULATE_RESULTS = {
       display: function(objValue){
 
+          console.log(objValue.source);
+
           var src = '';
-          src += "<tr class = 'result-row'><td class = 'logo-cell'><img src='styles/Github3.gif' style= 'height:40px; width:40px'></td>";
+
+          var imageName = ''
+
+          if(objValue.source == "stackoverflow"){
+            imageName = "SO.png";
+          }else{
+            imageName = "Github3.png";
+          }
+
+          src += "<tr class = 'result-row'><td class = 'logo-cell'><img src='styles/"+imageName+"' style= 'height:40px; width:40px'></td>";
+
           var viewTxt = objValue.views;
           if(objValue.views > 1000){
             viewTxt = Math.ceil(viewTxt/1000);
@@ -163,7 +175,7 @@ $(function(){
       }).done(function(data){
         
         // populate results fields from here
-        
+
         //populated filters here 
         $("<tr class = 'single-filter-cell'><td><button type='button' class='btn btn-default filterbtn' style='width: 150px; color: #006bb3;'>All<span class='glyphicon glyphicon-chevron-right' style='float:right;'></span></button></td></tr>").appendTo("#filter-table");
         $.each(userJSONObj.selectedLang,function(key,skill){
