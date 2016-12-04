@@ -404,18 +404,20 @@
   <field name="field_of_study" type="strings" docValues="false" indexed="false" stored="false"/>
   <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
   <field name="languages" multiValued="false" indexed="true" type="strings"/>
-  <field name="other" indexed="true" type="strings"/>
+  <field name="other" indexed="false" type="strings"/>
   <field name="question" docValues="false" type="strings" indexed="false" stored="false"/>
   <field name="questionvotes" type="tlongs" docValues="false" indexed="false" stored="false"/>
-  <field name="repo_description" multiValued="false" type="strings"/>
-  <field name="title" multiValued="false" indexed="true" type="strings"/>
+  <field name="repo_description" indexed="false" multiValued="false" type="strings"/>
+  <field name="title" multiValued="false" indexed="false" type="strings"/>
   <field name="repo_link" type="strings" docValues="false" indexed="false" stored="false"/>
   <field name="repo_language" type="strings" docValues="false" indexed="false" stored="false"/>
   <field name="repo_name" type="strings" docValues="false" indexed="false" stored="false"/>
   <field name="source" multiValued="false" type="strings"/>
   <field name="stargazers" type="tlongs" docValues="false" indexed="false" stored="false"/>
-  <field name="url" multiValued="false" type="strings"/>
-  <field name="views" multiValued="false" type="tlongs"/>
+  <field name="url" multiValued="false" indexed="false" type="strings"/>
+  <field name="view_rank" multiValued="false" indexed="true" type="tlongs"/>
+  <field name="views" multiValued="false" indexed="false" type="tlongs"/>
+  <field name="groupbycol" multiValued="false" indexed="true" type="string"/>
   <dynamicField name="*_txt_en_split_tight" type="text_en_splitting_tight" indexed="true" stored="true"/>
   <dynamicField name="*_descendent_path" type="descendent_path" indexed="true" stored="true"/>
   <dynamicField name="*_ancestor_path" type="ancestor_path" indexed="true" stored="true"/>
@@ -495,5 +497,5 @@
   <copyField source="question" dest="title"/>
   <copyField source="repo_language" dest="languages"/>
   <copyField source="stargazers" dest="views"/>
-  <copyField source="*" dest="_text_"/>
+  <copyField source="languages" dest="_text_"/>
 </schema>
