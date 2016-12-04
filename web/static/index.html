@@ -28,7 +28,9 @@
     // Setup an event listener to make an API call once auth is complete
     function onLinkedInLoad() {
         IN.Event.on(IN, "auth", getProfileData);
-    }
+        $('a[id*=li_ui_li_gen_]').css({marginTop:'60px'})
+   .html('<img src="styles/signin-large.png" height="31" width="200" border="0" />');
+}   
     // Handle the successful return from the API call
     function onSuccess(data) {
         console.log(data);
@@ -40,8 +42,6 @@
 		}).done(function(data){
     		console.log(data);
     		window.location.href = "http://127.0.0.1:5000/setSkillProfile.html" + "?user_id="+data;
-
-    		alert(data);
 			})
 		.fail(function(){
     		alert("Unable to login");
@@ -60,12 +60,14 @@
 </script>
   </head>
 <body id="landingpage">
+<div id="landingPageRow" class="row">
 <div id="landingPagetitle" class="col-lg-12 col-md-12 col-sm-12">
         <div id="landingtitle">
-            <span style="color:#DCDCDC">Build Your Online Brand!</span>
+            <span style="color:wheat">Welcome to BYOB!</span>
          </div>
-</div>
+         <p id="sitedesc">A website that helps you Build Your Online Brand to get recruiters to notice you!</p>
 <script type="in/Login"></script>
-<input id="temp" type="button" value="Click me" style="padding-left: 80px;" onclick="tempfunc()">Click me</div>
+</div>
+</div>
 </body>
 </html>

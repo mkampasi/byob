@@ -1,14 +1,13 @@
 #skillsHomeHeader{
 	height: 90px;
 	width: 100%;
-	background-color:rgba(0,0,0,0.2);
-	border-bottom: 5px solid grey;
+	background-color:#4682B4;
+	border-bottom: 4px solid #4682B4;
 }
 #welcome{
 	width:100%;
-	margin-top: 20px;
-	text-align: center;
-	font-size:30px;
+	padding-left:20px;
+	font-size:40px;
 	font-weight: bold;
 
 }
