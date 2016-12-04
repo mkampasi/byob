@@ -5,7 +5,7 @@
 $(function(){
 
    console.log("setSillsProfile.js loaded!");
-   var user_id = "jyUCvRtHq2";
+   var user_id = "jyUCvRtHq2"; 
 
    function set_data(data){
       var allLanguages = jQuery.makeArray(data.languages);
