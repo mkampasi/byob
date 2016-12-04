@@ -97,6 +97,12 @@ $(function(){
       //Start of query building
 
       var skillCnt = userJSONObj.selectedLang.length;
+
+      if(skillCnt == 0){
+        $("#collapseSelection").show();
+        alert("Please add atleast one skill into the Query Bucket!");
+      }
+
       var queryString = '';
 
       for(var i = 0 ; i < skillCnt ; i++){
