@@ -74,11 +74,25 @@ $(function(){
    	} 
    }//end of BUILD_SELECTED_LIST
 
+   $("#collapsebtn").click(function(){
+      if($("#collapse-menu").is(":visible")){
+        $("#collapseSelection").hide();
+      }else{
+        $("#collapseSelection").show();
+      }
+   });
+
    $("#lets-byob-btn").click(function(){
+      $('#results-table').empty();
+      $('#filter-table').empty();
+
+      if($("#collapse-menu").is(":visible")){
+        $("#collapseSelection").hide();
+      }
       var userJSONObj = BUILD_SELECTED_LIST.build();  // This is final user selected languages and FOS object      
 
       // alert("Skills saved!");
-      $("#collapseSelection").collapse();
+      
 
       //Start of query building
 
@@ -149,7 +163,7 @@ $(function(){
       }).done(function(data){
         
         // populate results fields from here
-
+        
         //populated filters here 
         $("<tr class = 'single-filter-cell'><td><button type='button' class='btn btn-default filterbtn' style='width: 150px; color: #006bb3;'>All<span class='glyphicon glyphicon-chevron-right' style='float:right;'></span></button></td></tr>").appendTo("#filter-table");
         $.each(userJSONObj.selectedLang,function(key,skill){
