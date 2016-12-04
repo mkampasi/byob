@@ -121,8 +121,6 @@ $(function(){
     POPULATE_RESULTS = {
       display: function(objValue){
 
-          console.log(objValue.source);
-
           var src = '';
 
           var imageName = ''
