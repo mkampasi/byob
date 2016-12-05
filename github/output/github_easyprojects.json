@@ -1,0 +1,748 @@
+[
+    {
+        "repo_language": "\n          HTML\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/makersacademy/preparetocode", 
+        "skillevel": "easy", 
+        "repo_name": "preparetocode", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Go\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/kubernetes/helm", 
+        "skillevel": "easy", 
+        "repo_name": "helm", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/moment/moment", 
+        "skillevel": "easy", 
+        "repo_name": "moment", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          SQF\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/SpaceHunnies/antistasi", 
+        "skillevel": "easy", 
+        "repo_name": "antistasi", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          HTML\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/hoodiehq/camp", 
+        "skillevel": "easy", 
+        "repo_name": "camp", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/scrapy/scrapy", 
+        "skillevel": "easy", 
+        "repo_name": "scrapy", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/lisa-lab/pylearn2", 
+        "skillevel": "easy", 
+        "repo_name": "pylearn2", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/rackt/history", 
+        "skillevel": "easy", 
+        "repo_name": "history", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          C\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/JuliaLang/julia", 
+        "skillevel": "easy", 
+        "repo_name": "julia", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          HTML\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/TEAMMATES/teammates", 
+        "skillevel": "easy", 
+        "repo_name": "teammates", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n\n              Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/niccokunzmann/hanging_threads", 
+        "skillevel": "easy", 
+        "repo_name": "hanging_threads", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            JavaScript\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/bevacqua/dragula", 
+        "skillevel": "easy", 
+        "repo_name": "dragula", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          HTML\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/catapult-project/catapult", 
+        "skillevel": "easy", 
+        "repo_name": "catapult", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          TypeScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/Microsoft/vscode", 
+        "skillevel": "easy", 
+        "repo_name": "vscode", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/yourfirstpr/yourfirstpr", 
+        "skillevel": "easy", 
+        "repo_name": "yourfirstpr", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/webpack/webpack", 
+        "skillevel": "easy", 
+        "repo_name": "webpack", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Shell\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/cockpit-project/cockpit", 
+        "skillevel": "easy", 
+        "repo_name": "cockpit", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Elm\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/Kinto/kinto.js", 
+        "skillevel": "easy", 
+        "repo_name": "kinto.js", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          VimL\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/pantsbuild/pants", 
+        "skillevel": "easy", 
+        "repo_name": "pants", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/serverless/serverless", 
+        "skillevel": "easy", 
+        "repo_name": "serverless", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Scala\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/twitter/util", 
+        "skillevel": "easy", 
+        "repo_name": "util", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/redfin/react-server", 
+        "skillevel": "easy", 
+        "repo_name": "react-server", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/mozilla/pdf.js", 
+        "skillevel": "easy", 
+        "repo_name": "pdf.js", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            JavaScript\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/TalAter/annyang", 
+        "skillevel": "easy", 
+        "repo_name": "annyang", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            JavaScript\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/voxpupuli/puppet-mcollective", 
+        "skillevel": "easy", 
+        "repo_name": "puppet-mcollective", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/yarnpkg/yarn", 
+        "skillevel": "easy", 
+        "repo_name": "yarn", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/Leaflet/Leaflet", 
+        "skillevel": "easy", 
+        "repo_name": "Leaflet", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/TryGhost/Ghost", 
+        "skillevel": "easy", 
+        "repo_name": "Ghost", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n\n              JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/sindresorhus/ava", 
+        "skillevel": "easy", 
+        "repo_name": "ava", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/zeit/next.js", 
+        "skillevel": "easy", 
+        "repo_name": "next.js", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/pixijs/pixi.js", 
+        "skillevel": "easy", 
+        "repo_name": "pixi.js", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/mozilla/shumway", 
+        "skillevel": "easy", 
+        "repo_name": "shumway", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/reapp/reapp-ui", 
+        "skillevel": "easy", 
+        "repo_name": "reapp-ui", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/keystonejs/keystone", 
+        "skillevel": "easy", 
+        "repo_name": "keystone", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/chaijs/chai", 
+        "skillevel": "easy", 
+        "repo_name": "chai", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            Ruby\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/nskins/goby", 
+        "skillevel": "easy", 
+        "repo_name": "goby", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/cdnjs/cdnjs", 
+        "skillevel": "easy", 
+        "repo_name": "cdnjs", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          C#\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/shouldly/shouldly", 
+        "skillevel": "easy", 
+        "repo_name": "shouldly", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Rust\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/iron/iron", 
+        "skillevel": "easy", 
+        "repo_name": "iron", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/docker/docker", 
+        "skillevel": "easy", 
+        "repo_name": "docker", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            JavaScript\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/inolen/redream", 
+        "skillevel": "easy", 
+        "repo_name": "redream", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          HTML\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/zeit/hyper", 
+        "skillevel": "easy", 
+        "repo_name": "hyper", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            Go\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/spf13/hugo", 
+        "skillevel": "easy", 
+        "repo_name": "hugo", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Ruby\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/24pullrequests/24pullrequests", 
+        "skillevel": "easy", 
+        "repo_name": "24pullrequests", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/FreeCodeCamp/FreeCodeCamp", 
+        "skillevel": "easy", 
+        "repo_name": "FreeCodeCamp", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          HTML\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/borgbackup/borg", 
+        "skillevel": "easy", 
+        "repo_name": "borg", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            Rust\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/Manishearth/rust-clippy", 
+        "skillevel": "easy", 
+        "repo_name": "rust-clippy", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          C++\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/xoreos/xoreos", 
+        "skillevel": "easy", 
+        "repo_name": "xoreos", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n\n              HTML\n              \u2022\n            Built by\n              \n\n\n\n\n\n", 
+        "source": "github", 
+        "repo_link": "https://github.com/elischutze/grrrrl", 
+        "skillevel": "easy", 
+        "repo_name": "grrrrl", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/servo/servo", 
+        "skillevel": "easy", 
+        "repo_name": "servo", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Ruby\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/sinatra/sinatra", 
+        "skillevel": "easy", 
+        "repo_name": "sinatra", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/pinax/pinax", 
+        "skillevel": "easy", 
+        "repo_name": "pinax", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/sindresorhus/eslint-plugin-unicorn", 
+        "skillevel": "easy", 
+        "repo_name": "eslint-plugin-unicorn", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/tessel/t2-cli", 
+        "skillevel": "easy", 
+        "repo_name": "t2-cli", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Scala\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/playframework/playframework", 
+        "skillevel": "easy", 
+        "repo_name": "playframework", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/hasadna/Open-Knesset", 
+        "skillevel": "easy", 
+        "repo_name": "Open-Knesset", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/mozilla-services/cliquet", 
+        "skillevel": "easy", 
+        "repo_name": "cliquet", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            JavaScript\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/chtinahow/environmap", 
+        "skillevel": "easy", 
+        "repo_name": "environmap", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          TypeScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/formly-js/angular-formly", 
+        "skillevel": "easy", 
+        "repo_name": "angular-formly", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/python-babel/babel", 
+        "skillevel": "easy", 
+        "repo_name": "babel", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/emberjs/data", 
+        "skillevel": "easy", 
+        "repo_name": "data", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/eslint/eslint", 
+        "skillevel": "easy", 
+        "repo_name": "eslint", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/angular-ui/ui-layout", 
+        "skillevel": "easy", 
+        "repo_name": "ui-layout", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Clojure\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/LightTable/LightTable", 
+        "skillevel": "easy", 
+        "repo_name": "LightTable", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/emberjs/ember.js", 
+        "skillevel": "easy", 
+        "repo_name": "ember.js", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Swift\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/odigeoteam/TableViewKit", 
+        "skillevel": "easy", 
+        "repo_name": "TableViewKit", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Swift\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/rackt/react-router", 
+        "skillevel": "easy", 
+        "repo_name": "react-router", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Go\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/apex/apex", 
+        "skillevel": "easy", 
+        "repo_name": "apex", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "source": "github", 
+        "repo_link": "https://github.com/Microsoft/TypeScript", 
+        "skillevel": "easy", 
+        "repo_name": "TypeScript", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            JavaScript\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/johnstonbl01/clementinejs", 
+        "skillevel": "easy", 
+        "repo_name": "clementinejs", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Inno Setup\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/elixir-lang/elixir", 
+        "skillevel": "easy", 
+        "repo_name": "elixir", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/pouchdb/pouchdb", 
+        "skillevel": "easy", 
+        "repo_name": "pouchdb", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n            C\n            ", 
+        "source": "github", 
+        "repo_link": "https://github.com/radare/radare2", 
+        "skillevel": "easy", 
+        "repo_name": "radare2", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Ruby\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/voormedia/rails-erd", 
+        "skillevel": "easy", 
+        "repo_name": "rails-erd", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          JavaScript\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/tastejs/todomvc", 
+        "skillevel": "easy", 
+        "repo_name": "todomvc", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Python\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/mitmproxy/mitmproxy", 
+        "skillevel": "easy", 
+        "repo_name": "mitmproxy", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Clojure\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/alda-lang/alda", 
+        "skillevel": "easy", 
+        "repo_name": "alda", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Clojure\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22", 
+        "skillevel": "easy", 
+        "repo_name": "issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          XSLT\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/neovim/neovim", 
+        "skillevel": "easy", 
+        "repo_name": "neovim", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Elm\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/Kinto/kinto", 
+        "skillevel": "easy", 
+        "repo_name": "kinto", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          PHP\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/phpmyadmin/phpmyadmin", 
+        "skillevel": "easy", 
+        "repo_name": "phpmyadmin", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Rust\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/rust-lang-nursery/rustfmt", 
+        "skillevel": "easy", 
+        "repo_name": "rustfmt", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }, 
+    {
+        "repo_language": "\n          Ruby\n        ", 
+        "source": "github", 
+        "repo_link": "https://github.com/jruby/jruby", 
+        "skillevel": "easy", 
+        "repo_name": "jruby", 
+        "stargazers": "\n      703\n    ", 
+        "repo_description": "\n            Pants Build System\n          "
+    }
+]
