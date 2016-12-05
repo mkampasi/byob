@@ -8,11 +8,13 @@ repo_json_data = []
 unique_languages = []
 all_fos = []
 tags = {}
+cnt = 0;
 
 with open("../input/allLangLinks.txt",'r') as fin,open("../output/showcase_v1.2_master_dump.json","w+") as jsonfout:
 
 	for link in fin:
 		print "Processing :: " + link
+
 
 		repo_showcase_data = []
 		r = requests.get(link.strip())
@@ -22,6 +24,9 @@ with open("../input/allLangLinks.txt",'r') as fin,open("../output/showcase_v1.2_
 		meta_data_List = []
 
 		for row in repo_list_tag:
+			cnt += 1;
+			# print "Repo Count ::" + str(cnt) +"\n";
+
 			if(row is not None):
 				
 				repo_link = ""
@@ -31,6 +36,7 @@ with open("../input/allLangLinks.txt",'r') as fin,open("../output/showcase_v1.2_
 				data = {}
 
 				data["source"] = "github"
+				data["skilllevel"] = "not easy"
 
 				repo_header = row.find("div",{"class" : "mb-1"}).find("h3").find("a")['href']
 				if(repo_header is not None):
@@ -58,9 +64,9 @@ with open("../input/allLangLinks.txt",'r') as fin,open("../output/showcase_v1.2_
 				repo_stargazers = row.find("a",{"aria-label" : "Stargazers"})
 				if(repo_stargazers is not None):
 					data["stargazers"] = repo_stargazers.text.strip()
-					print repo_stargazers.text.strip()
 
 				repo_json_data.append(data)
 
 	final_dump = json.dumps(repo_json_data, indent=4)
 	jsonfout.write(final_dump)
+	print "Total number of repositories scraped  :: " + str(cnt);
