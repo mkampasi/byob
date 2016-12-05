@@ -1,0 +1,1165 @@
+[
+    {
+        "repo_language": "HTML", 
+        "source": "github", 
+        "repo_link": "https://github.com/makersacademy/preparetocode", 
+        "others": [
+            "ruby"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "preparetocode", 
+        "stargazers": 0, 
+        "repo_description": " "
+    }, 
+    {
+        "repo_language": "Go", 
+        "source": "github", 
+        "repo_link": "https://github.com/kubernetes/helm", 
+        "others": [
+            "go", 
+            "yaml"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "helm", 
+        "stargazers": 677, 
+        "repo_description": "The Kubernetes Package Manager"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/moment/moment", 
+        "others": [
+            "typescript", 
+            "javascript", 
+            "ecmascript"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "moment", 
+        "stargazers": 28913, 
+        "repo_description": "Parse, validate, manipulate, and display dates in javascript."
+    }, 
+    {
+        "repo_language": "SQF", 
+        "source": "github", 
+        "repo_link": "https://github.com/SpaceHunnies/antistasi", 
+        "others": [], 
+        "skillevel": "easy", 
+        "repo_name": "antistasi", 
+        "stargazers": 0, 
+        "repo_description": "Fork of Antistasi 1.6 for Arma 3"
+    }, 
+    {
+        "repo_language": "HTML", 
+        "source": "github", 
+        "repo_link": "https://github.com/hoodiehq/camp", 
+        "others": [], 
+        "skillevel": "easy", 
+        "repo_name": "camp", 
+        "stargazers": 42, 
+        "repo_description": "\ud83c\udfaa Welcome to Hoodie Camp!"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/scrapy/scrapy", 
+        "others": [
+            "python"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "scrapy", 
+        "stargazers": 17193, 
+        "repo_description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/lisa-lab/pylearn2", 
+        "others": [
+            "go", 
+            "pascal", 
+            "algorithm", 
+            "machine learning"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "pylearn2", 
+        "stargazers": 2250, 
+        "repo_description": "A Machine Learning library based on Theano"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/rackt/history", 
+        "others": [
+            "go", 
+            "ajax", 
+            "javascript", 
+            "ios", 
+            "slash"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "history", 
+        "stargazers": 1914, 
+        "repo_description": "Manage session history with JavaScript"
+    }, 
+    {
+        "repo_language": "C", 
+        "source": "github", 
+        "repo_link": "https://github.com/JuliaLang/julia", 
+        "others": [
+            "llvm", 
+            "cmake", 
+            "xcode", 
+            "processing", 
+            "julia", 
+            "fortran", 
+            "shell", 
+            "ssh", 
+            "clean", 
+            "linux", 
+            "go", 
+            "click", 
+            "bootstrap"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "julia", 
+        "stargazers": 7878, 
+        "repo_description": "The Julia Language: A fresh approach to technical computing."
+    }, 
+    {
+        "repo_language": "HTML", 
+        "source": "github", 
+        "repo_link": "https://github.com/TEAMMATES/teammates", 
+        "others": [
+            "go", 
+            "ajax", 
+            "html", 
+            "java", 
+            "css"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "teammates", 
+        "stargazers": 173, 
+        "repo_description": "This is the project website for the TEAMMATES feedback management tool for education"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/niccokunzmann/hanging_threads", 
+        "others": [
+            "python"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "hanging_threads", 
+        "stargazers": 0, 
+        "repo_description": "Deadlocks? Detect where your threads hang in Python with one import."
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/bevacqua/dragula", 
+        "others": [
+            "click", 
+            "css"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "dragula", 
+        "stargazers": 14286, 
+        "repo_description": "\ud83d\udc4c Drag and drop so simple it hurts"
+    }, 
+    {
+        "repo_language": "HTML", 
+        "source": "github", 
+        "repo_link": "https://github.com/catapult-project/catapult", 
+        "others": [
+            "android"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "catapult", 
+        "stargazers": 363, 
+        "repo_description": "Catapult"
+    }, 
+    {
+        "repo_language": "TypeScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/Microsoft/vscode", 
+        "others": [
+            "go"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "vscode", 
+        "stargazers": 20243, 
+        "repo_description": "Visual Studio Code"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/yourfirstpr/yourfirstpr", 
+        "others": [], 
+        "skillevel": "easy", 
+        "repo_name": "yourfirstpr", 
+        "stargazers": 7, 
+        "repo_description": " "
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/webpack/webpack", 
+        "others": [
+            "markdown", 
+            "java", 
+            "handlebars", 
+            "livescript", 
+            "javascript", 
+            "coffeescript", 
+            "typescript", 
+            "html", 
+            "css"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "webpack", 
+        "stargazers": 21425, 
+        "repo_description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+    }, 
+    {
+        "repo_language": "Shell", 
+        "source": "github", 
+        "repo_link": "https://github.com/cockpit-project/cockpit", 
+        "others": [
+            "docker", 
+            "html", 
+            "linux"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "cockpit", 
+        "stargazers": 1818, 
+        "repo_description": "Cockpit, an admin interface for Linux servers"
+    }, 
+    {
+        "repo_language": "Elm", 
+        "source": "github", 
+        "repo_link": "https://github.com/Kinto/kinto.js", 
+        "others": [
+            "javascript"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "kinto.js", 
+        "stargazers": 101, 
+        "repo_description": "An Offline-First JavaScript Client for Kinto."
+    }, 
+    {
+        "repo_language": "VimL", 
+        "source": "github", 
+        "repo_link": "https://github.com/pantsbuild/pants", 
+        "others": [
+            "python", 
+            "c", 
+            "bootstrap", 
+            "java", 
+            "scala"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "pants", 
+        "stargazers": 703, 
+        "repo_description": "Pants Build System"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/serverless/serverless", 
+        "others": [
+            "python", 
+            "json", 
+            "php", 
+            "java"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "serverless", 
+        "stargazers": 13150, 
+        "repo_description": "Serverless Framework \u2013 Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! \u2013"
+    }, 
+    {
+        "repo_language": "Scala", 
+        "source": "github", 
+        "repo_link": "https://github.com/twitter/util", 
+        "others": [
+            "java", 
+            "scala"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "util", 
+        "stargazers": 1697, 
+        "repo_description": "Wonderful reusable code from Twitter"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/redfin/react-server", 
+        "others": [
+            "markdown", 
+            "javascript", 
+            "nginx", 
+            "html", 
+            "go", 
+            "bootstrap"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "react-server", 
+        "stargazers": 2863, 
+        "repo_description": "\ud83d\ude80 Blazing fast page load and seamless navigation."
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/mozilla/pdf.js", 
+        "others": [
+            "go", 
+            "node.js", 
+            "pascal"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "pdf.js", 
+        "stargazers": 16355, 
+        "repo_description": "PDF Reader in JavaScript"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/TalAter/annyang", 
+        "others": [
+            "javascript"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "annyang", 
+        "stargazers": 3610, 
+        "repo_description": "\ud83d\udcac Speech recognition for your site"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/voxpupuli/puppet-mcollective", 
+        "others": [
+            "ruby", 
+            "puppet", 
+            "ssh", 
+            "rabbitmq", 
+            "encryption"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "puppet-mcollective", 
+        "stargazers": 122, 
+        "repo_description": "MCollective Server and Client Puppet Module"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/yarnpkg/yarn", 
+        "others": [
+            "docker", 
+            "algorithm"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "yarn", 
+        "stargazers": 19998, 
+        "repo_description": "\ud83d\udce6\ud83d\udc08 Fast, reliable, and secure dependency management."
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/Leaflet/Leaflet", 
+        "others": [
+            "javascript", 
+            "css"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "Leaflet", 
+        "stargazers": 16891, 
+        "repo_description": "\ud83c\udf43 JavaScript library for mobile-friendly interactive maps"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/TryGhost/Ghost", 
+        "others": [
+            "hack"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "Ghost", 
+        "stargazers": 21337, 
+        "repo_description": "A simple, powerful publishing platform"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/sindresorhus/ava", 
+        "others": [
+            "node.js", 
+            "typescript", 
+            "javascript", 
+            "io", 
+            "clean"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "ava", 
+        "stargazers": 7294, 
+        "repo_description": "\ud83d\ude80 Futuristic JavaScript test runner"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/zeit/next.js", 
+        "others": [
+            "go", 
+            "javascript", 
+            "php", 
+            "fancy", 
+            "css"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "next.js", 
+        "stargazers": 6846, 
+        "repo_description": "A minimalistic framework for universal server-rendered React applications"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/pixijs/pixi.js", 
+        "others": [
+            "go", 
+            "node.js", 
+            "html", 
+            "javascript", 
+            "fancy"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "pixi.js", 
+        "stargazers": 12295, 
+        "repo_description": "Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/mozilla/shumway", 
+        "others": [
+            "ats", 
+            "hack"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "shumway", 
+        "stargazers": 3340, 
+        "repo_description": "Shumway is a Flash VM and runtime written in JavaScript"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/reapp/reapp-ui", 
+        "others": [
+            "ios", 
+            "css"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "reapp-ui", 
+        "stargazers": 262, 
+        "repo_description": "Amazing cross platform UI's with React and JavaScript"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/keystonejs/keystone", 
+        "others": [
+            "go", 
+            "node.js", 
+            "html", 
+            "database"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "keystone", 
+        "stargazers": 8393, 
+        "repo_description": "node.js cms and web app framework"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/chaijs/chai", 
+        "others": [
+            "node.js", 
+            "javascript"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "chai", 
+        "stargazers": 3591, 
+        "repo_description": "BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework."
+    }, 
+    {
+        "repo_language": "Ruby", 
+        "source": "github", 
+        "repo_link": "https://github.com/nskins/goby", 
+        "others": [
+            "html", 
+            "ruby"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "goby", 
+        "stargazers": 14, 
+        "repo_description": "Ruby framework for developing text-RPGs."
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/cdnjs/cdnjs", 
+        "others": [
+            "go", 
+            "javascript", 
+            "css", 
+            "clean"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "cdnjs", 
+        "stargazers": 4193, 
+        "repo_description": "The best FOSS web front-end resource CDN maintained by @PeterDaveHello @ryankirkman @thomasdavis"
+    }, 
+    {
+        "repo_language": "C#", 
+        "source": "github", 
+        "repo_link": "https://github.com/shouldly/shouldly", 
+        "others": [
+            "go", 
+            "nuget", 
+            ".net", 
+            "database"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "shouldly", 
+        "stargazers": 497, 
+        "repo_description": "Should testing for .NET - the way Asserting *Should* be!"
+    }, 
+    {
+        "repo_language": "Rust", 
+        "source": "github", 
+        "repo_link": "https://github.com/iron/iron", 
+        "others": [
+            "algorithm", 
+            "rust"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "iron", 
+        "stargazers": 3557, 
+        "repo_description": "An Extensible, Concurrent Web Framework for Rust"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/docker/docker", 
+        "others": [
+            "shell", 
+            "python", 
+            "linux", 
+            "unix", 
+            "hack", 
+            "docker", 
+            "cool"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "docker", 
+        "stargazers": 37504, 
+        "repo_description": "Docker - the open-source application container engine"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/inolen/redream", 
+        "others": [
+            "xcode", 
+            "c", 
+            "makefile", 
+            "gdb", 
+            "ubuntu"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "redream", 
+        "stargazers": 70, 
+        "repo_description": "Work In Progress SEGA Dreamcast emulator"
+    }, 
+    {
+        "repo_language": "HTML", 
+        "source": "github", 
+        "repo_link": "https://github.com/zeit/hyper", 
+        "others": [
+            "python", 
+            "markdown", 
+            "linux"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "hyper", 
+        "stargazers": 10604, 
+        "repo_description": "A terminal built on web technologies"
+    }, 
+    {
+        "repo_language": "Go", 
+        "source": "github", 
+        "repo_link": "https://github.com/spf13/hugo", 
+        "others": [
+            "go", 
+            "html", 
+            "markdown", 
+            "css"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "hugo", 
+        "stargazers": 13545, 
+        "repo_description": "A Fast and Flexible Static Site Generator built with love in GoLang"
+    }, 
+    {
+        "repo_language": "Ruby", 
+        "source": "github", 
+        "repo_link": "https://github.com/24pullrequests/24pullrequests", 
+        "others": [
+            "postgresql", 
+            "javascript", 
+            "hack", 
+            "linux", 
+            "go", 
+            "ruby"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "24pullrequests", 
+        "stargazers": 930, 
+        "repo_description": "\ud83c\udf84 Giving back little gifts of code for Christmas"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/FreeCodeCamp/FreeCodeCamp", 
+        "others": [
+            "javascript"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "FreeCodeCamp", 
+        "stargazers": 203414, 
+        "repo_description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+    }, 
+    {
+        "repo_language": "HTML", 
+        "source": "github", 
+        "repo_link": "https://github.com/borgbackup/borg", 
+        "others": [
+            "python", 
+            "diff", 
+            "encryption"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "borg", 
+        "stargazers": 1712, 
+        "repo_description": "Deduplicating backup program with compression and authenticated encryption."
+    }, 
+    {
+        "repo_language": "Rust", 
+        "source": "github", 
+        "repo_link": "https://github.com/Manishearth/rust-clippy", 
+        "others": [
+            "python", 
+            "c", 
+            "mask", 
+            "rust"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "rust-clippy", 
+        "stargazers": 979, 
+        "repo_description": "A bunch of lints to catch common mistakes and improve your Rust code"
+    }, 
+    {
+        "repo_language": "C++", 
+        "source": "github", 
+        "repo_link": "https://github.com/xoreos/xoreos", 
+        "others": [
+            "cmake"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "xoreos", 
+        "stargazers": 379, 
+        "repo_description": "A reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P"
+    }, 
+    {
+        "repo_language": "HTML", 
+        "source": "github", 
+        "repo_link": "https://github.com/elischutze/grrrrl", 
+        "others": [
+            "cool"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "grrrrl", 
+        "stargazers": 2, 
+        "repo_description": "grrrrl is a project to compile tech talks by underrepresented communities in the technology industry in a website."
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/servo/servo", 
+        "others": [
+            "python", 
+            "android", 
+            "shell", 
+            "cmake", 
+            "rust"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "servo", 
+        "stargazers": 8366, 
+        "repo_description": "The Servo Browser Engine"
+    }, 
+    {
+        "repo_language": "Ruby", 
+        "source": "github", 
+        "repo_link": "https://github.com/sinatra/sinatra", 
+        "others": [
+            "c", 
+            "tea", 
+            "processing", 
+            "json", 
+            "ajax", 
+            "io", 
+            "ruby"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "sinatra", 
+        "stargazers": 8479, 
+        "repo_description": "Classy web-development dressed in a DSL (official / canonical repo)"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/pinax/pinax", 
+        "others": [
+            "django"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "pinax", 
+        "stargazers": 2076, 
+        "repo_description": "a Django-based platform for rapidly developing websites"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/sindresorhus/eslint-plugin-unicorn", 
+        "others": [
+            "node.js"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "eslint-plugin-unicorn", 
+        "stargazers": 91, 
+        "repo_description": "Various awesome ESLint rules"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/tessel/t2-cli", 
+        "others": [
+            "node.js", 
+            "d", 
+            "bash", 
+            "powershell"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "t2-cli", 
+        "stargazers": 77, 
+        "repo_description": "Command line interface to Tessel 2."
+    }, 
+    {
+        "repo_language": "Scala", 
+        "source": "github", 
+        "repo_link": "https://github.com/playframework/playframework", 
+        "others": [
+            "json", 
+            "java", 
+            "scala"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "playframework", 
+        "stargazers": 8688, 
+        "repo_description": "Play Framework"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/hasadna/Open-Knesset", 
+        "others": [
+            "python", 
+            "django"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "Open-Knesset", 
+        "stargazers": 78, 
+        "repo_description": "A project aimed at making the Israeli Knesset more transparent. Python and Django based"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/mozilla-services/cliquet", 
+        "others": [], 
+        "skillevel": "easy", 
+        "repo_name": "cliquet", 
+        "stargazers": 69, 
+        "repo_description": "CLIQUET IS NOW DEPRECATED use kinto.core instead"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/chtinahow/environmap", 
+        "others": [
+            "docker", 
+            "bootstrap"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "environmap", 
+        "stargazers": 0, 
+        "repo_description": "Enviornmental web application for Usability"
+    }, 
+    {
+        "repo_language": "TypeScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/formly-js/angular-formly", 
+        "others": [
+            "go", 
+            "javascript", 
+            "angularjs"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "angular-formly", 
+        "stargazers": 2171, 
+        "repo_description": "JavaScript powered forms for AngularJS"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/python-babel/babel", 
+        "others": [
+            "python", 
+            "html"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "babel", 
+        "stargazers": 547, 
+        "repo_description": "The official repository for Babel, the Python Internationalization Library"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/emberjs/data", 
+        "others": [
+            "node.js", 
+            "json", 
+            "javascript"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "data", 
+        "stargazers": 2741, 
+        "repo_description": "A data persistence library for Ember.js."
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/eslint/eslint", 
+        "others": [
+            "javascript", 
+            "ecmascript"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "eslint", 
+        "stargazers": 6421, 
+        "repo_description": "A fully pluggable tool for identifying and reporting on patterns in JavaScript."
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/angular-ui/ui-layout", 
+        "others": [], 
+        "skillevel": "easy", 
+        "repo_name": "ui-layout", 
+        "stargazers": 395, 
+        "repo_description": "This directive allows you to split !"
+    }, 
+    {
+        "repo_language": "Clojure", 
+        "source": "github", 
+        "repo_link": "https://github.com/LightTable/LightTable", 
+        "others": [
+            "clojure", 
+            "click"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "LightTable", 
+        "stargazers": 9336, 
+        "repo_description": "The Light Table IDE"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/emberjs/ember.js", 
+        "others": [
+            "html", 
+            "javascript", 
+            "handlebars"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "ember.js", 
+        "stargazers": 17198, 
+        "repo_description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+    }, 
+    {
+        "repo_language": "Swift", 
+        "source": "github", 
+        "repo_link": "https://github.com/odigeoteam/TableViewKit", 
+        "others": [
+            "ios"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "TableViewKit", 
+        "stargazers": 11, 
+        "repo_description": "Empowering UITableView with painless multi-type cell support and build-in automatic state transition animations"
+    }, 
+    {
+        "repo_language": "Swift", 
+        "source": "github", 
+        "repo_link": "https://github.com/rackt/react-router", 
+        "others": [], 
+        "skillevel": "easy", 
+        "repo_name": "react-router", 
+        "stargazers": 17970, 
+        "repo_description": "Declarative routing for React"
+    }, 
+    {
+        "repo_language": "Go", 
+        "source": "github", 
+        "repo_link": "https://github.com/apex/apex", 
+        "others": [
+            "apex", 
+            "node.js", 
+            "json", 
+            "slash", 
+            "hack", 
+            "go"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "apex", 
+        "stargazers": 4180, 
+        "repo_description": "Build, deploy, and manage AWS Lambda functions with ease (with Go support!)."
+    }, 
+    {
+        "repo_language": "TypeScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/Microsoft/TypeScript", 
+        "others": [
+            ".net", 
+            "typescript", 
+            "javascript", 
+            "clean"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "TypeScript", 
+        "stargazers": 17245, 
+        "repo_description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/johnstonbl01/clementinejs", 
+        "others": [
+            "ajax", 
+            "javascript", 
+            "click", 
+            "angularjs"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "clementinejs", 
+        "stargazers": 280, 
+        "repo_description": "The elegant and lightweight full stack JavaScript boilerplate."
+    }, 
+    {
+        "repo_language": "Inno Setup", 
+        "source": "github", 
+        "repo_link": "https://github.com/elixir-lang/elixir", 
+        "others": [
+            "erlang", 
+            "clean", 
+            "elixir"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "elixir", 
+        "stargazers": 8667, 
+        "repo_description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/pouchdb/pouchdb", 
+        "others": [
+            "jquery", 
+            "javascript", 
+            "selenium", 
+            "database"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "pouchdb", 
+        "stargazers": 7439, 
+        "repo_description": "\ud83d\udc28 - PouchDB is a pocket-sized database."
+    }, 
+    {
+        "repo_language": "C", 
+        "source": "github", 
+        "repo_link": "https://github.com/radare/radare2", 
+        "others": [
+            "python", 
+            "gdb", 
+            "shell", 
+            "ocaml", 
+            "ajax"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "radare2", 
+        "stargazers": 3663, 
+        "repo_description": "unix-like reverse engineering framework and commandline tools"
+    }, 
+    {
+        "repo_language": "Ruby", 
+        "source": "github", 
+        "repo_link": "https://github.com/voormedia/rails-erd", 
+        "others": [
+            "yaml", 
+            "ruby"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "rails-erd", 
+        "stargazers": 1842, 
+        "repo_description": "Generate Entity-Relationship Diagrams for Rails applications"
+    }, 
+    {
+        "repo_language": "JavaScript", 
+        "source": "github", 
+        "repo_link": "https://github.com/tastejs/todomvc", 
+        "others": [
+            "c#", 
+            "pascal", 
+            "javascript", 
+            "elm"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "todomvc", 
+        "stargazers": 19365, 
+        "repo_description": "Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more"
+    }, 
+    {
+        "repo_language": "Python", 
+        "source": "github", 
+        "repo_link": "https://github.com/mitmproxy/mitmproxy", 
+        "others": [
+            "python", 
+            "powershell", 
+            "hack"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "mitmproxy", 
+        "stargazers": 6138, 
+        "repo_description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers"
+    }, 
+    {
+        "repo_language": "Clojure", 
+        "source": "github", 
+        "repo_link": "https://github.com/alda-lang/alda", 
+        "others": [
+            "c", 
+            "java", 
+            "d", 
+            "linux", 
+            "e", 
+            "clojure", 
+            "click"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "alda", 
+        "stargazers": 2510, 
+        "repo_description": "A music programming language for musicians. \ud83c\udfb6"
+    }, 
+    {
+        "repo_language": "Clojure", 
+        "source": "github", 
+        "repo_link": "https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22", 
+        "others": [
+            "css"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22", 
+        "stargazers": 26507, 
+        "repo_description": " "
+    }, 
+    {
+        "repo_language": "XSLT", 
+        "source": "github", 
+        "repo_link": "https://github.com/neovim/neovim", 
+        "others": [
+            "lua", 
+            "clean"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "neovim", 
+        "stargazers": 20809, 
+        "repo_description": "Vim-fork focused on extensibility and agility."
+    }, 
+    {
+        "repo_language": "Elm", 
+        "source": "github", 
+        "repo_link": "https://github.com/Kinto/kinto", 
+        "others": [
+            "json", 
+            "postgresql", 
+            "docker"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "kinto", 
+        "stargazers": 2935, 
+        "repo_description": "A minimalist JSON storage service with synchronisation and sharing abilities."
+    }, 
+    {
+        "repo_language": "PHP", 
+        "source": "github", 
+        "repo_link": "https://github.com/phpmyadmin/phpmyadmin", 
+        "others": [
+            "php", 
+            "css", 
+            "mysql"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "phpmyadmin", 
+        "stargazers": 1954, 
+        "repo_description": "phpMyAdmin"
+    }, 
+    {
+        "repo_language": "Rust", 
+        "source": "github", 
+        "repo_link": "https://github.com/rust-lang-nursery/rustfmt", 
+        "others": [
+            "xml", 
+            "bootstrap", 
+            "json", 
+            "go", 
+            "diff", 
+            "rust"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "rustfmt", 
+        "stargazers": 915, 
+        "repo_description": "Format Rust code"
+    }, 
+    {
+        "repo_language": "Ruby", 
+        "source": "github", 
+        "repo_link": "https://github.com/jruby/jruby", 
+        "others": [
+            "ruby", 
+            "java", 
+            "e"
+        ], 
+        "skillevel": "easy", 
+        "repo_name": "jruby", 
+        "stargazers": 2705, 
+        "repo_description": "JRuby, an implementation of Ruby on the JVM"
+    }
+]

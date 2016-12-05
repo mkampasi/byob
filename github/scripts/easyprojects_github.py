@@ -58,14 +58,15 @@ for eachlink in links:
     resdict={}
     resdict["source"]="github"
     resdict["skillevel"]="easy"
-    resdict["repo_name"]=eachlink[eachlink.rfind("/")+1:]
-    page = resolve_redirects(link)
+    resdict["repo_name"]=eachlink[eachlink.rfind("/")+1:].strip()
+    page = resolve_redirects(eachlink)
     soup = BeautifulSoup(page)
-    resdict["repo_description"]=soup.find(itemprop="about").get_text()
+    if soup.find(itemprop="about"):
+        resdict["repo_description"]=soup.find(itemprop="about").get_text().strip()
+    else:
+        resdict["repo_description"]=""
     resdict["repo_link"]=eachlink
-    for elem1 in soup(text=re.compile(r"Star")):
-        resdict["stargazers"]= elem1.parent.parent.find('a',class_="js-social-count").get_text()
-    
+    resdict["stargazers"]= soup.find_all('a',{"class":"social-count"})[1].text.strip()
     lang_url = eachlink[0:eachlink.rfind("/")]
     lang_repo_name=eachlink[eachlink.rfind("/")+1:]
     page = resolve_redirects(lang_url)
@@ -74,13 +75,13 @@ for eachlink in links:
         elem = elem.parent
     while 1==1:
         if elem.find(itemprop="programmingLanguage") is not None:
-            resdict["repo_language"] = elem.find(itemprop="programmingLanguage").get_text()
+            resdict["repo_language"] = elem.find(itemprop="programmingLanguage").get_text().strip()
             break
         elif elem.findAll('span',{"class":"repo-language-color"}):
             if elem.findAll('p',{"class":"f6"}):
-                resdict["repo_language"]=elem.findAll('p',{"class":"f6"})[0].get_text('|').split('|')[1]
+                resdict["repo_language"]=elem.findAll('p',{"class":"f6"})[0].get_text('|').split('|')[1].strip()
             elif elem.findAll('span',{"class":"f6"}):
-                resdict["repo_language"] = elem.findAll('span',{"class":"f6"})[0].text
+                resdict["repo_language"] = elem.findAll('span',{"class":"f6"})[0].text.strip()
             break
         elem=elem.parent
     finalres.append(resdict)
