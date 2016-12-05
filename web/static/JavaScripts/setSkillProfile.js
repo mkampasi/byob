@@ -93,7 +93,7 @@ $(function(){
 
       // Reading Advanced search parameters here
 
-      var skill_level_val = $("input:radio[name='skill-level']:checked");
+      var skill_level_val = $("input:radio[name='skill-level']:checked").val();
       var result_req_cnt = $("input:text[name='result-req-cnt']").val();
 
       if(result_req_cnt == ''){
@@ -179,7 +179,7 @@ $(function(){
 
       $.ajax({
         'url': 'http://localhost:8983/solr/byob/select',
-        'data': {'wt':'json','indent':'true', 'q':"languages: " + queryString,'group' : 'true','group.field' : 'groupbycol', 'group.limit' : result_req_cnt, 'group.sort' : 'view_rank asc'},
+        'data': {'wt':'json','indent':'true', 'q':"languages: " + queryString+" AND skillevel:("+skill_level_val+" OR any)",'group' : 'true','group.field' : 'groupbycol', 'group.limit' : result_req_cnt, 'group.sort' : 'view_rank asc'},
         'dataType': 'jsonp',
         'jsonp': 'json.wrf'
       }).done(function(data){
