@@ -3,6 +3,8 @@ import sys
 from bs4 import BeautifulSoup
 import urllib2
 import re
+from requests.exceptions import HTTPError
+
 reload(sys)  
 sys.setdefaultencoding('utf8')
 #Load master list of teachnologies 
@@ -14,7 +16,7 @@ with open('../output/'  + 'languages.json') as lang_file:
     languages = json.load(lang_file)
     
 #Open the github crawled data
-with open('../output/'  + 'github_easyprojects.json') as links_file:
+with open('../output/'  + 'showcase_v1.2_master_dump.json') as links_file:
     easyprojects = json.load(links_file)
 
 others = [] 
@@ -22,7 +24,13 @@ others = []
 #Perform unstructured extraction for technology names on the README.md file for each project
 for record in easyprojects:
     url = record["repo_link"]
-    page = urllib2.urlopen(url)
+    print "Processing :: " + url
+    try:
+        page = urllib2.urlopen(url)
+    except urllib2.HTTPError:
+        print 'Error occurred for link :: ' + url
+        continue
+
     soup = BeautifulSoup(page)
     readme = soup.find('div', class_='readme')
     mergedlist = languages + technologies
@@ -39,5 +47,5 @@ for record in easyprojects:
     else:
         record["others"]=""
     
-f = open('../output/'  + 'github_easyproject2.json','w+')
+f = open('../output/'  + 'github_final_dump.json','w+')
 f.write(json.dumps(easyprojects,indent=4))

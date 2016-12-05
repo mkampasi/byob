@@ -127,9 +127,9 @@ a:link, a:visited  {
 	height: 40px;
 }
 #popups{
-	width: 60%;
-	margin: 0 auto;
-	padding-left: 20px;
+	width: 70%;
+	/*margin: 0 auto;*/
+	padding-left: 160px;
 }
 .suggestions{
 	padding-top: 10px;
