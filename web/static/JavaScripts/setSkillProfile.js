@@ -156,14 +156,17 @@ $(function(){
             src += "<tr><td class = 'desc-cell'>"+objValue.repo_description+"</td></tr>";
           }
           var tagStr = '';
-          if(objValue.other[0] != undefined)
+
+          if(objValue.other != undefined)
             var tags = objValue.other[0].split(',');
         
           tagStr += "<div class = 'tag-div'>" + objValue.languages +"</div>";
-          $.each(tags,function(key,value){
-              tagStr += "<div class = 'tag-div'>" + value +"</div>";
-              
-          });
+          
+          if(tags != undefined)
+            $.each(tags,function(key,value){
+                tagStr += "<div class = 'tag-div'>" + value +"</div>";
+                
+            });
 
           src += "<tr><td class = 'tags-cell'>"+tagStr+"</td></tr></table></td>";
           var url = objValue.url;
@@ -185,7 +188,6 @@ $(function(){
       }).done(function(data){
         
         // populate results fields from here
-
         //populated filters here 
         $("<tr class = 'single-filter-cell'><td><button type='button' class='btn btn-default filterbtn' style='width: 150px; color: #006bb3;'>All<span class='glyphicon glyphicon-chevron-right' style='float:right;'></span></button></td></tr>").appendTo("#filter-table");
         $.each(userJSONObj.selectedLang,function(key,skill){
